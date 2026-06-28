@@ -21,7 +21,7 @@ jobs:
         with:
           python-version: "3.12"
       - name: Install ffmpeg + Hindi font
-        run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-noto-devanagari
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-noto-core
       - name: Install dependencies
         run: pip install -r requirements.txt
       - name: Write Google Cloud key from secret
