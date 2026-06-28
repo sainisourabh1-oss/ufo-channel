@@ -28,8 +28,7 @@ def build():
     video_id = ist_now().strftime("%Y%m%d") + "_" + case["case_id"]
     print(f"[run] building {video_id} — {case.get('title')}")
 
-    # 2. Script: use a prewritten, fact-checked script if the case has one
-    #    (this is how video #1 ships), else let the AI writer draft + validate.
+    # 2. Script: prewritten if a curated case has one, else Gemini writes it.
     script = case.get("prewritten")
     if script:
         print("[run] using prewritten, fact-checked script")
@@ -38,31 +37,37 @@ def build():
     if not script:
         return _skip("script failed validation")
 
-    # attach asset URLs to shots (prewritten shots already carry their own url)
-    label_to_url = {}
-    for a in case.get("assets", []):
-        label_to_url[a.get("source_label") or a.get("label")] = a.get("url") or a.get("local")
-    for shot in script["shot_list"]:
-        if not shot.get("url"):
-            shot["url"] = label_to_url.get(shot.get("source_label"))
+    # 3. Images.
+    if case.get("prewritten"):
+        label_to_url = {(a.get("source_label") or a.get("label")): a.get("url")
+                        for a in case.get("assets", [])}
+        for shot in script["shot_list"]:
+            if not shot.get("url"):
+                shot["url"] = label_to_url.get(shot.get("source_label"))
+    else:
+        n = max(6, len(script["shot_list"]))
+        imgs = source_news.fetch_commons_images(case.get("image_queries", [case["title"]]), n=n)
+        if len(imgs) < 3:
+            return _skip("too few public-domain images for this case")
+        for i, shot in enumerate(script["shot_list"]):
+            shot["url"] = imgs[i % len(imgs)]
+            shot["source_label"] = case.get("title", "")
 
-    # 3. Narration -> assemble -> shorts.
+    # 4. Narration -> assemble -> shorts.
     mp3 = narrate.narrate(video_id, script["script_hi"])
     long_mp4 = assemble.assemble(video_id, script, mp3)
     short_files = shorts.make_shorts(video_id, long_mp4)
 
-    # 4. Upload long video as PRIVATE.
+    # 5. Upload long video as PRIVATE.
     meta = metadata.build(script, is_short=False)
     vid = upload.upload_private(long_mp4, meta)
-
-    # upload shorts as private too (they ride the same approval)
     for sf in short_files:
         try:
             upload.upload_private(sf, metadata.build(script, is_short=True))
         except Exception as e:
             print(f"[run] short upload skipped: {e}")
 
-    # 5. Record + hand off to the approval gate.
+    # 6. Record + hand off to the approval gate.
     dedup.log(case["case_id"], meta["title"], vid)
     (workdir(video_id) / "meta.json").write_text(
         json.dumps({"video_id": vid, **meta}, ensure_ascii=False, indent=2), encoding="utf-8")
