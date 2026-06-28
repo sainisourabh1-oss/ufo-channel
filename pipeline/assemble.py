@@ -1,23 +1,26 @@
 """
 Assembles the long-form video with ffmpeg:
-  stills -> Ken Burns pan/zoom, on-screen source labels, concat,
-  narration audio + ducked background music, burned-in Hindi captions.
+  stills -> Ken Burns pan/zoom, small on-screen source labels, concat,
+  narration audio (+ optional ducked background music).
 
-This is the stage most likely to need small tuning on the first real run
-(fonts, exact filter syntax). It is written to be readable and adjustable.
+No burned-in narration captions (removed by request).
 """
-import json
-import shutil
 import subprocess
 from pathlib import Path
 import requests
+from PIL import Image
 from .settings import CONFIG, workdir, ROOT
 
 VID = CONFIG["video"]
 W, H, FPS = VID["width"], VID["height"], VID["fps"]
-# A font that renders Devanagari. On the GitHub Ubuntu runner install with:
-#   sudo apt-get install -y fonts-noto-devanagari
+SHOW_LABELS = VID.get("source_labels", True)   # small source credit per shot
 FONT = "/usr/share/fonts/truetype/noto/NotoSansDevanagari-Regular.ttf"
+
+# Wikimedia (and many sites) REJECT requests without a descriptive User-Agent.
+# This header is the key fix for the black-screen problem.
+HEADERS = {
+    "User-Agent": "ufo-channel/1.0 (educational documentary project; contact legendshipper@gmail.com)"
+}
 
 
 def _run(cmd):
@@ -34,12 +37,21 @@ def _duration(path: Path) -> float:
 
 
 def _download(url: str, dest: Path) -> Path | None:
+    """Download an image, follow redirects, normalise any format to clean JPG.
+    Returns None (and logs why) if anything fails, so the slate fallback kicks in."""
     try:
-        r = requests.get(url, timeout=60); r.raise_for_status()
-        dest.write_bytes(r.content)
+        r = requests.get(url, headers=HEADERS, timeout=90, allow_redirects=True)
+        r.raise_for_status()
+        raw = dest.with_suffix(".raw")
+        raw.write_bytes(r.content)
+        # Image.open validates it's a real image AND lets us accept png/tiff/webp.
+        with Image.open(raw) as im:
+            im.convert("RGB").save(dest, "JPEG", quality=90)
+        raw.unlink(missing_ok=True)
+        print(f"[assemble] fetched OK: {url}  ({dest.stat().st_size} bytes)")
         return dest
     except Exception as e:
-        print(f"[assemble] could not fetch {url}: {e}")
+        print(f"[assemble] could NOT fetch {url}  ->  {e}")
         return None
 
 
@@ -49,58 +61,55 @@ def _escape(text: str) -> str:
 
 def _kenburns_clip(img: Path, seconds: float, label: str, out: Path):
     frames = max(1, int(seconds * FPS))
-    drawtext = (f"drawtext=fontfile={FONT}:text='{_escape(label)}':"
-                f"x=40:y=H-80:fontsize=34:fontcolor=white:box=1:"
-                f"boxcolor=black@0.55:boxborderw=12")
-    vf = (f"scale={W*2}:-1,"
-          f"zoompan=z='min(zoom+0.0008,1.25)':d={frames}:s={W}x{H}:fps={FPS},"
-          f"{drawtext}")
+    vf = (f"scale={W*2}:-2,"
+          f"zoompan=z='min(zoom+0.0008,1.25)':d={frames}:s={W}x{H}:fps={FPS}")
+    if SHOW_LABELS and label:
+        vf += (f",drawtext=fontfile={FONT}:text='{_escape(label)}':"
+               f"x=40:y=H-80:fontsize=34:fontcolor=white:box=1:"
+               f"boxcolor=black@0.55:boxborderw=12")
     _run(["ffmpeg", "-y", "-loop", "1", "-i", str(img), "-t", f"{seconds:.2f}",
           "-vf", vf, "-c:v", "libx264", "-pix_fmt", "yuv420p", "-r", str(FPS), str(out)])
 
 
-def assemble(video_id: str, script: dict, narration_mp3: Path, srt: Path) -> Path:
+def assemble(video_id: str, script: dict, narration_mp3: Path) -> Path:
     wd = workdir(video_id)
     shots = script["shot_list"]
     total = _duration(narration_mp3)
     per = total / max(1, len(shots))
 
-    # 1) Build one Ken Burns clip per shot.
+    fetched = 0
     clips = []
     for i, shot in enumerate(shots):
         img = wd / f"shot_{i:02}.jpg"
         url = shot.get("url") or shot.get("visual_url")
-        ok = _download(url, img) if url and url.startswith("http") else None
-        if not ok:
-            # fallback: neutral dark slate so the run still completes
+        ok = _download(url, img) if url and str(url).startswith("http") else None
+        if ok:
+            fetched += 1
+        else:
             _run(["ffmpeg", "-y", "-f", "lavfi", "-i", f"color=c=0x0a0a12:s={W}x{H}",
                   "-frames:v", "1", str(img)])
         clip = wd / f"clip_{i:02}.mp4"
         _kenburns_clip(img, per, shot.get("source_label", ""), clip)
         clips.append(clip)
+    print(f"[assemble] images fetched: {fetched}/{len(shots)}")
 
-    # 2) Concatenate the silent video clips.
     concat_list = wd / "concat.txt"
     concat_list.write_text("".join(f"file '{c}'\n" for c in clips), encoding="utf-8")
     silent = wd / "silent.mp4"
     _run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", str(concat_list),
           "-c", "copy", str(silent)])
 
-    # 3) Mux narration (+ ducked music if present) and burn captions.
     music = next(iter(sorted((ROOT / "assets" / "music").glob("*.mp3"))), None)
     out = wd / "long.mp4"
-    subs = f"subtitles={srt}:force_style='FontName=Noto Sans Devanagari,FontSize=20,Outline=2'"
-
     if music:
-        # narration ducks the music via sidechain compression
         filt = ("[2:a]volume=0.18[m];"
                 "[1:a][m]sidechaincompress=threshold=0.03:ratio=8:attack=20:release=300[a]")
         _run(["ffmpeg", "-y", "-i", str(silent), "-i", str(narration_mp3), "-i", str(music),
               "-filter_complex", filt, "-map", "0:v", "-map", "[a]",
-              "-vf", subs, "-shortest", "-c:v", "libx264", "-c:a", "aac", str(out)])
+              "-shortest", "-c:v", "libx264", "-c:a", "aac", str(out)])
     else:
         _run(["ffmpeg", "-y", "-i", str(silent), "-i", str(narration_mp3),
-              "-map", "0:v", "-map", "1:a", "-vf", subs,
+              "-map", "0:v", "-map", "1:a",
               "-shortest", "-c:v", "libx264", "-c:a", "aac", str(out)])
 
     print(f"[assemble] wrote {out}")
