@@ -7,7 +7,7 @@ Orchestrates the pipeline.
 import argparse
 import json
 from .settings import ist_now, set_output, workdir
-from . import source_news, script_gen, narrate, captions, assemble, shorts, metadata, dedup, upload
+from . import source_news, script_gen, narrate, assemble, shorts, metadata, dedup, upload
 
 
 def _skip(reason: str):
@@ -46,10 +46,9 @@ def build():
         if not shot.get("url"):
             shot["url"] = label_to_url.get(shot.get("source_label"))
 
-    # 3. Narration -> captions -> assemble -> shorts.
+    # 3. Narration -> assemble -> shorts.
     mp3 = narrate.narrate(video_id, script["script_hi"])
-    srt = captions.captions(video_id, mp3)
-    long_mp4 = assemble.assemble(video_id, script, mp3, srt)
+    long_mp4 = assemble.assemble(video_id, script, mp3)
     short_files = shorts.make_shorts(video_id, long_mp4)
 
     # 4. Upload long video as PRIVATE.
