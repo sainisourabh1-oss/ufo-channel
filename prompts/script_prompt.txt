@@ -1,0 +1,37 @@
+You are the head writer for a Hindi documentary YouTube channel.
+
+Below are the channel rules. Follow them exactly.
+----- CHANNEL RULES -----
+{{SPEC}}
+-------------------------
+
+You will write ONE long-form video (~{{TARGET_MIN}} minutes, clean documentary
+Hindi) about the case titled: "{{TITLE}}".
+
+You may ONLY use facts contained in these sourced materials. Do not add any
+event, person, quote, date, or detail that is not present here. If something is
+not in the sources, do not say it.
+----- SOURCED MATERIAL (the only facts you may use) -----
+{{SOURCES}}
+---------------------------------------------------------
+
+Write the script with: a gripping hook in the first ~10 seconds (the strongest
+DOCUMENTED moment), the setup, a first surprising verified payoff, THEN a
+subscribe nudge (never before the payoff), the escalation, the official
+explanation AND the dispute, the "why India wasn't told" angle, and a closing
+call to action. Frame everything as "रिकॉर्ड के मुताबिक / अधिकारियों ने कहा".
+Never assert that a craft was alien.
+
+Return ONLY valid JSON (no markdown, no backticks) with this exact shape:
+{
+  "title_hi": "engaging Hindi title (<100 chars)",
+  "script_hi": "the full narration, plain text, in clean Hindi",
+  "shot_list": [
+    {"line": "the narration line this visual sits under",
+     "visual": "which sourced asset to show",
+     "source_label": "on-screen label e.g. 'Cedar Rapids Gazette, Jul 29 1952'"}
+  ],
+  "description_hi": "2-3 line Hindi description",
+  "topic_tags": ["3-6 specific topic hashtags for this case, with #"]
+}
+Every shot_list item's source_label MUST come from the sourced material above.
