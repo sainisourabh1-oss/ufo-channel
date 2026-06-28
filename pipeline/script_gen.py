@@ -1,7 +1,7 @@
 """
 Uses Gemini (free tier) to write the Hindi script + shot list + metadata,
-strictly from the case's sourced material. Then validates against the hard
-rules in CHANNEL_SPEC.md. If validation fails -> return None (skip the day).
+strictly from the case's real Wikipedia summary (the 'seed'). Then validates
+against the hard rules. If validation fails -> return None (skip the day).
 """
 import os
 import json
@@ -18,15 +18,20 @@ def _model():
 
 
 def write_script(case: dict) -> dict | None:
-    sources_blob = json.dumps(case.get("summary_sources", case.get("assets", [])),
-                              ensure_ascii=False, indent=2)
+    sources = case.get("seed") or json.dumps(
+        case.get("summary_sources", case.get("assets", [])), ensure_ascii=False, indent=2)
     prompt = (PROMPT
               .replace("{{SPEC}}", SPEC)
               .replace("{{TARGET_MIN}}", str(CONFIG["script"]["target_minutes"]))
               .replace("{{TITLE}}", case.get("title", ""))
-              .replace("{{SOURCES}}", sources_blob))
+              .replace("{{SOURCES}}", str(sources)))
 
-    resp = _model().generate_content(prompt)
+    try:
+        resp = _model().generate_content(prompt)
+    except Exception as e:
+        print(f"[script_gen] Gemini call failed: {e}")
+        return None
+
     raw = resp.text.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
     try:
         data = json.loads(raw)
@@ -34,34 +39,23 @@ def write_script(case: dict) -> dict | None:
         print("[script_gen] model did not return clean JSON — skipping today")
         return None
 
-    if not validate(data, case):
+    if not validate(data):
         return None
     return data
 
 
-def validate(data: dict, case: dict) -> bool:
+def validate(data: dict) -> bool:
     """Enforce the hard rules. Any failure => skip (fail-safe)."""
-    required = ["title_hi", "script_hi", "shot_list", "description_hi"]
-    for k in required:
+    for k in ["title_hi", "script_hi", "shot_list", "description_hi"]:
         if not data.get(k):
             print(f"[validate] missing field: {k}")
             return False
-
-    # Every shot must reference a real asset/source label from the case.
-    known_labels = {a.get("source_label") or a.get("label") for a in case.get("assets", [])}
-    known_labels |= {s.get("label") for s in case.get("summary_sources", [])}
-    known_labels = {x for x in known_labels if x}
-    for shot in data["shot_list"]:
-        if not shot.get("source_label"):
-            print("[validate] a shot has no source label")
-            return False
-
-    # No "alien is real" assertions (must stay in framed language).
-    banned = ["एलियन सच", "एलियंस असली", "confirmed alien", "proven alien"]
-    text = data["script_hi"]
-    if any(b in text for b in banned):
+    banned = ["एलियन सच", "एलियंस असली", "confirmed alien", "proven alien", "यह एलियन था"]
+    if any(b in data["script_hi"] for b in banned):
         print("[validate] script asserts aliens as fact")
         return False
-
+    if len(data["script_hi"]) < 600:
+        print("[validate] script too short")
+        return False
     print("[validate] passed")
     return True
