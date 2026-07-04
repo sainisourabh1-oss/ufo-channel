@@ -19,8 +19,6 @@ def _skip(reason: str):
 
 def build():
     # 1. Find a fresh case that ALSO has enough usable images.
-    #    Images are checked before writing the script (cheap first), and we try
-    #    several cases in one run so a single click reliably produces a video.
     tried, case, imgs = set(), None, []
     for _ in range(12):
         c = source_news.pick_case(exclude=tried)
@@ -41,8 +39,7 @@ def build():
     video_id = ist_now().strftime("%Y%m%d") + "_" + case["case_id"]
     print(f"[run] building {video_id} — {case.get('title')}")
 
-    # 2. Script: use a prewritten, fact-checked script if the case has one,
-    #    else let the AI writer draft + validate.
+    # 2. Script.
     script = case.get("prewritten")
     if script:
         print("[run] using prewritten, fact-checked script")
@@ -63,13 +60,13 @@ def build():
             shot["url"] = imgs[i % len(imgs)]
             shot["source_label"] = case.get("title", "")
 
-# 4. Narration -> assemble (one clean final video, no shorts).
-      mp3 = narrate.narrate(video_id, script["script_hi"])
-      long_mp4 = assemble.assemble(video_id, script, mp3)
+    # 4. Narration -> assemble (one clean final video, no shorts).
+    mp3 = narrate.narrate(video_id, script["script_hi"])
+    long_mp4 = assemble.assemble(video_id, script, mp3)
 
-      # 5. Upload the video as PRIVATE.
-      meta = metadata.build(script, is_short=False)
-      vid = upload.upload_private(long_mp4, meta)
+    # 5. Upload the video as PRIVATE.
+    meta = metadata.build(script, is_short=False)
+    vid = upload.upload_private(long_mp4, meta)
 
     # 6. Record + hand off to the approval gate.
     dedup.log(case["case_id"], meta["title"], vid)
