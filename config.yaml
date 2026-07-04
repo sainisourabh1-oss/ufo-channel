@@ -33,9 +33,11 @@ video:
   height: 1080
   fps: 30
   kenburns: true                      # slow pan/zoom on stills & newspaper scans
+  seconds_per_image: 3
+    source_labels: false
 
 shorts:
-  enabled: true
+  enabled: false
   count: 3                            # auto-cut from the long video's strongest hooks
   max_seconds: 58
   width: 1080
