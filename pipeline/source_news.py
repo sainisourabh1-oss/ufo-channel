@@ -1,27 +1,30 @@
 """
 Autonomous case discovery.
 
-Each run this:
-  1. Pulls a large live list of DOCUMENTED UFO cases from Wikipedia
-     (the 'List of reported UFO sightings' article + UFO categories).
-  2. Skips any case already in the dedup ledger (never repeats).
-  3. Takes a fresh case, pulls its real Wikipedia summary as the factual
-     basis for the script, and finds public-domain images for it.
+- Pulls real UFO cases from Wikipedia UFO CATEGORIES (curated -> relevant),
+  not arbitrary article links (which leaked junk like '1321 lepers plot').
+- Verifies each candidate actually reads like a UFO case.
+- Finds usable images (public domain or CC-BY, no share-alike) from Commons.
 """
+import re
 import random
 import requests
 from pathlib import Path
 from .settings import ROOT, CONFIG
 from . import dedup
 
-QUEUE = ROOT / "cases" / "queue"            # optional hand-made overrides
+QUEUE = ROOT / "cases" / "queue"
 WIKI_API = "https://en.wikipedia.org/w/api.php"
 COMMONS_API = "https://commons.wikimedia.org/w/api.php"
 HEADERS = {"User-Agent": "ufo-channel/1.0 (educational documentary; contact legendshipper@gmail.com)"}
 
-LIST_ARTICLES = ["List of reported UFO sightings", "List of UFO sightings"]
-CATEGORIES = ["Category:UFO sightings", "Category:UFO sightings in the United States"]
+CATEGORIES = ["Category:UFO sightings", "Category:UFO sightings in the United States",
+              "Category:UFO sightings by country", "Category:Reported UFO sightings"]
 SKIP_PREFIX = ("List of", "Category:", "Template:", "Index of", "Timeline of", "Wikipedia:")
+UFO_WORDS = ("ufo", "uap", "unidentified", "flying saucer", "flying object",
+             "extraterrestrial", "aerial phenomen", "sighting", "abduction", "close encounter")
+
+_CANDIDATES = None
 
 
 def _from_queue():
@@ -29,59 +32,55 @@ def _from_queue():
         return None
     import json
     for path in sorted(QUEUE.glob("*.json")):
-        case = json.loads(path.read_text(encoding="utf-8"))
+        try:
+            case = json.loads(path.read_text(encoding="utf-8"))
+        except Exception as e:
+            print(f"[source_news] skipping bad queue file {path.name}: {e}")
+            continue
         if not dedup.already_used(case["case_id"]):
             return case
     return None
 
 
-def _article_links(title):
-    titles, cont = [], None
-    for _ in range(6):
-        params = {"action": "query", "prop": "links", "titles": title,
-                  "plnamespace": "0", "pllimit": "500", "format": "json"}
-        if cont:
-            params["plcontinue"] = cont
-        r = requests.get(WIKI_API, params=params, headers=HEADERS, timeout=60); r.raise_for_status()
-        data = r.json()
-        for p in data.get("query", {}).get("pages", {}).values():
-            for l in p.get("links", []):
-                titles.append(l["title"])
-        cont = data.get("continue", {}).get("plcontinue")
-        if not cont:
-            break
-    return titles
-
-
-def _category_members(cat):
-    titles, cont = [], None
+def _cat_query(cat, cmtype):
+    out, cont = [], None
     for _ in range(4):
         params = {"action": "query", "list": "categorymembers", "cmtitle": cat,
-                  "cmlimit": "500", "cmtype": "page", "format": "json"}
+                  "cmlimit": "500", "cmtype": cmtype, "format": "json"}
         if cont:
             params["cmcontinue"] = cont
         r = requests.get(WIKI_API, params=params, headers=HEADERS, timeout=60); r.raise_for_status()
         data = r.json()
-        titles += [m["title"] for m in data.get("query", {}).get("categorymembers", [])]
+        out += [m["title"] for m in data.get("query", {}).get("categorymembers", [])]
         cont = data.get("continue", {}).get("cmcontinue")
         if not cont:
             break
-    return titles
+    return out
 
 
 def _discover_titles():
+    cats = list(CATEGORIES)
+    for c in CATEGORIES:                       # expand one level of subcategories
+        try:
+            cats += _cat_query(c, "subcat")
+        except Exception as e:
+            print(f"[discover] subcats of '{c}' failed: {e}")
     titles = set()
-    for art in LIST_ARTICLES:
+    for c in cats:
         try:
-            titles.update(_article_links(art))
+            titles.update(_cat_query(c, "page"))
         except Exception as e:
-            print(f"[discover] list '{art}' failed: {e}")
-    for cat in CATEGORIES:
-        try:
-            titles.update(_category_members(cat))
-        except Exception as e:
-            print(f"[discover] category '{cat}' failed: {e}")
+            print(f"[discover] members of '{c}' failed: {e}")
     return [t for t in titles if not t.startswith(SKIP_PREFIX)]
+
+
+def _candidates():
+    global _CANDIDATES
+    if _CANDIDATES is None:
+        _CANDIDATES = _discover_titles()
+        random.shuffle(_CANDIDATES)
+        print(f"[discover] {len(_CANDIDATES)} candidate cases found")
+    return _CANDIDATES
 
 
 def _extract(title):
@@ -96,32 +95,41 @@ def _extract(title):
     return ""
 
 
-def pick_case():
-    case = _from_queue()
-    if case:
-        print(f"[source_news] curated override: {case['case_id']}")
-        return case
+def _clean(title):
+    t = re.sub(r"\(.*?\)", "", title)
+    t = re.sub(r"\b(1[89]\d\d|20\d\d)\b", "", t)
+    for w in ["incident", "sighting", "UFO", "case", "encounter", "the"]:
+        t = re.sub(rf"\b{w}\b", "", t, flags=re.I)
+    return " ".join(t.split())
 
-    titles = _discover_titles()
-    print(f"[discover] {len(titles)} candidate cases found")
-    random.shuffle(titles)                      # variety between runs
-    used = dedup.used_case_ids()
-    for t in titles:
+
+def pick_case(exclude=None):
+    exclude = exclude or set()
+    q = _from_queue()
+    if q and q["case_id"] not in exclude:
+        return q
+    used = dedup.used_case_ids() | exclude
+    for t in _candidates():
         cid = "wiki_" + t.replace(" ", "_")[:90]
         if cid in used:
             continue
         seed = _extract(t)
-        if len(seed) < 400:                     # too thin to make a real video -> next
+        if len(seed) < 400:
             continue
-        print(f"[source_news] new case: {t}")
-        return {"case_id": cid, "title": t, "seed": seed[:6000], "image_queries": [t]}
-    print("[source_news] no fresh case found this run")
+        if not any(w in seed.lower() for w in UFO_WORDS):
+            continue                            # not actually a UFO case -> skip
+        clean = _clean(t)
+        queries = [t] + ([clean] if clean and clean.lower() != t.lower() else [])
+        return {"case_id": cid, "title": t, "seed": seed[:6000], "image_queries": queries}
     return None
 
 
-def _is_pd(lic):
-    lic = (lic or "").lower()
-    return any(k in lic for k in ["public domain", "cc0", "pdm", "pd-"])
+# ---------- images from Wikimedia Commons ----------
+def _acceptable(lic):
+    l = (lic or "").lower()
+    if "-sa" in l or "share" in l:              # share-alike -> avoid (viral licence)
+        return False
+    return any(k in l for k in ["public domain", "cc0", "pdm", "pd-", "cc by", "attribution"])
 
 
 def fetch_commons_images(queries, n=8):
@@ -131,7 +139,7 @@ def fetch_commons_images(queries, n=8):
             break
         try:
             params = {"action": "query", "format": "json", "generator": "search",
-                      "gsrsearch": f"{q} filetype:bitmap", "gsrnamespace": "6", "gsrlimit": "25",
+                      "gsrsearch": f"{q} filetype:bitmap", "gsrnamespace": "6", "gsrlimit": "30",
                       "prop": "imageinfo", "iiprop": "url|extmetadata", "iiurlwidth": "1600"}
             r = requests.get(COMMONS_API, params=params, headers=HEADERS, timeout=60); r.raise_for_status()
             for p in r.json().get("query", {}).get("pages", {}).values():
@@ -139,14 +147,14 @@ def fetch_commons_images(queries, n=8):
                 lic = ((ii.get("extmetadata") or {}).get("LicenseShortName") or {}).get("value", "")
                 url = ii.get("thumburl") or ii.get("url")
                 title = p.get("title", "")
-                if url and title not in seen and _is_pd(lic):
+                if url and title not in seen and _acceptable(lic):
                     seen.add(title)
                     urls.append(url)
                     if len(urls) >= n:
                         break
         except Exception as e:
             print(f"[commons] query '{q}' failed: {e}")
-    print(f"[source_news] public-domain images found: {len(urls)}")
+    print(f"[source_news] usable images found: {len(urls)}")
     return urls
 
 
