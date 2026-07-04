@@ -7,7 +7,7 @@ Orchestrates the pipeline.
 import argparse
 import json
 from .settings import ist_now, set_output, workdir
-from . import source_news, script_gen, narrate, assemble, shorts, metadata, dedup, upload
+from . import source_news, script_gen, narrate, assemble, metadata, dedup, upload
 
 
 def _skip(reason: str):
