@@ -18,17 +18,31 @@ def _skip(reason: str):
 
 
 def build():
-    # 1. Pick a fresh, documented case (fail-safe if none).
-    case = source_news.pick_case()
+    # 1. Find a fresh case that ALSO has enough usable images.
+    #    Images are checked before writing the script (cheap first), and we try
+    #    several cases in one run so a single click reliably produces a video.
+    tried, case, imgs = set(), None, []
+    for _ in range(12):
+        c = source_news.pick_case(exclude=tried)
+        if not c:
+            break
+        if c.get("prewritten"):
+            case = c
+            break
+        tried.add(c["case_id"])
+        found = source_news.fetch_commons_images(c.get("image_queries", [c["title"]]), n=8)
+        if len(found) >= 3:
+            case, imgs = c, found
+            break
+        print(f"[run] '{c['title']}' had only {len(found)} images — trying another case")
     if not case:
-        return _skip("no fresh case available")
-    if not source_news.enough_material(case):
-        return _skip("case has too little sourced material")
+        return _skip("no case with enough images this run")
 
     video_id = ist_now().strftime("%Y%m%d") + "_" + case["case_id"]
     print(f"[run] building {video_id} — {case.get('title')}")
 
-    # 2. Script: prewritten if a curated case has one, else Gemini writes it.
+    # 2. Script: use a prewritten, fact-checked script if the case has one,
+    #    else let the AI writer draft + validate.
     script = case.get("prewritten")
     if script:
         print("[run] using prewritten, fact-checked script")
@@ -45,10 +59,6 @@ def build():
             if not shot.get("url"):
                 shot["url"] = label_to_url.get(shot.get("source_label"))
     else:
-        n = max(6, len(script["shot_list"]))
-        imgs = source_news.fetch_commons_images(case.get("image_queries", [case["title"]]), n=n)
-        if len(imgs) < 3:
-            return _skip("too few public-domain images for this case")
         for i, shot in enumerate(script["shot_list"]):
             shot["url"] = imgs[i % len(imgs)]
             shot["source_label"] = case.get("title", "")
