@@ -1,65 +1,59 @@
-# ============================================================
-#  UFO DISCLOSURE CHANNEL — pipeline configuration
-#  Edit values here; no need to touch the Python code.
-# ============================================================
-
 channel:
-  name: "What India Wasn't Told"      # placeholder — change to your final channel name
-  language: "hi-IN"                    # Hindi (India)
-  angle: "what_india_wasnt_told"       # the West knew for decades; India hasn't heard it
+  name: "What India Wasn't Told"
+  language: "hi-IN"
+  angle: "what_india_wasnt_told"
 
 release:
-  timezone: "Asia/Kolkata"            # IST
-  publish_hour: 18                    # 6 PM IST — when the video goes LIVE (after your approval)
+  timezone: "Asia/Kolkata"
+  publish_hour: 18
   publish_minute: 0
-  # The build runs earlier (see .github/workflows/daily.yml cron) to leave a review buffer.
 
-voice:                                # Google Cloud Text-to-Speech
+voice:
   engine: "google"
-  voice_name: "hi-IN-Chirp3-HD-Charon"  # confident male Hindi (Chirp3-HD). Pipeline verifies/falls back to a Neural2 male voice if unavailable.
+  voice_name: "hi-IN-Chirp3-HD-Charon"
   fallback_voice: "hi-IN-Neural2-B"
-  speaking_rate: 1.05                 # confident, not sluggish
+  speaking_rate: 1.05
   audio_encoding: "MP3"
 
-script:                               # Gemini (free tier) drafts from sourced material only
+script:
   model: "gemini-2.5-flash"
-  target_minutes: 8                   # long-form anchor length (≈1100–1300 Hindi words)
-  hook_seconds: 10                    # strongest documented moment up front
-  subscribe_after_payoff: true        # never ask before the first payoff
-  forbid_unsourced_claims: true       # validator drops the run if a claim has no source
+  target_minutes: 8
+  hook_seconds: 10
+  subscribe_after_payoff: true
+  forbid_unsourced_claims: true
 
 video:
   width: 1920
   height: 1080
   fps: 30
-  kenburns: true                      # slow pan/zoom on stills & newspaper scans
+  kenburns: true
   seconds_per_image: 3
-    source_labels: false
+  source_labels: false
 
 shorts:
   enabled: false
-  count: 3                            # auto-cut from the long video's strongest hooks
+  count: 3
   max_seconds: 58
   width: 1080
   height: 1920
   end_cta: "पूरी कहानी चैनल पर। सब्सक्राइब करें।"
 
 metadata:
-  base_hashtags: ["#shorts", "#ufo", "#uap", "#alien", "#ufodisclosure", "#ufoinhindi"]
-  trending_extra: 2                   # rotate in up to N trending topic tags per upload
-  ai_disclosure: true                # always declare altered/synthetic content
+  base_hashtags: ["#ufo", "#uap", "#alien", "#ufodisclosure", "#ufoinhindi"]
+  trending_extra: 2
+  ai_disclosure: true
 
-sources:                              # all free + public-domain
-  modern_video: "https://www.war.gov/UFO"          # DoD/AARO UAP releases
-  newspapers: "loc.gov chronicling-america"        # Library of Congress, ≤1963, free API
+sources:
+  modern_video: "https://www.war.gov/UFO"
+  newspapers: "loc.gov chronicling-america"
   archives: ["national_archives_blue_book", "cia_foia", "black_vault"]
-  music: "youtube_audio_library"                   # royalty-free, cleared
+  music: "youtube_audio_library"
 
 safety:
-  fail_safe: true                     # if a case is thin or validation fails, SKIP the day (publish nothing)
-  min_sources_per_video: 3            # need at least this many distinct sourced assets
-  human_approval_required: true       # video stays PRIVATE until you approve in GitHub
+  fail_safe: true
+  min_sources_per_video: 3
+  human_approval_required: true
 
 dedup:
-  ledger: "used/ledger.csv"           # every case + clip ever used; never repeat
-  embed_model: "nomic-embed-text"     # semantic check so near-duplicate topics are caught too
+  ledger: "used/ledger.csv"
+  embed_model: "nomic-embed-text"
