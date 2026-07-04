@@ -63,19 +63,13 @@ def build():
             shot["url"] = imgs[i % len(imgs)]
             shot["source_label"] = case.get("title", "")
 
-    # 4. Narration -> assemble -> shorts.
-    mp3 = narrate.narrate(video_id, script["script_hi"])
-    long_mp4 = assemble.assemble(video_id, script, mp3)
-    short_files = shorts.make_shorts(video_id, long_mp4)
+# 4. Narration -> assemble (one clean final video, no shorts).
+      mp3 = narrate.narrate(video_id, script["script_hi"])
+      long_mp4 = assemble.assemble(video_id, script, mp3)
 
-    # 5. Upload long video as PRIVATE.
-    meta = metadata.build(script, is_short=False)
-    vid = upload.upload_private(long_mp4, meta)
-    for sf in short_files:
-        try:
-            upload.upload_private(sf, metadata.build(script, is_short=True))
-        except Exception as e:
-            print(f"[run] short upload skipped: {e}")
+      # 5. Upload the video as PRIVATE.
+      meta = metadata.build(script, is_short=False)
+      vid = upload.upload_private(long_mp4, meta)
 
     # 6. Record + hand off to the approval gate.
     dedup.log(case["case_id"], meta["title"], vid)
