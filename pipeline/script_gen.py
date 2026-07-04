@@ -4,6 +4,7 @@ strictly from the case's real Wikipedia summary (the 'seed'). Then validates
 against the hard rules. If validation fails -> return None (skip the day).
 """
 import os
+import re
 import json
 import google.generativeai as genai
 from .settings import ROOT, CONFIG
@@ -14,7 +15,29 @@ PROMPT = (ROOT / "prompts" / "script_prompt.txt").read_text(encoding="utf-8")
 
 def _model():
     genai.configure(api_key=os.environ["GEMINI_API_KEY"])
-    return genai.GenerativeModel(CONFIG["script"]["model"])
+    # response_mime_type forces Gemini to return a single valid JSON object.
+    return genai.GenerativeModel(
+        CONFIG["script"]["model"],
+        generation_config={"response_mime_type": "application/json", "temperature": 0.9},
+    )
+
+
+def _parse(text: str):
+    """Tolerant JSON extraction: strip fences, isolate the outermost braces."""
+    t = text.strip()
+    t = re.sub(r"^```(?:json)?", "", t).strip()
+    t = re.sub(r"```$", "", t).strip()
+    try:
+        return json.loads(t)
+    except Exception:
+        pass
+    start, end = t.find("{"), t.rfind("}")
+    if start != -1 and end != -1 and end > start:
+        try:
+            return json.loads(t[start:end + 1])
+        except Exception:
+            return None
+    return None
 
 
 def write_script(case: dict) -> dict | None:
@@ -26,22 +49,20 @@ def write_script(case: dict) -> dict | None:
               .replace("{{TITLE}}", case.get("title", ""))
               .replace("{{SOURCES}}", str(sources)))
 
-    try:
-        resp = _model().generate_content(prompt)
-    except Exception as e:
-        print(f"[script_gen] Gemini call failed: {e}")
-        return None
-
-    raw = resp.text.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
-    try:
-        data = json.loads(raw)
-    except json.JSONDecodeError:
-        print("[script_gen] model did not return clean JSON — skipping today")
-        return None
-
-    if not validate(data):
-        return None
-    return data
+    for attempt in range(2):                       # one retry if the first is messy
+        try:
+            resp = _model().generate_content(prompt)
+        except Exception as e:
+            print(f"[script_gen] Gemini call failed: {e}")
+            return None
+        data = _parse(resp.text or "")
+        if data:
+            if validate(data):
+                return data
+            return None
+        print(f"[script_gen] unparseable response (attempt {attempt + 1}) — retrying")
+    print("[script_gen] could not get clean JSON — skipping today")
+    return None
 
 
 def validate(data: dict) -> bool:
