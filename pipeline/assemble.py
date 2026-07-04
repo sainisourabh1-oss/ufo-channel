@@ -75,18 +75,20 @@ def _build_order(unique_imgs, n_segments):
     return order
 
 
-def assemble(video_id: str, script: dict, narration_mp3: Path) -> Path:
+def assemble(video_id: str, script: dict, narration_mp3: Path, images: list) -> Path:
     wd = workdir(video_id)
 
-    # 1. Download each UNIQUE image once.
-    urls = []
-    for shot in script["shot_list"]:
-        u = shot.get("url")
-        if u and u not in urls:
+    # 1. Download unique images from the pool (cap so runs stay fast).
+    urls, seen = [], set()
+    for u in images:
+        if u and u not in seen:
+            seen.add(u)
             urls.append(u)
     local = []
     for i, u in enumerate(urls):
-        dest = wd / f"img_{i:02}.jpg"
+        if len(local) >= 50:
+            break
+        dest = wd / f"img_{i:03}.jpg"
         if _download(u, dest):
             local.append(dest)
     if not local:                                   # safety: never all-black
