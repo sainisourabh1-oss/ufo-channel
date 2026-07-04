@@ -27,7 +27,7 @@ video:
   height: 1080
   fps: 30
   kenburns: true
-  seconds_per_image: 3
+  seconds_per_image: 5
   source_labels: false
 
 shorts:
