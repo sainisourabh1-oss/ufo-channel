@@ -18,65 +18,43 @@ def _skip(reason: str):
 
 
 def build():
-    # 1. Find a fresh case that ALSO has enough usable images.
-    tried, case, imgs = set(), None, []
-    for _ in range(12):
-        c = source_news.pick_case(exclude=tried)
-        if not c:
-            break
-        if c.get("prewritten"):
-            case = c
-            break
-        tried.add(c["case_id"])
-        found = source_news.fetch_commons_images(c.get("image_queries", [c["title"]]), n=8)
-        if len(found) >= 3:
-            case, imgs = c, found
-            break
-        print(f"[run] '{c['title']}' had only {len(found)} images — trying another case")
-    if not case:
-        return _skip("no case with enough images this run")
+    tried = set()
+    for _ in range(4):
+        case = source_news.pick_case(exclude=tried)
+        if not case:
+            return _skip("no fresh case available")
+        tried.add(case["case_id"])
+        video_id = ist_now().strftime("%Y%m%d") + "_" + case["case_id"]
+        print(f"[run] trying: {case.get('title')}")
 
-    video_id = ist_now().strftime("%Y%m%d") + "_" + case["case_id"]
-    print(f"[run] building {video_id} — {case.get('title')}")
+        script = case.get("prewritten") or script_gen.write_script(case)
+        if not script:
+            print("[run] script failed — trying another case")
+            continue
 
-    # 2. Script.
-    script = case.get("prewritten")
-    if script:
-        print("[run] using prewritten, fact-checked script")
-    else:
-        script = script_gen.write_script(case)
-    if not script:
-        return _skip("script failed validation")
+        if case.get("prewritten"):
+            images = [a["url"] for a in case.get("assets", []) if a.get("url")]
+        else:
+            images = source_news.fetch_images(case, n=60)
+        if len(images) < 6:
+            print("[run] too few images — trying another case")
+            continue
 
-    # 3. Images.
-    if case.get("prewritten"):
-        label_to_url = {(a.get("source_label") or a.get("label")): a.get("url")
-                        for a in case.get("assets", [])}
-        for shot in script["shot_list"]:
-            if not shot.get("url"):
-                shot["url"] = label_to_url.get(shot.get("source_label"))
-    else:
-        for i, shot in enumerate(script["shot_list"]):
-            shot["url"] = imgs[i % len(imgs)]
-            shot["source_label"] = case.get("title", "")
+        mp3 = narrate.narrate(video_id, script["script_hi"])
+        long_mp4 = assemble.assemble(video_id, script, mp3, images)
+        meta = metadata.build(script, is_short=False)
+        vid = upload.upload_private(long_mp4, meta)
 
-    # 4. Narration -> assemble (one clean final video, no shorts).
-    mp3 = narrate.narrate(video_id, script["script_hi"])
-    long_mp4 = assemble.assemble(video_id, script, mp3)
+        dedup.log(case["case_id"], meta["title"], vid)
+        (workdir(video_id) / "meta.json").write_text(
+            json.dumps({"video_id": vid, **meta}, ensure_ascii=False, indent=2), encoding="utf-8")
+        set_output("skipped", "false")
+        set_output("video_id", vid)
+        set_output("youtube_url", f"https://youtu.be/{vid}")
+        print(f"[run] DONE — private video {vid} awaiting your approval")
+        return
 
-    # 5. Upload the video as PRIVATE.
-    meta = metadata.build(script, is_short=False)
-    vid = upload.upload_private(long_mp4, meta)
-
-    # 6. Record + hand off to the approval gate.
-    dedup.log(case["case_id"], meta["title"], vid)
-    (workdir(video_id) / "meta.json").write_text(
-        json.dumps({"video_id": vid, **meta}, ensure_ascii=False, indent=2), encoding="utf-8")
-
-    set_output("skipped", "false")
-    set_output("video_id", vid)
-    set_output("youtube_url", f"https://youtu.be/{vid}")
-    print(f"[run] DONE — private video {vid} awaiting your approval")
+    return _skip("no workable case this run")
 
 
 def publish(video_id: str):
