@@ -7,7 +7,7 @@ release:
   timezone: "Asia/Kolkata"
   publish_hour: 18          # long video goes live at 6 PM IST (or immediately if built after that)
   publish_minute: 0
-  short_hours: [12, 21]     # the day's Shorts go live at 12 PM and 9 PM IST
+  short_times: ["19:00", "21:30"]   # operator 2026-11-15 (revised): Shorts at 7:00 PM and 9:30 PM IST
   mode: "auto"              # operator choice 2026-11-15: fully automatic, no approval gate
 
 llm:

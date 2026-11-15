@@ -31,4 +31,4 @@ Plus 2 vertical Shorts per day, each a standalone hook pointing to the full vide
 
 ## Publishing
 Fully automatic (operator decision 2026-11-15): the long video goes live at 6 PM IST
-(immediately if built later), Shorts at 12 PM and 9 PM IST. No approval step.
+(immediately if built later), Shorts at 7:00 PM and 9:30 PM IST. No approval step.

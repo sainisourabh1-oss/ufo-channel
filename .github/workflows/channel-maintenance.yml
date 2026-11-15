@@ -5,10 +5,10 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "audit or delete"
+        description: "audit, delete, or branding"
         default: "audit"
         type: choice
-        options: [audit, delete]
+        options: [audit, delete, branding]
       max_views:
         description: "delete videos with this many views or fewer"
         default: "9"
@@ -24,13 +24,15 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install google-api-python-client google-auth PyYAML requests
+      - run: pip install -r requirements.txt
       - name: Run
         env:
           YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
           YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
           YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
+          if [ "${{ inputs.mode }}" = "branding" ]; then python -m tools.channel_branding; exit 0; fi
           if [ "${{ inputs.mode }}" = "delete" ]; then
             python -m tools.channel_audit --delete --max-views "${{ inputs.max_views }}" --confirm "${{ inputs.confirm }}"
           else

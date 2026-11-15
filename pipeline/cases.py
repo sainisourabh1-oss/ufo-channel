@@ -56,14 +56,22 @@ _POOL = None
 
 
 def _get(params):
-    params = {**params, "format": "json"}
-    for attempt in range(3):
+    """Wikipedia API, paced (serial, ~3 req/s max) and honouring Retry-After on 429."""
+    import time
+    params = {**params, "format": "json", "maxlag": "5"}
+    for attempt in range(6):
+        time.sleep(0.35)
         try:
             r = requests.get(WIKI, params=params, headers=UA, timeout=60)
+            if r.status_code == 429 or "maxlag" in r.text[:200]:
+                wait = int(r.headers.get("Retry-After", "0") or 0) or 20 * (attempt + 1)
+                print(f"[cases] wiki rate-limited, waiting {wait}s")
+                time.sleep(min(wait, 180)); continue
             r.raise_for_status()
             return r.json()
         except Exception as e:
             print(f"[cases] wiki retry {attempt + 1}: {e}")
+            time.sleep(5 * (attempt + 1))
     return {}
 
 
@@ -81,15 +89,26 @@ def _members(cat, kind):
     return out
 
 
+POOL_CACHE = ROOT / "used" / "case_pool.json"
+
+
 def pool():
-    """{title: {'hoax': bool}} for every candidate page."""
+    """{title: {'hoax': bool}} for every candidate page. Crawled at most weekly, cached in the repo."""
     global _POOL
     if _POOL is not None:
         return _POOL
+    import json, datetime as _dt
+    if POOL_CACHE.exists():
+        c = json.loads(POOL_CACHE.read_text(encoding="utf-8"))
+        age = (_dt.date.today() - _dt.date.fromisoformat(c["date"])).days
+        if age < 7 and len(c["pages"]) > 100:
+            _POOL = c["pages"]
+            print(f"[cases] pool: {len(_POOL)} pages (cached {age}d)")
+            return _POOL
     seen_cats, frontier, pages = set(), [(c, 0) for c in ROOT_CATS], {}
     while frontier:
         cat, depth = frontier.pop(0)
-        if cat in seen_cats or len(seen_cats) > 160:
+        if cat in seen_cats or len(seen_cats) > 90:
             continue
         seen_cats.add(cat)
         is_hoax = any(h in cat.lower() for h in HOAX_CATS)
@@ -101,7 +120,13 @@ def pool():
         if depth < 2:
             frontier += [(c, depth + 1) for c in _members(cat, "subcat")
                          if not any(x in c.lower() for x in ("fiction", "film", "television", "music", "novels", "video games", "comics"))]
+    if len(pages) < 100 and POOL_CACHE.exists():      # crawl got throttled -> keep the old pool
+        _POOL = json.loads(POOL_CACHE.read_text(encoding="utf-8"))["pages"]
+        return _POOL
     _POOL = pages
+    POOL_CACHE.parent.mkdir(parents=True, exist_ok=True)
+    POOL_CACHE.write_text(json.dumps({"date": _dt.date.today().isoformat(), "pages": pages},
+                                     ensure_ascii=False), encoding="utf-8")
     print(f"[cases] pool: {len(pages)} pages from {len(seen_cats)} categories")
     return pages
 

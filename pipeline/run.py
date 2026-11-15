@@ -244,10 +244,11 @@ def produce(case, script, dry: bool):
     if script.get("pinned_comment_hi"):
         yt.comment(vid, script["pinned_comment_hi"])
 
-    for (s, smp4), hour in zip(shorts, CONFIG["release"]["short_hours"]):
+    for (s, smp4), hhmm in zip(shorts, CONFIG["release"]["short_times"]):
+        hour, minute = (int(x) for x in hhmm.split(":"))
         try:
             sdesc = (f"{s['title_hi']}\n\nपूरी कहानी देखें: https://youtu.be/{vid}\n\n#Shorts #UFO #UFOHindi #रहस्य")
-            sid = yt.upload(smp4, (s["title_hi"][:88] + " #Shorts"), sdesc, kept[:12], yt.release_status(hour))
+            sid = yt.upload(smp4, (s["title_hi"][:88] + " #Shorts"), sdesc, kept[:12], yt.release_status(hour, minute))
             dedup.log(case["case_id"], s["title_hi"], sid, "short")
             yt.playlist(sid, "shorts", "UFO Shorts | 60 सेकंड में रहस्य", "छोटे, चौंकाने वाले UFO तथ्य।")
         except Exception as e:
