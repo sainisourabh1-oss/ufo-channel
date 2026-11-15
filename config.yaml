@@ -19,13 +19,13 @@ voice:
   # Tried in order; one provider voices a whole video so the voice never changes mid-video.
   providers: ["edge", "gcp"]
   edge_voice: "hi-IN-MadhurNeural"
-  edge_rate: "-4%"
-  edge_pitch: "-6Hz"
+  edge_rate: "+18%"         # operator pick 2026-11-16 (sample ufo_6): brisker, more gripping delivery
+  edge_pitch: "-2Hz"
   gcp_voice: "hi-IN-Chirp3-HD-Charon"
 
 script:
-  min_words: 1000           # ~8 min of Hindi narration
-  max_words: 1500
+  min_words: 1300           # ~8.5 min at the +18% voice (keeps long videos past 8 min)
+  max_words: 1800
   min_scenes: 9
   formats:                  # rotated by weight; each gives a different structure
     case_file: 6            # one documented case, deep dive

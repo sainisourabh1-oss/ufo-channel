@@ -11,8 +11,9 @@ skeptical, will notice fabrication. Titles/descriptions are also localized for v
 24 other languages, and captions are uploaded in Hindi + English (auto-translatable).
 
 ## Voice
-Calm, confident, authoritative male narrator. Clean spoken Hindi, short vivid sentences,
-suspense in the pauses. No Hinglish slang.
+Confident, gripping male narrator (Microsoft hi-IN-MadhurNeural at +18% speed, -2Hz pitch, no
+added EQ; operator's pick 2026-11-16). Brisk documentary pace, clean spoken Hindi, short vivid
+sentences, suspense in the pauses. No Hinglish slang.
 
 ## Formats (rotated)
 - **Case file** — one case, deep dive, chronological like a thriller.

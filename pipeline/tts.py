@@ -1,6 +1,6 @@
 """
 Narration with a provider chain (config voice.providers):
-  edge    - Microsoft neural voice hi-IN-MadhurNeural (free, no key, native Hindi)
+  edge    - Microsoft neural voice hi-IN-MadhurNeural at +18% / -2Hz (free, no key, native Hindi)
   gcp     - Google Cloud TTS Chirp3-HD (only if billing is re-enabled on the GCP project)
 
 Probed 2026-11-15: this Gemini key has NO TTS model (all 404) and 0 free image quota,

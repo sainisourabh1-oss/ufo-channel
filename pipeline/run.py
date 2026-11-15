@@ -63,7 +63,7 @@ def concat_narration(wavs, work: Path, gap: float):
     lst.write_text("".join(f"file '{p.as_posix()}'\n" for p in seq), encoding="utf-8")
     out = work / "narration.wav"
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", str(lst),
-                    "-af", "bass=g=2.5:f=110,aecho=0.8:0.6:28:0.10", "-c:a", "pcm_s16le", str(out)], check=True)
+                    "-c:a", "pcm_s16le", str(out)], check=True)
     return out, starts, durs, t
 
 
