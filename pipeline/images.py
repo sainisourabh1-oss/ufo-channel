@@ -6,6 +6,9 @@ Sources (all free + legal; share-alike excluded):
   commons  - Wikimedia Commons search, random result depth (gsroffset) so results differ per run
   nasa     - NASA Image Library (public domain), random page
   openverse- Openverse (CC0 / PDM / CC-BY), random page
+  wellcome - Wellcome Collection: historic prints/broadsheets/astronomy (PDM / CC0 / CC-BY)
+  cleveland- Cleveland Museum of Art open access (CC0)
+  met      - The Metropolitan Museum of Art open access (CC0)
   ai       - keyless AI illustration, last resort only (unique by construction)
 
 Every accepted image is recorded in used/images.csv with its URL, SHA1 and a 64-bit
@@ -90,18 +93,40 @@ def record(entries, video_id):
                         f"{e['dhash']:016x}" if e.get("dhash") is not None else ""])
 
 
-def _get(url, **kw):
-    for attempt in range(3):
+# Speed: a throttled host is put on cooldown and skipped (other sources fill in) instead of
+# sleeping 20/40/60 s per URL - serial sleeps over hundreds of candidates made a build take 1h+.
+_COOL = {}                      # host -> time.time() when it may be used again
+_STATS = {"ok": 0, "fail": 0, "cooled": 0}
+
+
+def _host(url):
+    return urllib.parse.urlparse(url).netloc
+
+
+def _get(url, attempts=2, **kw):
+    host = _host(url)
+    if _COOL.get(host, 0) > time.time():
+        _STATS["cooled"] += 1
+        return None
+    timeout = kw.pop("timeout", 30)
+    for attempt in range(attempts):
         try:
-            r = requests.get(url, headers=UA, timeout=kw.pop("timeout", 45), **kw)
+            r = requests.get(url, headers=UA, timeout=timeout, **kw)
             if r.status_code == 429:
-                time.sleep(20 * (attempt + 1)); continue
+                wait = int(r.headers.get("Retry-After", "0") or 0) or 90
+                _COOL[host] = time.time() + min(max(wait, 30), 300)
+                print(f"[images] {host} throttled -> skipping it for {min(max(wait, 30), 300)}s")
+                _STATS["fail"] += 1
+                return None
             r.raise_for_status()
+            _STATS["ok"] += 1
             return r
         except Exception as e:
-            if attempt == 2:
-                print(f"[images] GET failed {url[:90]}: {e}")
-            time.sleep(3 * (attempt + 1))
+            if attempt == attempts - 1:
+                _STATS["fail"] += 1
+                print(f"[images] GET failed {url[:90]}: {str(e)[:80]}")
+            else:
+                time.sleep(2)
     return None
 
 
@@ -201,6 +226,64 @@ def src_openverse(q, rnd):
     return out
 
 
+def src_wellcome(q, rnd):
+    """Wellcome Collection (keyless): historic prints, broadsheets, astronomy plates. PDM / CC0 / CC-BY only."""
+    r = _get("https://api.wellcomecollection.org/catalogue/v2/images",
+             params={"query": q, "pageSize": "30", "page": str(rnd.randint(1, 2)),
+                     "locations.license": "pdm,cc-0,cc-by", "include": "source.contributors"})
+    out = []
+    if r:
+        for it in r.json().get("results", []):
+            loc = (it.get("locations") or [{}])[0]
+            info = loc.get("url", "")
+            if not info.endswith("/info.json"):
+                continue
+            u = info[:-len("info.json")] + "full/1920,/0/default.jpg"
+            src = it.get("source") or {}
+            who = ", ".join(c.get("agent", {}).get("label", "") for c in src.get("contributors", [])[:2]) or "Unknown"
+            CREDIT[u] = (f"{who} | {loc.get('license', {}).get('label', 'PDM')} | "
+                         f"https://wellcomecollection.org/works/{src.get('id', '')} (Wellcome Collection)")
+            out.append(u)
+    rnd.shuffle(out)
+    return out
+
+
+def src_cleveland(q, rnd):
+    """Cleveland Museum of Art open access (keyless, CC0 only)."""
+    r = _get("https://openaccess-api.clevelandart.org/api/artworks/",
+             params={"q": q, "has_image": "1", "cc0": "1", "limit": "25", "skip": str(rnd.choice([0, 0, 25, 50]))})
+    out = []
+    if r:
+        for it in r.json().get("data", []):
+            ims = it.get("images") or {}
+            web = next((ims[k] for k in ("print", "web") if (ims.get(k) or {}).get("url")
+                        and int(ims[k].get("width") or 0) >= IMG["min_width"]), {})
+            if web.get("url"):
+                CREDIT[web["url"]] = f"Cleveland Museum of Art | CC0 | {it.get('url', '')}"
+                out.append(web["url"])
+    rnd.shuffle(out)
+    return out
+
+
+def src_met(q, rnd):
+    """The Met open access (keyless). Search returns ids; each object is checked for public domain."""
+    r = _get("https://collectionapi.metmuseum.org/public/collection/v1.1/search",
+             params={"q": q, "hasImages": "true"})
+    ids = (r.json().get("objectIDs") or []) if r else []
+    rnd.shuffle(ids)
+    out = []
+    for oid in ids[:8]:
+        o = _get(f"https://collectionapi.metmuseum.org/public/collection/v1/objects/{oid}", attempts=1, timeout=15)
+        if not o:
+            continue
+        d = o.json()
+        u = d.get("primaryImage") or d.get("primaryImageSmall")   # "small" is only ~600px
+        if d.get("isPublicDomain") and u:
+            CREDIT[u] = f"{d.get('artistDisplayName') or 'Unknown'} | CC0 | {d.get('objectURL', '')} (The Met)"
+            out.append(u)
+    return out
+
+
 def ai_url(prompt, rnd, W, H):
     q = urllib.parse.quote(prompt + ", cinematic documentary still, realistic, moody lighting, film grain")
     u = f"https://image.pollinations.ai/prompt/{q}?width={W}&height={H}&nologo=true&seed={rnd.randint(1, 10**9)}"
@@ -209,10 +292,15 @@ def ai_url(prompt, rnd, W, H):
 
 
 # ---------------------------------------------------------------- download + dedup
-def fetch(url, dest: Path, source: str, batch_dh: list, batch_sha: set):
+def download(url, source):
+    # candidate images: one try each (there are always more candidates); AI renders are slow
+    return _get(url, attempts=1, timeout=(75 if source == "ai" else 25))
+
+
+def fetch(url, dest: Path, source: str, batch_dh: list, batch_sha: set, r=None):
     if url in ledger()["urls"]:
         return None
-    r = _get(url, timeout=90)
+    r = r if r is not None else download(url, source)
     if not r:
         return None
     try:
@@ -249,19 +337,33 @@ class Collector:
         self.dh, self.sha, self.got, self.n = [], set(), [], 0
         self.wiki_pool = None
         self.tried = set()
+        self.t0 = time.time()
+        self.budget = IMG.get("time_budget_min", 22) * 60    # whole-video image budget
+
+    def _over(self):
+        return time.time() - self.t0 > self.budget
 
     def _try(self, urls, source, need, out):
-        for u in urls:
-            if len(out) >= need:
-                return
-            if not u or u in self.tried:
-                continue
-            self.tried.add(u)
-            self.n += 1
-            e = fetch(u, self.work / f"img_{self.n:04}.jpg", source, self.dh, self.sha)
-            if e:
-                out.append(e)
-            time.sleep(1.0 if "wikimedia" in u else 0.3)   # Wikimedia throttles cumulative load
+        """Downloads run 4 at a time (2 for throttle-prone Wikimedia); the dedup check stays
+        serial so two copies of one picture can never both get in."""
+        from concurrent.futures import ThreadPoolExecutor
+        todo = [u for u in urls if u and u not in self.tried and u not in ledger()["urls"]]
+        width = 2 if any("wikimedia" in u for u in todo) else 4
+        with ThreadPoolExecutor(width) as ex:
+            for i in range(0, len(todo), width):
+                if len(out) >= need:
+                    return
+                chunk = todo[i:i + width]
+                self.tried.update(chunk)
+                for u, r in zip(chunk, ex.map(lambda u: download(u, source), chunk)):
+                    if len(out) >= need:
+                        break
+                    self.n += 1
+                    e = fetch(u, self.work / f"img_{self.n:04}.jpg", source, self.dh, self.sha, r=r) if r else None
+                    if e:
+                        out.append(e)
+                if any("wikimedia" in u for u in chunk):
+                    time.sleep(0.6)                      # Wikimedia throttles cumulative load
 
     def for_scene(self, queries: list, need: int, scene_idx: int):
         out = []
@@ -273,26 +375,27 @@ class Collector:
         self._try(take, "wiki", need, out)
         qs = [q for q in queries if q][:5]
         self.rnd.shuffle(qs)
-        sources = [("commons", src_commons), ("nasa", src_nasa), ("openverse", src_openverse)]
-        for q in qs:
-            for name, fn in self.rnd.sample(sources, len(sources)):
-                if len(out) >= need:
+        # photos/archives first (closest match), museum art second (moody, period-correct filler)
+        primary = [("commons", src_commons), ("nasa", src_nasa), ("openverse", src_openverse),
+                   ("wellcome", src_wellcome)]
+        museums = [("cleveland", src_cleveland), ("met", src_met)]
+        rounds = [(q, self.rnd.sample(primary, len(primary)), 12) for q in qs]
+        rounds += [(q, self.rnd.sample(museums, len(museums)), 8) for q in qs[:3]]
+        rounds += [(q, self.rnd.sample(primary + museums, 3), 10) for q in self.rnd.sample(FILLER_QUERIES, 6)]
+        for q, srcs, cap in rounds:
+            for name, fn in srcs:
+                if len(out) >= need or self._over():
                     break
-                self._try(fn(q, self.rnd)[:12], name, need, out)
-        fillers = self.rnd.sample(FILLER_QUERIES, 6)
-        for q in fillers:
-            if len(out) >= need:
-                break
-            for name, fn in self.rnd.sample(sources, 2):
-                self._try(fn(q, self.rnd)[:10], name, need, out)
+                self._try(fn(q, self.rnd)[:cap], name, need, out)
         if len(out) < need and IMG.get("ai_fallback", True):
             prompts = (qs or [self.title])
             for k in range(need - len(out) + 2):
-                if len(out) >= need:
+                if len(out) >= need or time.time() - self.t0 > self.budget + 600:
                     break
                 self._try([ai_url(prompts[k % len(prompts)], self.rnd, 1920 if self.W > self.H else 1080,
                                   1080 if self.W > self.H else 1920)], "ai", need, out)
         print(f"[images] scene {scene_idx}: {len(out)}/{need} fresh images "
-              f"({', '.join(sorted({e['source'] for e in out}))})")
+              f"({', '.join(sorted({e['source'] for e in out}))}) "
+              f"t={time.time() - self.t0:.0f}s http ok/fail/cooled={_STATS['ok']}/{_STATS['fail']}/{_STATS['cooled']}")
         self.got += out
         return [e["path"] for e in out]

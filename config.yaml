@@ -58,6 +58,7 @@ metadata:
 
 images:
   per_video_target: 140
+  time_budget_min: 22       # stop searching after this; AI then starfield fill the rest (never reuse)
   min_width: 900
   dhash_distance: 6         # perceptual-hash distance below which two images count as the same picture
   ai_fallback: true         # keyless AI illustration only when no fresh real image exists (Gemini image quota is 0)
