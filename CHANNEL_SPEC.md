@@ -1,38 +1,34 @@
-# CHANNEL SPEC — the brain of the channel
-
-This file defines what the channel is and the rules every video must obey.
+# CHANNEL SPEC — Real UFO Stories
 
 ## Identity
-A faceless, clean-Hindi mini-documentary channel that reveals real, documented
-UFO/UAP cases the West has known about for decades but Indian audiences haven't
-heard. Each video is one documented case, told from public-domain government
-records and historic newspapers.
+A faceless, cinematic Hindi documentary channel about real, documented UFO/UAP cases —
+the stories the West has argued about for decades that most Indian viewers have never
+heard. Every video is built from public records and encyclopedic sources, told like a thriller.
 
 ## Audience
-Hindi-speaking viewers in India, roughly 18–60, who like mystery, history, and
-"things you weren't told." They are smart and will notice fabrication.
+Hindi speakers 18–60 who love mystery, history and "what they didn't tell you". Smart,
+skeptical, will notice fabrication. Titles/descriptions are also localized for viewers in
+24 other languages, and captions are uploaded in Hindi + English (auto-translatable).
 
-## Voice & language
-- Clean documentary Hindi. Calm, confident, authoritative male narrator.
-- No Hinglish slang; only borrowed words genuinely common in Hindi.
-- Tone: a serious storyteller revealing a real, suppressed history.
+## Voice
+Calm, confident, authoritative male narrator. Clean spoken Hindi, short vivid sentences,
+suspense in the pauses. No Hinglish slang.
 
-## Structure of every long-form video (~8 min)
-1. Hook (first ~10s): the most gripping documented moment.
-2. Setup: what happened, where, when — grounded in the records.
-3. First payoff: the first surprising verified fact.
-4. Subscribe nudge — only AFTER the first payoff (cliffhanger style).
-5. Escalation: the case deepens, each beat tied to a source.
-6. Official response + the dispute: what authorities said, who disagreed.
-7. The India angle: why this matters / why it stayed unknown here.
-8. Close + end CTA.
+## Formats (rotated)
+- **Case file** — one case, deep dive, chronological like a thriller.
+- **Claim vs evidence** — a famous claim examined fairly; why people believed it, what was found.
+- **Top 5 countdown** — five documented cases sharing a theme.
+Plus 2 vertical Shorts per day, each a standalone hook pointing to the full video.
 
-## HARD RULES (the validator blocks upload if any are broken)
-1. Only documented material — no invented events, witnesses, quotes, or footage.
-2. Framing, not assertion — "रिकॉर्ड के मुताबिक / अधिकारियों ने कहा". Never assert a craft was alien.
+## HARD RULES (the validator rejects a script that breaks them)
+1. Only sourced material — no invented events, witnesses, quotes, numbers or dates.
+2. Framing, not assertion — "रिकॉर्ड के मुताबिक / गवाहों का दावा था / अधिकारियों ने कहा". Never assert a craft was alien.
 3. Show the dispute — official explanation AND those who disagreed.
-4. On-screen source labels on every clip/scan.
-5. Quote only what records contain, attributed correctly.
-6. AI/synthetic disclosure ON for every upload.
-7. Fail safe — too little sourced material => skip the day.
-8. Never reuse a case or clip.
+4. On-screen fact labels (place | date | name) come only from the sources; sources are listed in the description.
+5. AI/synthetic disclosure ON for every upload.
+6. Never reuse a case that has a live video. Never show the same image twice — ever (URL + byte + perceptual-hash ledger).
+7. Fail safe — a case without enough sourced text is skipped and the next one is tried.
+
+## Publishing
+Fully automatic (operator decision 2026-11-15): the long video goes live at 6 PM IST
+(immediately if built later), Shorts at 12 PM and 9 PM IST. No approval step.

@@ -1,59 +1,71 @@
 channel:
-  name: "What India Wasn't Told"
-  language: "hi-IN"
+  name: "Real UFO Stories"
+  language: "hi"
   angle: "what_india_wasnt_told"
 
 release:
   timezone: "Asia/Kolkata"
-  publish_hour: 18
+  publish_hour: 18          # long video goes live at 6 PM IST (or immediately if built after that)
   publish_minute: 0
+  short_hours: [12, 21]     # the day's Shorts go live at 12 PM and 9 PM IST
+  mode: "auto"              # operator choice 2026-11-15: fully automatic, no approval gate
+
+llm:
+  # First model in each list that this API key actually lists is used; the rest are fallbacks.
+  quality_models: ["gemini-3.8-flash", "gemini-4-hydrogen", "gemini-3.7-flash", "gemini-3.6-flash", "gemini-3.5-flash", "gemini-2.5-flash"]
+  bulk_models: ["gemini-3.5-flash-lite", "gemini-3.1-flash-lite", "gemini-3.5-flash", "gemini-3.6-flash", "gemini-3.7-flash"]
 
 voice:
-  engine: "google"
-  voice_name: "hi-IN-Chirp3-HD-Charon"
-  fallback_voice: "hi-IN-Neural2-B"
-  speaking_rate: 1.05
-  audio_encoding: "MP3"
+  # Tried in order; one provider voices a whole video so the voice never changes mid-video.
+  providers: ["edge", "gcp"]
+  edge_voice: "hi-IN-MadhurNeural"
+  edge_rate: "-4%"
+  edge_pitch: "-6Hz"
+  gcp_voice: "hi-IN-Chirp3-HD-Charon"
 
 script:
-  model: "gemini-2.5-flash"
-  target_minutes: 8
-  hook_seconds: 10
-  subscribe_after_payoff: true
-  forbid_unsourced_claims: true
+  min_words: 1000           # ~8 min of Hindi narration
+  max_words: 1500
+  min_scenes: 9
+  formats:                  # rotated by weight; each gives a different structure
+    case_file: 6            # one documented case, deep dive
+    top_five: 2             # five related cases, countdown
+    debunk: 2               # claim vs evidence, official vs dissent
 
 video:
   width: 1920
   height: 1080
   fps: 30
-  kenburns: true
-  seconds_per_image: 5
-  source_labels: false
+  seconds_per_image: 4.5    # a fresh image every ~4.5 s
+  crf: 21
+  preset: "veryfast"
 
 shorts:
-  enabled: false
-  count: 3
+  enabled: true
+  count: 2
   max_seconds: 58
   width: 1080
   height: 1920
-  end_cta: "पूरी कहानी चैनल पर। सब्सक्राइब करें।"
+
+localization:
+  # title + description translated for viewers in these languages (YouTube shows them by viewer language)
+  languages: ["en", "bn", "ta", "te", "mr", "gu", "kn", "ml", "pa", "ur", "ne", "es", "pt", "fr", "de", "id", "ar", "ru", "ja", "ko", "tr", "vi", "th", "it"]
+  caption_languages: ["hi", "en"]   # uploaded caption tracks; YouTube auto-translates these further
 
 metadata:
-  base_hashtags: ["#ufo", "#uap", "#alien", "#ufodisclosure", "#ufoinhindi"]
-  trending_extra: 2
+  base_tags: ["UFO", "UAP", "UFO in Hindi", "UFO hindi", "aliens hindi", "रहस्य", "यूएफओ", "एलियन", "mystery hindi", "UFO documentary"]
   ai_disclosure: true
 
-sources:
-  modern_video: "https://www.war.gov/UFO"
-  newspapers: "loc.gov chronicling-america"
-  archives: ["national_archives_blue_book", "cia_foia", "black_vault"]
-  music: "youtube_audio_library"
+images:
+  per_video_target: 140
+  min_width: 900
+  dhash_distance: 6         # perceptual-hash distance below which two images count as the same picture
+  ai_fallback: true         # keyless AI illustration only when no fresh real image exists (Gemini image quota is 0)
 
 safety:
-  fail_safe: true
-  min_sources_per_video: 3
-  human_approval_required: true
+  min_seed_chars: 1500
 
 dedup:
   ledger: "used/ledger.csv"
-  embed_model: "nomic-embed-text"
+  image_ledger: "used/images.csv"
+  retired: "used/retired.csv"

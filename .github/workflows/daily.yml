@@ -1,32 +1,65 @@
 name: Daily UFO video
 
+# Fully automatic (operator decision 2026-11-15): build -> upload -> scheduled publish.
+# Three slots per day; the first that succeeds publishes, later slots see today's video
+# in the ledger and exit in seconds. So a GitHub outage/delay or a flaky source in one
+# slot never costs the day.
 on:
   schedule:
-    - cron: "30 7 * * *"
-  workflow_dispatch: {}
+    - cron: "30 1 * * *"     # 07:00 IST  primary
+    - cron: "0 6 * * *"      # 11:30 IST  retry slot
+    - cron: "30 10 * * *"    # 16:00 IST  last retry slot (publishes immediately if past 6 PM)
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "build only (no upload), video attached as an artifact"
+        type: boolean
+        default: false
+      force:
+        description: "build even if today's video already exists"
+        type: boolean
+        default: false
 
 permissions:
-  contents: write
+  contents: write     # commit ledgers + heartbeat
+  issues: write       # open an issue if a day fails
+
+concurrency:
+  group: daily-ufo
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    outputs:
-      video_id: ${{ steps.run.outputs.video_id }}
-      youtube_url: ${{ steps.run.outputs.youtube_url }}
-      skipped: ${{ steps.run.outputs.skipped }}
+    timeout-minutes: 200
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Install ffmpeg + Hindi font
-        run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-noto-core
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-      - name: Write Google Cloud key from secret
-        run: echo '${{ secrets.GCP_TTS_KEY }}' > gcp-key.json
-      - name: Build today's video (uploads to YouTube as PRIVATE)
+          cache: pip
+
+      - name: Install ffmpeg (retries)
+        run: |
+          for i in 1 2 3 4; do
+            sudo apt-get update -o Acquire::Retries=5 && \
+            sudo apt-get install -y -o Acquire::Retries=5 ffmpeg && break
+            echo "apt attempt $i failed, retrying"; sleep $((i*30))
+          done
+          ffmpeg -hide_banner -filters | grep -q " ass " || { echo "ffmpeg lacks libass"; exit 1; }
+
+      - name: Install Python packages (retries)
+        run: |
+          for i in 1 2 3; do pip install -r requirements.txt && break; sleep 20; done
+
+      - name: Optional Google Cloud key
+        run: |
+          if [ -n "${GCP_TTS_KEY}" ]; then printf '%s' "${GCP_TTS_KEY}" > gcp-key.json; fi
+        env:
+          GCP_TTS_KEY: ${{ secrets.GCP_TTS_KEY }}
+
+      - name: Build + publish today's video
         id: run
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -34,30 +67,51 @@ jobs:
           YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
           YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
           YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
-        run: python -m pipeline.run --stage build
-      - name: Save the updated dedup ledger
-        if: steps.run.outputs.skipped != 'true'
         run: |
+          ARGS=""
+          [ "${{ inputs.dry_run }}" = "true" ] && ARGS="$ARGS --dry-run"
+          [ "${{ inputs.force }}" = "true" ] && ARGS="$ARGS --force"
+          python -m pipeline.run $ARGS
+
+      - name: Attach dry-run output
+        if: ${{ inputs.dry_run }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: dry-run
+          path: out/
+
+      - name: Commit ledgers + heartbeat (keeps the schedule alive)
+        if: ${{ always() && inputs.dry_run != true }}
+        run: |
+          mkdir -p used
+          echo "$(date -u +%FT%TZ) ${{ steps.run.outcome }} ${{ steps.run.outputs.video_id }}" >> used/heartbeat.log
+          tail -n 400 used/heartbeat.log > used/hb.tmp && mv used/hb.tmp used/heartbeat.log
           git config user.name "ufo-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add used/ledger.csv || true
-          git commit -m "log video ${{ steps.run.outputs.video_id }}" || echo "nothing to commit"
-          git push || echo "push skipped"
+          git add used/ || true
+          git commit -m "run ${{ steps.run.outcome }} ${{ steps.run.outputs.video_id }}" || exit 0
+          for i in 1 2 3; do git pull --rebase -X theirs && git push && break; sleep 10; done
 
-  publish:
-    needs: build
-    if: needs.build.outputs.skipped != 'true'
-    runs-on: ubuntu-latest
-    environment: production
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-      - run: pip install -r requirements.txt
-      - name: Make today's video live (scheduled for 6 PM IST)
+      - name: Open an issue if today failed
+        if: ${{ failure() && inputs.dry_run != true }}
         env:
-          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
-          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
-          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
-        run: python -m pipeline.run --stage publish --video-id "${{ needs.build.outputs.video_id }}"
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          RUN_URL="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          N=$(gh issue list --label build-failure --state open --json number --jq '.[0].number')
+          if [ -n "$N" ]; then
+            gh issue comment "$N" --body "Failed again: $RUN_URL"
+          else
+            gh label create build-failure --color B60205 --force >/dev/null 2>&1 || true
+            gh issue create --label build-failure --title "Daily UFO video failed" \
+              --body "The daily build failed. Later slots today will retry automatically. Log: $RUN_URL"
+          fi
+
+      - name: Close the failure issue after a good day
+        if: ${{ success() && inputs.dry_run != true && steps.run.outputs.video_id != '' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for n in $(gh issue list --label build-failure --state open --json number --jq '.[].number'); do
+            gh issue close "$n" --comment "Recovered: https://youtu.be/${{ steps.run.outputs.video_id }}"
+          done

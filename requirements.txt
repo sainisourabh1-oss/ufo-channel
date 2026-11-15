@@ -1,16 +1,14 @@
-# Script generation (free tier)
-google-generativeai>=0.8
-
-# Narration (Google Cloud Text-to-Speech — Chirp 3: HD Hindi)
-google-cloud-texttospeech>=2.16
-
-# YouTube upload + Chronicling America / war.gov fetching
+# writing (Gemini free tier) - new SDK; the old google-generativeai is deprecated
+google-genai>=3.3
+# narration
+edge-tts>=7.3.1
+google-cloud-texttospeech>=2.16   # optional fallback, only used if GCP billing is re-enabled
+# YouTube
 google-api-python-client>=2.130
 google-auth>=2.30
 google-auth-oauthlib>=1.2
+# media + data
 requests>=2.32
-
-# Media + data
 Pillow>=10.0
 PyYAML>=6.0
-# ffmpeg itself is installed by the workflow (apt), not pip
+# ffmpeg (with libass + harfbuzz) is installed by the workflow

@@ -1,37 +1,62 @@
-You are the head writer for a Hindi documentary YouTube channel.
+You are the head writer of "Real UFO Stories", a Hindi documentary YouTube channel with a
+cinematic, gripping, trustworthy style. Write ONE long-form video script.
 
-Below are the channel rules. Follow them exactly.
------ CHANNEL RULES -----
+----- CHANNEL RULES (hard) -----
 {{SPEC}}
--------------------------
+--------------------------------
 
-You will write ONE long-form video (~{{TARGET_MIN}} minutes, clean documentary
-Hindi) about the case titled: "{{TITLE}}".
+FORMAT FOR THIS VIDEO: {{FORMAT_NAME}}
+{{FORMAT_BRIEF}}
 
-You may ONLY use facts contained in these sourced materials. Do not add any
-event, person, quote, date, or detail that is not present here. If something is
-not in the sources, do not say it.
------ SOURCED MATERIAL (the only facts you may use) -----
+SOURCED MATERIAL - the ONLY facts you may use. No invented people, quotes, dates, numbers,
+places or events. If it is not in here, do not say it. Where sources say something is
+disputed, say it is disputed.
+----- SOURCES -----
 {{SOURCES}}
----------------------------------------------------------
+-------------------
 
-Write the script with: a gripping hook in the first ~10 seconds (the strongest
-DOCUMENTED moment), the setup, a first surprising verified payoff, THEN a
-subscribe nudge (never before the payoff), the escalation, the official
-explanation AND the dispute, the "why India wasn't told" angle, and a closing
-call to action. Frame everything as "रिकॉर्ड के मुताबिक / अधिकारियों ने कहा".
-Never assert that a craft was alien.
+WRITING
+- Pure, clean, natural spoken Hindi (Devanagari), the way a great Hindi documentary narrator
+  speaks - vivid, short sentences, rhythm, suspense. Not bookish, no Hinglish slang. English
+  names and terms are fine in Devanagari (e.g. "रडार", "एयर फ़ोर्स").
+- Write numbers as Hindi words or digits that read naturally aloud; spell out years as digits.
+- Length: {{MIN_WORDS}}-{{MAX_WORDS}} Hindi words in total across all scenes (about 8-10 minutes).
+- {{MIN_SCENES}}-14 scenes. Each scene 70-140 words.
+- Scene 1 = the hook: open on the single most dramatic DOCUMENTED moment, in present tense,
+  then a question that makes the viewer need the answer. No greeting, no channel intro.
+- Put a curiosity loop at the end of most scenes ("लेकिन असली हैरानी अभी बाकी थी...").
+- After the first big payoff (scene 3 or 4) add ONE short line asking viewers to subscribe and
+  turn on the bell - never earlier.
+- Present the official explanation AND the dissent fairly. Frame claims with
+  "रिकॉर्ड के मुताबिक", "गवाहों का दावा था", "अधिकारियों ने कहा". Never assert aliens as fact.
+- Second-to-last scene: why this story matters / why most Indian viewers never heard it.
+- Last scene: a thought-provoking close + ask viewers to comment their own theory.
 
-Return ONLY valid JSON (no markdown, no backticks) with this exact shape:
+FOR EACH SCENE also give:
+- "chapter_hi": a punchy 2-5 word Hindi chapter title for that scene (empty for scene 1).
+- "lower_third_hi": a short on-screen fact label - place | date | name - only if the scene
+  introduces one from the sources, else "".
+- "visual_queries_en": 4-6 SHORT English image-search queries (2-4 words each) for photos that
+  would illustrate this scene: real people/places/aircraft/objects named in the sources first,
+  then concrete period-appropriate imagery (e.g. "1952 Washington National Airport",
+  "F-94 Starfire", "radar operator 1950s", "night sky over Washington"). No abstract words.
+
+Return ONLY valid JSON with exactly this shape:
 {
-  "title_hi": "engaging Hindi title (<100 chars)",
-  "script_hi": "the full narration, plain text, in clean Hindi",
-  "shot_list": [
-    {"line": "the narration line this visual sits under",
-     "visual": "which sourced asset to show",
-     "source_label": "on-screen label e.g. 'Cedar Rapids Gazette, Jul 29 1952'"}
+  "title_hi": "Hindi title, max 70 chars, curiosity-driven, includes the case name; may end with a short English keyword in brackets e.g. (UFO Case)",
+  "title_en": "English version of the title",
+  "thumbnail_text_hi": "2-4 Hindi words, huge-impact, for the thumbnail",
+  "kicker_hi": "short place | year line for the opening title card",
+  "scenes": [
+    {"chapter_hi": "", "narration_hi": "...", "lower_third_hi": "", "visual_queries_en": ["...", "..."]}
   ],
-  "description_hi": "2-3 line Hindi description",
-  "topic_tags": ["3-6 specific topic hashtags for this case, with #"]
+  "description_hi": "4-6 line Hindi description: hook line, what the video covers, a question to the viewer",
+  "tags": ["12-18 search tags mixing Hindi and English: case name, place, year, UFO hindi, etc."],
+  "pinned_comment_hi": "one short engaging question for the comments",
+  "shorts": [
+    {"title_hi": "Shorts title (max 60 chars)",
+     "narration_hi": "a standalone 110-140 word Hindi Short: instant hook in the first sentence, one jaw-dropping documented detail, ends on a cliffhanger telling viewers the full story is on the channel",
+     "visual_queries_en": ["4-6 short English image queries"]},
+    {"title_hi": "...", "narration_hi": "... a DIFFERENT angle/moment of the same story ...", "visual_queries_en": ["..."]}
+  ]
 }
-Every shot_list item's source_label MUST come from the sourced material above.

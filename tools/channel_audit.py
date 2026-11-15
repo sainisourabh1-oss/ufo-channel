@@ -11,7 +11,7 @@ Writes used/channel_inventory.csv every run.
 import argparse
 import csv
 import datetime as dt
-from pipeline.upload import _service
+from pipeline.youtube import service as _service
 from pipeline.settings import ROOT
 
 
