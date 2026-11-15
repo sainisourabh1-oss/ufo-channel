@@ -10,7 +10,7 @@ jobs:
         with:
           python-version: "3.12"
       - run: sudo apt-get update -o Acquire::Retries=5 && sudo apt-get install -y -o Acquire::Retries=5 ffmpeg
-      - run: pip install "google-genai>=1.40" "edge-tts>=7.3.1" Pillow
+      - run: pip install "google-genai>=3.3" "edge-tts>=7.3.1" Pillow
       - env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python tools/probe.py
