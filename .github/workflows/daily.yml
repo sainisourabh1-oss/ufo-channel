@@ -28,6 +28,9 @@ concurrency:
   group: daily-ufo
   cancel-in-progress: false
 
+env:
+  PYTHONUNBUFFERED: "1"     # live log lines, so a long render shows progress
+
 jobs:
   build:
     runs-on: ubuntu-latest
