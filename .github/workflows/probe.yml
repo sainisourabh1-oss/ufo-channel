@@ -1,0 +1,20 @@
+name: Capability probe
+on:
+  workflow_dispatch: {}
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: sudo apt-get update -o Acquire::Retries=5 && sudo apt-get install -y -o Acquire::Retries=5 ffmpeg
+      - run: pip install "google-genai>=1.40" "edge-tts>=7.3.1" Pillow
+      - env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python tools/probe.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: probe-audio
+          path: probe_out/
