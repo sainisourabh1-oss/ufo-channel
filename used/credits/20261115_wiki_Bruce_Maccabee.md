@@ -1,0 +1,184 @@
+# Image credits - अमेरिकी नौसेना का वैज्ञानिक और 'असली X-फ़ाइलें': डॉ. ब्रूस मैकाबी (UFO Case)
+
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- Fadillah Jafar | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:KILO_METER_NOL_SABANG_-_panoramio.jpg
+- Kiaryabagusadiwardana | CC0 | https://commons.wikimedia.org/wiki/File:Tugu_Titik_Nol_Cirebon.jpg
+- Edelweiss blogger | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Landmark_Titik_Nol_Nusantara.jpg
+- Lon Nol | Public domain | https://commons.wikimedia.org/wiki/File:%E9%BE%8D%E8%AB%BE%EF%BC%88Lon,_Nol%EF%BC%89%E5%BE%80%E4%BE%86%E5%87%BD%E4%BB%B6%EF%BC%9A%E9%AB%98%E6%A3%89%E7%B8%BD%E7%90%86%E9%BE%8D%E8%AB%BE%E5%87%BD%E8%94%A3%E7%B6%93%E5%9C%8B%E6%84%9F%E8%AC%9D%E9%AB%98%E6%A3%89%E8%BB%8D%E4%BA%8B%E4%BB%A3%E8%A1%A8%E5%9C%98%E8%A8%AA%E8%87%BA%E6%9C%9F%E9%96%93%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%94%BF%E5%BA%9C%E7%86%B1%E8%AA%A0%E6%8E%A5%E5%BE%85%E7%8D%B2%E7%9B%8A%E8%89%AF%E5%A4%9A%E6%9B%B4%E4%BD%BF%E5%85%A9%E5%9C%8B%E5%8F%8B%E8%AA%BC%E6%9B%B4%E5%8A%A0%E5%AF%86%E5%88%87.jpg
+- Meocatsu | CC0 | https://commons.wikimedia.org/wiki/File:Titik_Nol_Kilometer_Palembang.jpg
+- Doc01man | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:De_nol,_2015.jpg
+- Fhikri Latifi | CC0 | https://commons.wikimedia.org/wiki/File:Kantor_Pos_Nol_Km_Jogja.jpg
+- Bert Verhoeff for Anefo | CC0 | https://commons.wikimedia.org/wiki/File:Sparta_tegen_Ajax_1-1,_Nol_Heyerman_gewond_van_veld_gedragen_door_Henk_Klamer,_Bestanddeelnr_924-8716.jpg
+- Melchior Baumgartner | CC0 | https://www.metmuseum.org/art/collection/search/188830 (The Met)
+- Johannes van Ceulen | CC0 | https://www.metmuseum.org/art/collection/search/194011 (The Met)
+- libraryofcongress | CC0 1.0 | https://www.rawpixel.com/image/6983316/capitol-night
+- Carol M Highsmith | CC0 1.0 | https://www.rawpixel.com/image/433860/free-photo-image-capitol-hill-architecture
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/3370038/free-photo-image-america-architecture-building
+- Carol M Highsmith | CC0 1.0 | https://www.rawpixel.com/image/421876/the-washington-monument
+- NASA | CC0 1.0 | https://www.rawpixel.com/image/418583/washington-dc
+- Fort George G. Meade Public Affairs Office | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Freedom_of_Information_Act_(FOIA)_Document_Processing_(14189201882).jpg
+- Department of Housing and Urban Development. Office of the Chief Human Capital Office. Office of Broadcasting Operations | Public domain | https://commons.wikimedia.org/wiki/File:Desk_shot_of_Dolores_Cole,_Chief_FOIA_(Freedom_of_Information_Act)_Officer,_Executive_Secretariat_-_DPLA_-_387afeee0833446b4771a0185067ed8d.jpg
+- Tony Webster from Portland, Oregon | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:FBI_Freedom_of_Information_Act_FOIA_Response_Letter_(17488892322).jpg
+- Department of Housing and Urban Development. Office of the Chief Human Capital Office. Office of Broadcasting Operations | Public domain | https://commons.wikimedia.org/wiki/File:Desk_shot_of_Dolores_Cole,_Chief_FOIA_(Freedom_of_Information_Act)_Officer,_Executive_Secretariat_-_DPLA_-_5dbad8a499b082017abead4421bf4ea5.jpg
+- Ìgùn Ẹ́rọ̀nwwọ̀n (brass-casting guild) artists | CC0 | https://www.metmuseum.org/art/collection/search/310753 (The Met)
+- Vittore Gambello | CC0 | https://www.metmuseum.org/art/collection/search/204504 (The Met)
+- Unknown | CC0 | https://www.metmuseum.org/art/collection/search/312484 (The Met)
+- Antonello Gagini | CC0 | https://www.metmuseum.org/art/collection/search/197324 (The Met)
+- Unknown | CC0 | https://www.metmuseum.org/art/collection/search/204692 (The Met)
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6315117/png-frame-vintage
+- Vintage RS | CC0 1.0 | https://stocksnap.io/photo/tulip-bouquet-YTDZNVNVLP
+- Markus Spiske | CC0 1.0 | https://www.rawpixel.com/image/432264/free-photo-image-road-box-cc0
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/8535264/vector-paper-people-pattern
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6034485/photo-image-background-paper-public-domain
+- Vintage RS | CC0 1.0 | https://stocksnap.io/photo/tulip-bouquet-AOMYO3ZMR3
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6288081/png-paper-sticker
+- Francis Perigal | CC0 | https://www.metmuseum.org/art/collection/search/194020 (The Met)
+- Brewster & Co. | CC0 | https://www.metmuseum.org/art/collection/search/379641 (The Met)
+- George Harrison | CC0 | https://www.metmuseum.org/art/collection/search/194159 (The Met)
+- Unknown | CC0 | https://www.metmuseum.org/art/collection/search/309972 (The Met)
+- Brewster & Co. | CC0 | https://www.metmuseum.org/art/collection/search/378580 (The Met)
+- Jean-Baptiste-André Furet | CC0 | https://www.metmuseum.org/art/collection/search/202227 (The Met)
+- Brewster & Co. | CC0 | https://www.metmuseum.org/art/collection/search/379607 (The Met)
+- Cleveland Museum of Art | CC0 | https://clevelandart.org/art/1948.461
+- Cleveland Museum of Art | CC0 | https://clevelandart.org/art/1969.52
+- NASA | CC0 1.0 | https://www.rawpixel.com/image/441004/free-photo-image-rocket-astronaut-space-shuttle
+- libraryofcongress | CC0 1.0 | https://www.rawpixel.com/image/3799891/photo-image-light-vintage-sky
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/8718526/photo-image-sunset-public-domain
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/8717934/photo-image-smoke-public-domain
+- SpaceX | CC0 1.0 | https://stocksnap.io/photo/rockets-rocketship-00U6BMTEN6
+- U.S. Department of Defense | CC0 1.0 | https://www.rawpixel.com/image/3315500/free-photo-image-military-aircraft-carrier
+- Jonathan Desrosiers | CC0 1.0 | https://wordpress.org/photos/photo/142675a25e/
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6486448/photo-image-public-domain-ocean-sea
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/8718009/photo-image-vintage-public-domain-people
+- U.S. Forest Service (source) | CC0 1.0 | https://www.rawpixel.com/image/8729624/photo-image-public-domain-ocean-water
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/8846972/model-aircraft-carrier-uss-enterprise
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/8718529/photo-image-vintage-plane-public-domain
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/10995686/photo-image-public-domain-sea-bush
+- U.S. Navy photo by Mass Communication Specialist 3rd Class Ron Reeves | Public domain | https://commons.wikimedia.org/wiki/File:US_Navy_070127-N-0684R-035_An_F-A-18C_Hornet_assigned_to_the_Blue_Diamonds_of_Strike_Fighter_Squadron_One_Four_Six_VFA-146_launches_from_catapult_one_on_the_flight_deck_aboard_Nimitz-class_aircraft_carrier_USS_John_C._Stennis_C.jpg
+- USN | Public domain | https://commons.wikimedia.org/wiki/File:F4Us_on_USS_Kearsarge_(CV-33)_at_Yokosuka_1952.jpg
+- Lieutenant Commander John R. Leenhouts, U.S. Navy | Public domain | https://commons.wikimedia.org/wiki/File:Spanish_aircraft_carrier_D%C3%A9dalo_(R01)_underway_in_the_Mediterranean_Sea,_1_June_1988_(6430233).jpg
+- Wikideas1 | CC0 | https://commons.wikimedia.org/wiki/File:Mobile_offshore_base_super_carrier_amphibious.png
+- Mass Communication Specialist 3rd Class Jarod Hodge | Public domain | https://commons.wikimedia.org/wiki/File:E-2C_VAW-115_CV-63_2007.JPEG
+- Australian Consolidated Press Archive | Public domain | https://commons.wikimedia.org/wiki/File:HMS_Theseus_1947_SLNSW_FL16457887.jpg
+- National Aeronautics and Space Administration. Lyndon B. Johnson Space Center. Information Systems Directorate. Photogra | Public domain | https://commons.wikimedia.org/wiki/File:Gemini_XI_Mission_Image_-_Indian_Ocean-Sumatra_-_DPLA_-_97551f5c909bbf18e423c184e22d0024.jpg
+- National Aeronautics and Space Administration. Lyndon B. Johnson Space Center. Information Systems Directorate. Photogra | Public domain | https://commons.wikimedia.org/wiki/File:Gemini_XI_Mission_Image_-_Algeria-Libya_-_DPLA_-_919ded82ddc62896bd040750de27b1b7.jpg
+- NASA | Public domain | https://commons.wikimedia.org/wiki/File:Gemini_11_prime_crew_(Gordon_and_Conrad).jpg
+- National Aeronautics and Space Administration. Lyndon B. Johnson Space Center. Information Systems Directorate. Photogra | Public domain | https://commons.wikimedia.org/wiki/File:Gemini_V_Mission_Image_-_Mexico_-_DPLA_-_ce61dd7849f9db399d540b67d251ea1e.jpg
+- National Aeronautics and Space Administration. Lyndon B. Johnson Space Center. Information Systems Directorate. Photogra | Public domain | https://commons.wikimedia.org/wiki/File:Gemini_XI_Mission_Image_-_China-India-Nepal_-_DPLA_-_b4d7bc65454876c375e01a984bd73d82.jpg
+- National Aeronautics and Space Administration. Lyndon B. Johnson Space Center. Information Systems Directorate. Photogra | Public domain | https://commons.wikimedia.org/wiki/File:Gemini_VII_Mission_Image_-_Mauritania_-_DPLA_-_f6844796deee6982b8cfff9739e97524.jpg
+- National Aeronautics and Space Administration. Lyndon B. Johnson Space Center. Information Systems Directorate. Photogra | Public domain | https://commons.wikimedia.org/wiki/File:Gemini_V_Mission_Image_-_Clouds,_Hawaii_-_DPLA_-_18d4dfcd239f54cdc02d755158a086cb.jpg
+- National Aeronautics and Space Administration. Lyndon B. Johnson Space Center. Information Systems Directorate. Photogra | Public domain | https://commons.wikimedia.org/wiki/File:Gemini_IV_Mission_Image_-_Earth_limb_-_DPLA_-_a38ff183924621412753d3460cbd1e1a.jpg
+- NASA Johnson Space Center | Public domain | https://commons.wikimedia.org/wiki/File:GEMINI-TITAN_(GT)-3_-_EARTH_-_SKY_VIEW_-_AFRICA_(s65-18750).jpg
+- National Aeronautics and Space Administration. Lyndon B. Johnson Space Center. Information Systems Directorate. Photogra | Public domain | https://commons.wikimedia.org/wiki/File:Gemini_XI_Mission_Image_-_Africa-Middle_East_-_DPLA_-_ca0c9ddf2a140de0bfebf11fcbeeea99.jpg
+- National Aeronautics and Space Administration. Lyndon B. Johnson Space Center. Information Systems Directorate. Photogra | Public domain | https://commons.wikimedia.org/wiki/File:Gemini_VII_Mission_Image_-_Brazil_-_DPLA_-_7f166e7960d80fcee12c3af2fa87895a.jpg
+- National Aeronautics and Space Administration. Lyndon B. Johnson Space Center. Information Systems Directorate. Photogra | Public domain | https://commons.wikimedia.org/wiki/File:Gemini_XI_Mission_Image_-_Western_Australia_-_DPLA_-_8970ba386fd3883b39dc114369165217.jpg
+- National Aeronautics and Space Administration (NASA) | CC0 | https://www.metmuseum.org/art/collection/search/717459 (The Met)
+- National Aeronautics and Space Administration (NASA) | CC0 | https://www.metmuseum.org/art/collection/search/717462 (The Met)
+- Pedro Ribeiro Simões from Lisboa, Portugal | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Porsche_356_Carrera_(12952727464).jpg
+- Chris Sampson | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Jaguar_S-Type_SUU_486F_Felixstowe_rear_quarter.jpg
+- U. A. Saarinen | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Disorder_at_the_Helsinki_Youth_Festival_1962_(JOKAUAS2_9729-2).tif
+- מרצ'ל מיכאל אלמגור | CC BY 2.5 | https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_21000_Israel_Defense_Forces.jpg
+- AnonymousUnknown author | Public domain | https://commons.wikimedia.org/wiki/File:Owen_Francis_Langan_(1884-1963)_obituary_in_the_Jersey_Journal_on_July_29,_1963.png
+- Steve Shook from Moscow, Idaho, USA | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Valparaiso_Technical_Institute,_circa_1960s_-_Valparaiso,_Indiana_(43831974672).jpg
+- Chris Sampson | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:SUU409F-1_030515_CPS_(23807587274).jpg
+- Chris Sampson | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Jaguar_S-Type_SUU_486F_Felixstowe_roof.jpg
+- Chris Sampson | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Jaguar_S-Type_SUU_486F_Felixstowe_front_quarter.jpg
+- Valder137 | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Plymouth_Barracuda_1970_Hemi_Head_On_Lake_Mirror_Cassic_16Oct2010_(14690447060).jpg
+- René Boyvin | CC0 | https://www.metmuseum.org/art/collection/search/787841 (The Met)
+- Moche artist(s) | CC0 | https://www.metmuseum.org/art/collection/search/313400 (The Met)
+- Andy Kleinhesselink | CC0 1.0 | https://www.inaturalist.org/photos/119199830
+- Rod | CC0 1.0 | https://www.inaturalist.org/photos/14446112
+- Teotihuacan artist(s) | CC0 | https://www.metmuseum.org/art/collection/search/312781 (The Met)
+- Chakalte' | CC0 | https://www.metmuseum.org/art/collection/search/313240 (The Met)
+- Unknown | CC0 | https://www.metmuseum.org/art/collection/search/317430 (The Met)
+- Unknown | CC0 | https://www.metmuseum.org/art/collection/search/317429 (The Met)
+- Unknown | CC0 | https://www.metmuseum.org/art/collection/search/317121 (The Met)
+- Unknown | CC0 | https://www.metmuseum.org/art/collection/search/307443 (The Met)
+- Unknown | CC0 | https://www.metmuseum.org/art/collection/search/317120 (The Met)
+- Alexander Gardner | CC0 | https://www.metmuseum.org/art/collection/search/283204 (The Met)
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- George Du Maurier | CC0 | https://www.metmuseum.org/art/collection/search/845732 (The Met)
+- Mihály Munkácsy | CC0 | https://www.metmuseum.org/art/collection/search/437170 (The Met)
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/5968956/space-rocket-launch
+- SpaceX | CC0 1.0 | https://stocksnap.io/photo/rocket-launch-O5PRP2Y2MQ
+- NASA | CC0 1.0 | https://www.rawpixel.com/image/439970/free-photo-image-rocket-spaceship-launch
+- SpaceX | CC0 1.0 | https://stocksnap.io/photo/rocket-launch-7V1JEO2YXQ
+- NASA | CC0 1.0 | https://www.rawpixel.com/image/440743/free-photo-image-baikonur-cosmodrome-russia-baikonur
+- U.S. Navy photo by Journalist 3rd Class Ryan C. McGinley | Public domain | https://commons.wikimedia.org/wiki/File:US_Navy_051030-N-3019M-002_Family_members_wave_to_the_nuclear-powered_aircraft_carrier_USS_Nimitz_(CVN_68)_as_she_passes_the_missing_man_memorial_on_board_Hickam_Air_Force_Base,_and_enters_Pearl_Harbor.jpg
+- Airman Robert Baker, U.S. Navy | Public domain | https://commons.wikimedia.org/wiki/File:USS_John_C._Stennis_(CVN-74)_and_HMS_Illustrious_(R_06)_in_the_Persian_Gulf_on_April_9,_1998.jpg
+- 日本防衛省・統合幕僚監部 | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:A_PLAN_Shenyang_J-15_carrier-based_fighter_aircraft_is_taking_off_from_Chinese_aircraft_carrier_PLANS_Liaoning_(CV-16)_20220516.jpg
+- U.S. Navy photo by Mass Communication Specialist 3rd Class Brian M. Brooks | Public domain | https://commons.wikimedia.org/wiki/File:US_Navy_100316-N-9793B-022_Quartermaster_Seaman_Ryan_P._Hall,_right,_watches_Quartermaster_2nd_Class_Paulino_Martinez_chart_a_course_aboard_the_aircraft_carrier_USS_George_H.W._Bush_(CVN_77).jpg
+- NASA | Public domain | https://commons.wikimedia.org/wiki/File:Endeavour_on_Shuttle_Carrier_Aircraft_-_GPN-2000-001878.jpg
+- U.S. Forest Service (source) | CC0 1.0 | https://www.rawpixel.com/image/8739441/photo-image-background-public-domain-person
+- U.S. Forest Service (source) | CC0 1.0 | https://www.rawpixel.com/image/8729546/photo-image-public-domain-boat
+- U.S. Forest Service (source) | CC0 1.0 | https://www.rawpixel.com/image/8729533/photo-image-public-domain-person-water
+- The Central Intelligence Agency | Public domain | https://commons.wikimedia.org/wiki/File:President_Clintonand_others_discuss_the_president%E2%80%99s_remarks_announcing_the_Bosnia-Herzegovina_Peace_Agreement_-_Flickr_-_The_Central_Intelligence_Agency.jpg
+- Jifei Ruyi (Sokuhi Nyoitsu) | CC0 | https://www.metmuseum.org/art/collection/search/902221 (The Met)
+- Mesoamerican artist(s) | CC0 | https://www.metmuseum.org/art/collection/search/309987 (The Met)
+- Unknown | CC0 | https://www.metmuseum.org/art/collection/search/313203 (The Met)
+- Alphonse-Marie-Adolphe de Neuville | CC0 | https://www.metmuseum.org/art/collection/search/437220 (The Met)
+- ESO | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:The_Auxiliary_Telescope_1,_at_Paranal_Observatory_in_Chile_(at1).tiff
+- SSPWXR | CC0 | https://commons.wikimedia.org/wiki/File:Observatory_Telescope_at_the_University_of_Saskatchewan.jpg
+- Sebastian Wallroth | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Hale_Telescope,_Palomar_Observatory_001.jpg
+- Mojmir Churavy | CC0 | https://commons.wikimedia.org/wiki/File:Stefanik_Observatory_Telescope_Exhibition.jpg
+- Cleveland Museum of Art | CC0 | https://clevelandart.org/art/2011.172
+- Cleveland Museum of Art | CC0 | https://clevelandart.org/art/2001.14
+- Cleveland Museum of Art | CC0 | https://clevelandart.org/art/2001.13
+- Vtx22 | CC0 | https://commons.wikimedia.org/wiki/File:Aurora_as_seen_from_Erlangen,_Germany_(49%C2%B0N).jpg
+- Dixie, B., Gladwin, George | Public Domain Mark | https://wellcomecollection.org/works/uzyn9d45 (Wellcome Collection)
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6021946/photo-image-light-public-domain-ocean
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6035198/photo-image-public-domain-free-building
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/3302366/free-photo-image-lighthouse-glow-architecture
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/5923993/photo-image-public-domain-blue-free
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/5920284/photo-image-background-public-domain-free
+- JJ Skys the Limit | CC0 1.0 | https://stocksnap.io/photo/lighthouse-sky-T4Z18OQGU8
+- Unknown | Public Domain Mark | https://wellcomecollection.org/works/egcmqdgp (Wellcome Collection)
+- AI-generated illustration (not a real photograph)
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6050271/free-public-domain-cc0-photo
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- Gerhard Fieseler Werke GmbH | CC0 | https://commons.wikimedia.org/wiki/File:Missile,_Cruise,_V-1_(Fi_103,_FZG_76)_-_DPLA_-_306fb1c5288978242e9a8cd352a5b43a_(page_4).jpg
+- Bone, Muirhead, Sir, 1876-1953 | Public domain | https://commons.wikimedia.org/wiki/File:A_Spanish_Good_Friday_(Ronda)_-_DPLA_-_e1401ef54ad38a09b2a73ea7b5f5558e.jpg
+- USDAgov | Public domain | https://commons.wikimedia.org/wiki/File:20190507-OSEC-TEW-36911-toned.jpg
+- Internet Archive Book Images | No restrictions | https://commons.wikimedia.org/wiki/File:To_Geyserland_-_Oregon_Short_Line_Railroad_to_the_Yellowstone_National_Park_-_connecting_with_transcontinental_trains_from_all_points_east_and_west_thence_through_the_park_by_the_four-horse_Concord_(14572732309).jpg
+- A. Y. Jackson | Public domain | https://commons.wikimedia.org/wiki/File:A.Y._Jackson_-_A_Copse,_Evening,_1918.jpg
+- Bone, Muirhead, Sir, 1876-1953 | Public domain | https://commons.wikimedia.org/wiki/File:Picadilly_Circus,_1915_-_DPLA_-_45189518aeb01dfcb22a694bfddb0a2a.jpg
+- Bone, Muirhead, Sir, 1876-1953 | Public domain | https://commons.wikimedia.org/wiki/File:A_Spanish_Good_Friday_(Ronda)_-_DPLA_-_be87694f41b4b694d6f527bb6d5317c6.jpg
+- Internet Archive Book Images | No restrictions | https://commons.wikimedia.org/wiki/File:Triumphs_and_wonders_of_the_19th_century,_the_true_mirror_of_a_phenomenal_era,_a_volume_of_original,_entertaining_and_instructive_historic_and_descriptive_writings,_showing_the_many_and_marvellous_(14596960489).jpg
+- Princess Louise, Duchess of Argyll, Hollidge, William, active 1869-1895. | Public Domain Mark | https://wellcomecollection.org/works/fc6u2yu7 (Wellcome Collection)
+- George Cruikshank | Public Domain Mark | https://wellcomecollection.org/works/dvq5g4tk (Wellcome Collection)
+- CK Kelly | BY 4.0 | https://www.inaturalist.org/photos/8054262
+- Andrew Meeds | BY 4.0 | https://www.inaturalist.org/photos/325904876
+- CK Kelly | BY 4.0 | https://www.inaturalist.org/photos/16551874
+- Justin Paulin | BY 4.0 | https://www.inaturalist.org/photos/266615062
+- Bob Miller | BY 4.0 | https://www.inaturalist.org/photos/113344352
+- Alina Martin | BY 4.0 | https://www.inaturalist.org/photos/286997542
+- Alan Rockefeller | BY 4.0 | https://www.inaturalist.org/photos/352891037
+- Ethan Wright | BY 4.0 | https://www.inaturalist.org/photos/119339876
+- CK Kelly | BY 4.0 | https://www.inaturalist.org/photos/8075285
+- James Richard Roberts | BY 4.0 | https://www.inaturalist.org/photos/320217948
+- Joe Haupt from USA | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Vintage_Advertising_For_RCA_Transistor_Radios_In_The_Terre_Haute_Indiana_Tribune_Newspaper,_February_9,_1964_(28035077242).jpg
+- Joe Haupt from USA | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Vintage_Advertising_For_Zenith_Transistor_Radios_In_The_Roseburg_Oregon_News_Review_Newspaper,_June_20,_1957_(32216795850).jpg
+- Joe Haupt from USA | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Vintage_Newspaper_Advertising_For_The_Philco_T-7_Transistor_Radio_In_The_Oshkosh_Wisconsin_Daily_Northwestern,_May_10,_1957_(31974523472).jpg
