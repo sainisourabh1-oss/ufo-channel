@@ -328,6 +328,17 @@ def fetch(url, dest: Path, source: str, batch_dh: list, batch_sha: set, r=None):
     return {"path": dest, "url": url, "sha1": sha, "dhash": dh, "source": source, "credit": CREDIT.get(url, source)}
 
 
+MUSEUM_WORDS = ("sky", "night", "star", "moon", "comet", "cloud", "storm", "lightning", "meteor", "aurora",
+                "sea", "ocean", "coast", "landscape", "desert", "mountain", "eclipse", "sun", "celestial",
+                "heaven", "broadsheet", "woodcut", "engraving", "etching", "fog", "dusk", "dawn", "twilight")
+
+
+def _museum_ok(q):
+    import re as _re
+    ql = (q or "").lower()
+    return any(w in ql for w in MUSEUM_WORDS) or bool(_re.search(r"(?<!\d)1[5-8]\d\d(?!\d)", ql))
+
+
 class Collector:
     """Gathers never-before-used images for each scene of one video."""
 
@@ -382,9 +393,13 @@ class Collector:
         primary = [("commons", src_commons), ("nasa", src_nasa), ("openverse", src_openverse),
                    ("wellcome", src_wellcome)]
         museums = [("cleveland", src_cleveland), ("met", src_met)]
+        # museum art only for atmospheric/period searches - a topical search like "navy scientist"
+        # returned a bronze statue (seen in the 2026-11-15 test video)
         rounds = [(q, self.rnd.sample(primary, len(primary)), 12) for q in qs]
-        rounds += [(q, self.rnd.sample(museums, len(museums)), 8) for q in qs[:3]]
-        rounds += [(q, self.rnd.sample(primary + museums, 3), 10) for q in self.rnd.sample(FILLER_QUERIES, 6)]
+        rounds += [(q, self.rnd.sample(museums, len(museums)), 8) for q in qs if _museum_ok(q)][:3]
+        for q in self.rnd.sample(FILLER_QUERIES, 6):
+            pool = primary + museums if _museum_ok(q) else primary
+            rounds.append((q, self.rnd.sample(pool, 3), 10))
         for q, srcs, cap in rounds:
             for name, fn in srcs:
                 if len(out) >= need or self._over():
