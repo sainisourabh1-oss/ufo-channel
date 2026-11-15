@@ -1,0 +1,42 @@
+name: Channel maintenance
+
+# Manual only. "audit" lists every upload; "delete" removes low-view videos.
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "audit or delete"
+        default: "audit"
+        type: choice
+        options: [audit, delete]
+      max_views:
+        description: "delete videos with this many views or fewer"
+        default: "9"
+      confirm:
+        description: "type DELETE to actually delete"
+        default: ""
+
+jobs:
+  maintain:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install google-api-python-client google-auth PyYAML requests
+      - name: Run
+        env:
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+        run: |
+          if [ "${{ inputs.mode }}" = "delete" ]; then
+            python -m tools.channel_audit --delete --max-views "${{ inputs.max_views }}" --confirm "${{ inputs.confirm }}"
+          else
+            python -m tools.channel_audit --max-views "${{ inputs.max_views }}"
+          fi
+      - uses: actions/upload-artifact@v4
+        with:
+          name: channel-inventory
+          path: used/channel_inventory.csv
