@@ -340,6 +340,9 @@ class Collector:
         self.t0 = time.time()
         self.budget = IMG.get("time_budget_min", 22) * 60    # whole-video image budget
 
+    def new_budget(self, minutes):
+        self.t0, self.budget = time.time(), minutes * 60
+
     def _over(self):
         return time.time() - self.t0 > self.budget
 

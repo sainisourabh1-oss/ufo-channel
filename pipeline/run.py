@@ -179,6 +179,7 @@ def produce(case, script, dry: bool):
                 print(f"[run] short {k} too long ({sdur:.0f}s) - skipped"); continue
             need = max(4, round(sdur / 3.2))
             col.W, col.H = sw, shh
+            col.new_budget(6)     # each Short gets its own image time budget (the long render used the first one up)
             got = col.for_scene(s["visual_queries_en"], need, 100 + k)
             while len(got) < need:
                 got.append(starfield(work / f"sstar_{k}_{len(got)}.jpg", sw, shh, seed + 7000 + k * 50 + len(got)))

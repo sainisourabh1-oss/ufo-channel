@@ -107,6 +107,13 @@ def playlist(video_id, key: str, title: str, description: str):
                 "status": {"privacyStatus": "public"}}).execute()
             ids[key] = pl["id"]
             PLAYLISTS.write_text(json.dumps(ids, ensure_ascii=False, indent=2), encoding="utf-8")
-        service().playlistItems().insert(part="snippet", body={"snippet": {
-            "playlistId": ids[key], "resourceId": {"kind": "youtube#video", "videoId": video_id}}}).execute()
+        for attempt in range(4):      # 409 "operation was aborted" is transient on fresh uploads
+            try:
+                service().playlistItems().insert(part="snippet", body={"snippet": {
+                    "playlistId": ids[key], "resourceId": {"kind": "youtube#video", "videoId": video_id}}}).execute()
+                return
+            except Exception as e:
+                if attempt == 3 or "409" not in str(e):
+                    raise
+                time.sleep(10 * (attempt + 1))
     return _soft(f"playlist {key}", go)
