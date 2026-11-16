@@ -19,7 +19,7 @@ sentences, suspense in the pauses. No Hinglish slang.
 - **Case file** — one case, deep dive, chronological like a thriller.
 - **Claim vs evidence** — a famous claim examined fairly; why people believed it, what was found.
 - **Top 5 countdown** — five documented cases sharing a theme.
-Plus 2 vertical Shorts per day, each a standalone hook pointing to the full video.
+No Shorts (operator 2026-11-16): long videos only.
 
 ## HARD RULES (the validator rejects a script that breaks them)
 1. Only sourced material — no invented events, witnesses, quotes, numbers or dates.
@@ -32,4 +32,4 @@ Plus 2 vertical Shorts per day, each a standalone hook pointing to the full vide
 
 ## Publishing
 Fully automatic (operator decision 2026-11-15): the long video goes live at 6 PM IST
-(immediately if built later), Shorts at 7:00 PM and 9:30 PM IST. No approval step.
+(immediately if built later). No Shorts. No approval step.

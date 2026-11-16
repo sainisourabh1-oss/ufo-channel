@@ -41,7 +41,7 @@ video:
   preset: "veryfast"
 
 shorts:
-  enabled: true
+  enabled: false            # operator 2026-11-16: long videos only, no Shorts
   count: 2
   max_seconds: 58
   width: 1080

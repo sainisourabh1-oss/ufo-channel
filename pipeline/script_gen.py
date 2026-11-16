@@ -39,7 +39,8 @@ def _words(data):
 
 
 def validate(data) -> str | None:
-    for k in ["title_hi", "scenes", "description_hi", "shorts"]:
+    need = ["title_hi", "scenes", "description_hi"] + (["shorts"] if CONFIG["shorts"].get("enabled") else [])
+    for k in need:
         if not data.get(k):
             return f"missing {k}"
     scenes = data["scenes"]
@@ -56,6 +57,9 @@ def validate(data) -> str | None:
         return f"not mostly Devanagari ({dev:.2f})"
     if any(b.lower() in text.lower() for b in BANNED):
         return "asserts aliens as fact"
+    if not CONFIG["shorts"].get("enabled"):
+        data["shorts"] = []          # Shorts are off: never block a good long script on them
+        return None
     shorts = [s for s in data["shorts"] if len(s.get("narration_hi", "").split()) >= 70]
     if not shorts:
         return "no usable shorts"
