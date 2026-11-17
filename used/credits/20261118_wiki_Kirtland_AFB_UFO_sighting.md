@@ -1,0 +1,120 @@
+# Image credits - कर्टलैंड एयर बेस की रहस्यमयी रात: सच या भ्रम? (UFO Case)
+
+- NASA/George Shelton | Public domain | https://commons.wikimedia.org/wiki/File:Phoenix_Launch_04_08_2007.jpg
+- Bill Ingalls | Public domain | https://commons.wikimedia.org/wiki/File:Soyuz_TMA-06M_rocket_launches_from_Baikonur_5.jpg
+- NASA/DFRC/Steve Thomas | Public domain | https://commons.wikimedia.org/wiki/File:Dryden_Aerospike_Rocket_Test_(4858567714).jpg
+- NASA | Public domain | https://commons.wikimedia.org/wiki/File:Deep_Impact_Launch.jpg
+- Joel Kowsky | Public domain | https://commons.wikimedia.org/wiki/File:Artemis_I_Launch_(NHQ202211160017).jpg
+- Background map: Government of South AustraliaArtwork: SCHolar44 | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Map_of_rocket_launching_sites_used_by_Southern_Launch_in_South_Australia.tif
+- U.S. Navy | Public domain | https://commons.wikimedia.org/wiki/File:Vanguard_rocket_explodes.jpg
+- Suzuki Shōnen | CC0 | https://www.metmuseum.org/art/collection/search/57166 (The Met)
+- Eishōsai Chōki | CC0 | https://www.metmuseum.org/art/collection/search/44993 (The Met)
+- Unidentified | CC0 | https://www.metmuseum.org/art/collection/search/51392 (The Met)
+- ESO/B.Tafreshi (twanight.org) 
+
+
+. | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Atacama_night_sky_revealed_(uhd_img_2563pv1-cc).tiff
+- ESO/B. Tafreshi (twanight.org) | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Jewels_of_the_Chilean_night_sky_(uhd_img_3623p-cc).tiff
+- Dan Duriscoe, for the en:U.S. National Park Service. | Public domain | https://commons.wikimedia.org/wiki/File:Deathvalleysky_nps_big.jpg
+- ESO | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Ice_in_the_desert_(d8b5266a-cc).jpg
+- BLMArizona | Public domain | https://commons.wikimedia.org/wiki/File:Sonoran_Desert_National_Monument_(26093968334).jpg
+- William Edward Frank Britten (1848–1916)
+Adam Cuerden (restoration) | Public domain | https://commons.wikimedia.org/wiki/File:W.E.F._Britten_-_The_Early_Poems_of_Alfred,_Lord_Tennyson_-_The_Deserted_House.jpg
+- NASA | Public domain | https://commons.wikimedia.org/wiki/File:ISS-46_Northern_India_at_night.jpg
+- Jamison McAndie jamomca | CC0 | https://commons.wikimedia.org/wiki/File:Desert_Stargazing_(Unsplash).jpg
+- U.S. Army photo by Spc. Micheala Maldonado | Public domain | https://commons.wikimedia.org/wiki/File:French_Desert_Commando_Course_(8934176).jpg
+- Louis Boily | CC0 | https://www.metmuseum.org/art/collection/search/631849 (The Met)
+- Unknown | CC0 | https://www.metmuseum.org/art/collection/search/209815 (The Met)
+- Andrew Mcmillan | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Wisconsin_State_Capitol_At_Night_(136024923).jpeg
+- Tony Webster from Minneapolis, Minnesota, United States | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Iowa_State_Capitol_Building_at_Night_-_Des_Moines_(33413897514).jpg
+- Justin Waits | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Nebraska_State_Capitol_@_Night_(5276415850).jpg
+- McGhiever | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Iowa_State_Capitol_at_night.jpg
+- Don Ramey Logan | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Utah_State_Capitol_at_Night_by_Don_Ramey_Logan.jpg
+- Diliff | CC BY 2.5 | https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg
+- Richard Hurd from Green Bay, USA | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:State_Capitol_Building_in_Madison_at_night_10-22-2012_353_(8116885403).jpg
+- Unknown authorUnknown author | Public domain | https://commons.wikimedia.org/wiki/File:Night_view_of_the_Old_Capitol_Building_in_Olympia,_Washington,_circa_1904-1905.jpg
+- Ac530 | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:North_side_of_the_Idaho_State_Capitol_at_night.jpg
+- Ktkvtsh | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Louisiana_Capitol_Building_during_Landry_Inauguration.jpg
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/8718309/photo-image-vintage-airplane-public-domain
+- Maya artist(s) | CC0 | https://www.metmuseum.org/art/collection/search/313262 (The Met)
+- Unknown | CC0 | https://www.metmuseum.org/art/collection/search/713007 (The Met)
+- Utagawa (Gountei) Sadahide | CC0 | https://www.metmuseum.org/art/collection/search/73569 (The Met)
+- Martin Johnson Heade | CC0 | https://www.metmuseum.org/art/collection/search/11050 (The Met)
+- John Sell Cotman | CC0 | https://www.metmuseum.org/art/collection/search/746834 (The Met)
+- Quentin Pierre Chedel | CC0 | https://www.metmuseum.org/art/collection/search/746174 (The Met)
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/3289261/free-photo-image-cave-adventure-animal
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6020950/photo-image-light-desktop-wallpapers-public-domain
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6076935/lake-night
+- Thomas Nast | CC0 | https://www.metmuseum.org/art/collection/search/429263 (The Met)
+- NASA | Public domain | https://commons.wikimedia.org/wiki/File:Enterprise_free_flight.jpg
+- NASA | Public domain | https://commons.wikimedia.org/wiki/File:Launch_of_Space_Shuttle_Discovery_from_Kennedy_Space_Center_STS-31.jpg
+- NASA | Public domain | https://commons.wikimedia.org/wiki/File:Space_Shuttle_Columbia_rolls_out_to_Launch_Pad_39B.jpg
+- Zebralongwing | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Space_Shuttle_Atlantis_Launch_(50669844077).jpg
+- John Margolies | Public domain | https://commons.wikimedia.org/wiki/File:Discovery_Space_Shuttle_Launch,_Cocoa_Beach,_Florida_LCCN2017712577.tif
+- John Margolies | Public domain | https://commons.wikimedia.org/wiki/File:Discovery_Space_Shuttle_Launch,_Cocoa_Beach,_Florida_LCCN2017712574.tif
+- Bill Ingalls | Public domain | https://commons.wikimedia.org/wiki/File:STS-126_Space_Shuttle_Endeavour_Launch_(STS126-S-041).jpg
+- John Margolies | Public domain | https://commons.wikimedia.org/wiki/File:Discovery_Space_Shuttle_Launch,_Cocoa_Beach,_Florida_LCCN2017712571.tif
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- Teasdale, Sara, 1884-1933 | Public domain | https://commons.wikimedia.org/wiki/File:Letter_signed_Sara,_Santa_Barbara,_to_(Ernst_Filsinger),_Paris,_March_29,_1920_-_DPLA_-_82680d08c1ba1e08e2000b3098cd0bf0_(page_5).jpg
+- Teasdale, Sara, 1884-1933 | Public domain | https://commons.wikimedia.org/wiki/File:Letter_signed_Sara,_Santa_Barbara,_to_(Ernst_Filsinger),_Paris,_March_29,_1920_-_DPLA_-_82680d08c1ba1e08e2000b3098cd0bf0_(page_8).jpg
+- Teasdale, Sara, 1884-1933 | Public domain | https://commons.wikimedia.org/wiki/File:Letter_signed_Sara,_Santa_Barbara,_to_(Ernst_Filsinger),_Paris,_March_29,_1920_-_DPLA_-_82680d08c1ba1e08e2000b3098cd0bf0_(page_2).jpg
+- Teasdale, Sara, 1884-1933 | Public domain | https://commons.wikimedia.org/wiki/File:Letter_signed_Sara,_Santa_Barbara,_to_(Ernst_Filsinger),_Paris,_March_29,_1920_-_DPLA_-_82680d08c1ba1e08e2000b3098cd0bf0_(page_11).jpg
+- Teasdale, Sara, 1884-1933 | Public domain | https://commons.wikimedia.org/wiki/File:Letter_signed_Sara,_Santa_Barbara,_to_(Ernst_Filsinger),_Paris,_March_29,_1920_-_DPLA_-_82680d08c1ba1e08e2000b3098cd0bf0_(page_10).jpg
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- Unknown | Public Domain Mark | https://wellcomecollection.org/works/fpaayrkh (Wellcome Collection)
+- Unknown | Public Domain Mark | https://wellcomecollection.org/works/fpaayrkh (Wellcome Collection)
+- Unknown | Public Domain Mark | https://wellcomecollection.org/works/fpaayrkh (Wellcome Collection)
+- SALTOnline | No restrictions | https://commons.wikimedia.org/wiki/File:METU,_Faculty_of_Architecture_(14663111870).jpg
+- SALTOnline | No restrictions | https://commons.wikimedia.org/wiki/File:METU,_Faculty_of_Architecture_(14663172139).jpg
+- SALTOnline | No restrictions | https://commons.wikimedia.org/wiki/File:METU,_Faculty_of_Architecture_(14826808296).jpg
+- Kheel Center | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:African_American_and_Hispanic_American_workers_on_strike_against_Kellwood,_wearing_placards_that_encourage_support_for_better_wages_(5279068837).jpg
+- SALTOnline | No restrictions | https://commons.wikimedia.org/wiki/File:METU,_Faculty_of_Architecture_(14849788485).jpg
+- Ecian89 | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Thunderstorm_approaches_Zagreb_in_the_afternoon.jpg
+- Vyacheslav Argenberg | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Peter_and_Paul_Fortress,_thunderstorm,_St._Petersburg,_Russia.jpg
+- Vyacheslav Argenberg | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Peter_and_Paul_Fortress,_thunderstorm_sky,_St._Petersburg,_Russia.jpg
+- NASA | Public domain | https://commons.wikimedia.org/wiki/File:Electrical_Storm_-_GPN-2000-001879.jpg
+- Henry Hamilton Johnston | Public domain | https://commons.wikimedia.org/wiki/File:A_view_north_from_elgon_towards_karamojo_thunderstorm_sweeping_up.jpg
+- Thomas Nast | CC0 | https://www.metmuseum.org/art/collection/search/394469 (The Met)
+- Charles Moussette | CC0 | https://www.metmuseum.org/art/collection/search/287289 (The Met)
+- Teotihuacan artist(s) | CC0 | https://www.metmuseum.org/art/collection/search/314224 (The Met)
+- Charles Thévenin | CC0 | https://www.metmuseum.org/art/collection/search/384288 (The Met)
+- Tyler Lastovich | CC0 1.0 | https://stocksnap.io/photo/snow-mountain-6DC0ERNTN3
+- Utagawa Toyokuni II | CC0 | https://www.metmuseum.org/art/collection/search/51086 (The Met)
+- William Pether | CC0 | https://www.metmuseum.org/art/collection/search/359909 (The Met)
+- Paul Gauguin | CC0 | https://www.metmuseum.org/art/collection/search/337833 (The Met)
+- Giovanni David | CC0 | https://www.metmuseum.org/art/collection/search/335682 (The Met)
+- Olin Levi Warner | CC0 | https://www.metmuseum.org/art/collection/search/13161 (The Met)
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/5964125/free-public-domain-cc0-photo
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/3302763/free-photo-image-road-moon-astronomy-cc0
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/3298696/free-photo-image-desert-star-night-blue
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/5924245/free-public-domain-cc0-photo
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/3286261/free-photo-image-desert-astronomy-travel
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/3298070/free-photo-image-sand-dune-grass-black-and-white-abies
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/3289391/free-photo-image-blue-sky-cc0-cold
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/5948507/free-public-domain-cc0-photo
+- National Park Service | CC0 1.0 | https://www.rawpixel.com/image/4225020/photo-image-background-public-domain-nature
