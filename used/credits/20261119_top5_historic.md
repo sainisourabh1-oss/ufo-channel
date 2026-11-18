@@ -1,0 +1,125 @@
+# Image credits - फ्रांसेस स्वान से नासा वैज्ञानिक तक: 5 अजीब यूएफओ मामले (UFO Cases)
+
+- Allen & Hanburys | Public Domain Mark | https://wellcomecollection.org/works/r8pbvqt4 (Wellcome Collection)
+- Allen & Hanburys | Public Domain Mark | https://wellcomecollection.org/works/r8pbvqt4 (Wellcome Collection)
+- Allen & Hanburys | Attribution 4.0 International (CC BY 4.0) | https://wellcomecollection.org/works/beveksmb (Wellcome Collection)
+- Allen & Hanburys | Public Domain Mark | https://wellcomecollection.org/works/trwrumz3 (Wellcome Collection)
+- Allen & Hanburys | Public Domain Mark | https://wellcomecollection.org/works/trwrumz3 (Wellcome Collection)
+- Allen & Hanburys | Attribution 4.0 International (CC BY 4.0) | https://wellcomecollection.org/works/beveksmb (Wellcome Collection)
+- Fred C. Palmer (died 1936-1939) | Public domain | https://commons.wikimedia.org/wiki/File:Fred_C_Palmer_Swindon_tram002.jpg
+- Unknown | Attribution 4.0 International (CC BY 4.0) | https://wellcomecollection.org/works/x9q6ymxr (Wellcome Collection)
+- Watts, John, active 1771-1786. | Public Domain Mark | https://wellcomecollection.org/works/rbsjqssz (Wellcome Collection)
+- Charles Jameson Grant | Public Domain Mark | https://wellcomecollection.org/works/hs2ug8r7 (Wellcome Collection)
+- Gill, William (Painter), John Romney | Public Domain Mark | https://wellcomecollection.org/works/sqsu9pvw (Wellcome Collection)
+- Tebby, Arthur Kemp, 1866-1957., Georges Scott | Public Domain Mark | https://wellcomecollection.org/works/fzxwnd25 (Wellcome Collection)
+- Department of Commerce. Bureau of the Census. 1913-1/1/1972 | Public domain | https://commons.wikimedia.org/wiki/File:New_York-_MADISON_County,_Enumeration_District_117,_Sheet_No._9A_-_DPLA_-_ca6cacce488f33dd2974cdef4e87d866.jpg
+- Department of Commerce. Bureau of the Census. 1913-1/1/1972 | Public domain | https://commons.wikimedia.org/wiki/File:New_York-_BROOME_County,_Enumeration_District_105,_Sheet_No._5A_-_DPLA_-_bc60523f389f7f3351bb1857eb2163ed.jpg
+- Department of the Interior. 12th Decennial Census Office. ca. 1899-7/1/1902 | Public domain | https://commons.wikimedia.org/wiki/File:Illinois-_FULTON_County,_Enumeration_District_33,_Sheet_No._6B_-_DPLA_-_8da1a753f4974efa18c99f2b60d3d4fa.jpg
+- Department of Commerce. Bureau of the Census. 1913-1/1/1972 | Public domain | https://commons.wikimedia.org/wiki/File:New_York-_FRANKLIN_County,_Enumeration_District_79,_Sheet_No._6B_-_DPLA_-_b36cd5b7ba69ee1cceb7890f4d3091ea.jpg
+- Edward Joseph Lowe | Public domain | https://commons.wikimedia.org/wiki/File:A_natural_history_of_British_grasses_(1858)_(14757672046).jpg
+- Edward Joseph Lowe | Public domain | https://commons.wikimedia.org/wiki/File:A_natural_history_of_British_grasses_(1858)_(14757648006).jpg
+- Edward Joseph Lowe | Public domain | https://commons.wikimedia.org/wiki/File:A_natural_history_of_British_grasses_(1858)_(14777522171).jpg
+- Edward Joseph Lowe | Public domain | https://commons.wikimedia.org/wiki/File:A_natural_history_of_British_grasses_(1858)_(14778398884).jpg
+- Edward Joseph Lowe | Public domain | https://commons.wikimedia.org/wiki/File:A_natural_history_of_British_grasses_(1858)_(14757656976).jpg
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:One_of_50_old_Destroyers_crossing_Atlantic_for_new_duties_under_British_flag,_Fall_of_1940._-_NARA_-_196521.tif
+- Henry Solomon Wellcome | Public Domain Mark | https://wellcomecollection.org/works/tjmnankp (Wellcome Collection)
+- Henry Solomon Wellcome | Public Domain Mark | https://wellcomecollection.org/works/tjmnankp (Wellcome Collection)
+- Henry Solomon Wellcome | Public Domain Mark | https://wellcomecollection.org/works/tjmnankp (Wellcome Collection)
+- Henry Solomon Wellcome | Public Domain Mark | https://wellcomecollection.org/works/tjmnankp (Wellcome Collection)
+- Henry Solomon Wellcome | Public Domain Mark | https://wellcomecollection.org/works/tjmnankp (Wellcome Collection)
+- Henry Solomon Wellcome | Public Domain Mark | https://wellcomecollection.org/works/tjmnankp (Wellcome Collection)
+- Henry Solomon Wellcome | Public Domain Mark | https://wellcomecollection.org/works/tjmnankp (Wellcome Collection)
+- Henry Solomon Wellcome | Public Domain Mark | https://wellcomecollection.org/works/tjmnankp (Wellcome Collection)
+- Henry Solomon Wellcome | Public Domain Mark | https://wellcomecollection.org/works/tjmnankp (Wellcome Collection)
+- Henry Solomon Wellcome | Public Domain Mark | https://wellcomecollection.org/works/tjmnankp (Wellcome Collection)
+- P4K1T0 | CC0 | https://commons.wikimedia.org/wiki/File:Historia_del_f%C3%BAtbol_en_Cartagena_(20250506_174939).jpg
+- Biblioteca del Instituto Geográfico Nacional CC-BY 4.0 ign.es | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Foto_a%C3%A9rea_Puerta_de_Hierro_1968.jpg
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6870733/png-sticker-public-domain
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6017393/photo-image-public-domain-blue-technology
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/3338167/free-photo-image-satellite-antenna-cc0
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6038629/photo-image-cloud-public-domain-technology
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6025378/photo-image-cloud-public-domain-blue
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6031601/photo-image-public-domain-blue-technology
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6032173/photo-image-public-domain-technology-space
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- Carl Gustav Carus | CC0 | https://www.metmuseum.org/art/collection/search/788905 (The Met)
+- Charles Parsons | CC0 | https://www.metmuseum.org/art/collection/search/765742 (The Met)
+- Yashima Gakutei | CC0 | https://www.metmuseum.org/art/collection/search/54323 (The Met)
+- Hendrick Goudt | CC0 | https://www.metmuseum.org/art/collection/search/360391 (The Met)
+- International Gemini Observatory/NOIRLab/NSF/AURA | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Geminids-over-maunakea-cc_December_2020.jpg
+- David Warrington from England | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Meteor_Shower_2842_(3966291521).jpg
+- Hao Yin/IAU OAE | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Meteor_showers,_Third_Place_(ann21047l).jpg
+- Jim Vajda | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Orionid_Meteor_Shower_Composite_(50521737888).jpg
+- ESO/P. Horalek | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Meteor_shower_in_the_Chilean_Desert_(potw2227a).tiff
+- Yinan Chen | Public Domain | https://commons.wikimedia.org/wiki/File:Gfp-p-47d-thunderbolt.jpg
+- USAAF official photographer | Public domain | https://commons.wikimedia.org/wiki/File:Francis_S._Gabreski_in_cockpit_of_his_P-47_Thunderbolt,_July_1944_(342-C-K2170).jpg
+- US Air Force | Public domain | https://commons.wikimedia.org/wiki/File:Republic_P-47N_Thunderbolt_in_flight.jpg
+- This image was created and released by the Imperial War Museum on the IWM Non Commercial Licence. Photographs taken, or  | Public domain | https://commons.wikimedia.org/wiki/File:Coffey%27s_Pot_P-47.jpg
+- NASA | Public domain | https://commons.wikimedia.org/wiki/File:Little_Joe_Launch_Vehicle_-_GPN-2000-001270.jpg
+- NASA Glenn Research Center | Public domain | https://commons.wikimedia.org/wiki/File:Space_Electric_Research_Test_in_the_Electric_Propulsion_Laboratory_(GRC-1964-C-70256).jpg
+- NASA | Public domain | https://commons.wikimedia.org/wiki/File:Launch_of_the_Little_Joe_1A_(1959).jpg
+- NASA | CC0 1.0 | https://www.rawpixel.com/image/441535/free-photo-image-vintage-plane-vintage-nasa-air-force
+- NASA | CC0 1.0 | https://www.rawpixel.com/image/441652/free-photo-image-1960-nasa-rocket
+- National Archives and Records Administration | CC0 1.0 | https://www.rawpixel.com/image/4050842/image-public-domain-person-photo
+- NASA | CC0 1.0 | https://www.rawpixel.com/image/441626/free-photo-image-air-force-aircraft-domain-public
+- NASA | CC0 1.0 | https://www.rawpixel.com/image/441603/free-photo-image-aircraft-arm-soldier
+- NASA | CC0 1.0 | https://www.rawpixel.com/image/441682/free-photo-image-airplane-nasa-aerodynamics
+- NASA | Public domain | https://commons.wikimedia.org/wiki/File:M-1_Model_in_Hypersonic_Tunnel_-_A-29007.jpg
+- NASA Langley Research Center / NASA, Booth | Public domain | https://commons.wikimedia.org/wiki/File:Scale-model_of_final_X-15_configuration,_mounted_for_testing_in_the_Langley_11-Inch_Hypersonic_Tunnel_(LRC-1959-B701_P-08041).tif
+- NASA on The Commons | No restrictions | https://commons.wikimedia.org/wiki/File:11-Inch_Hypersonic_Tunnel_(9442539491).jpg
+- NASA on The Commons | No restrictions | https://commons.wikimedia.org/wiki/File:3.5-Foot_Hypersonic_Tunnel_(9416323332).jpg
+- NASA on The Commons | No restrictions | https://commons.wikimedia.org/wiki/File:3.5-Foot_Hypersonic_Tunnel_(9413562045).jpg
+- NASA on The Commons | No restrictions | https://commons.wikimedia.org/wiki/File:2-Foot_Hypersonic_Tunnel_(9443127377).jpg
+- NASA on The Commons | No restrictions | https://commons.wikimedia.org/wiki/File:11-Inch_Hypersonic_Tunnel_(9442513007).jpg
+- Lowe, Jet, creator | Public domain | https://commons.wikimedia.org/wiki/File:VIEW_LOOKING_SOUTH-SOUTHWEST_AT_FULL-SCALE_WIND_TUNNEL.tiff
+- NASA on The Commons | No restrictions | https://commons.wikimedia.org/wiki/File:10-_x_14-Inch_Hypersonic_Tunnel_(9416061794).jpg
+- NASA on The Commons | Public domain | https://commons.wikimedia.org/wiki/File:11-Inch_Hypersonic_Tunnel_(9442510365).jpg
+- blachswan | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Nankeen_Night_Heron_at_Lake_Wendouree.jpg
+- Robin Stumm | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Lake_Night_(157856533).jpeg
+- Henry Gressmann explodingcamera | CC0 | https://commons.wikimedia.org/wiki/File:Lake_Garda_at_Night_(Unsplash).jpg
+- Unknown | CC0 | https://www.metmuseum.org/art/collection/search/36110 (The Met)
+- Unknown | CC0 | https://www.metmuseum.org/art/collection/search/506800 (The Met)
+- Tsukioka Yoshitoshi | CC0 | https://www.metmuseum.org/art/collection/search/815478 (The Met)
+- Utagawa Hiroshige | CC0 | https://www.metmuseum.org/art/collection/search/37205 (The Met)
+- Utagawa Hiroshige | CC0 | https://www.metmuseum.org/art/collection/search/36527 (The Met)
+- Utagawa Hiroshige | CC0 | https://www.metmuseum.org/art/collection/search/36531 (The Met)
+- Chris Sampson | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Jaguar_WGK_448G_Detling.jpg
+- 111 Emergency | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:1963-1965_Holden_EH_Standard_sedan_(New_Zealand_Police)_01.jpg
+- Internet Archive Book Images | No restrictions | https://commons.wikimedia.org/wiki/File:Natal_province_-_descriptive_guide_and_official_hand-book_(1911)_(14574005628).jpg
+- Currier & Ives | CC0 | https://www.metmuseum.org/art/collection/search/662124 (The Met)
+- Anonymous, Italian, 18th century | CC0 | https://www.metmuseum.org/art/collection/search/393910 (The Met)
+- David Johnson Kennedy | CC0 | https://www.metmuseum.org/art/collection/search/11305 (The Met)
+- Joseph Vernet | CC0 | https://www.metmuseum.org/art/collection/search/811690 (The Met)
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6022324/photo-image-cloud-public-domain-blue
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6041786/photo-image-public-domain-blue-technology
+- Moses Cursor Ssebunya | CC0 1.0 | https://wordpress.org/photos/photo/67068a93e7/
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- Jeremy Thomas | CC0 1.0 | https://stocksnap.io/photo/nature-sky-FD9LND0303
+- Josh Felise | CC0 1.0 | https://stocksnap.io/photo/stars-sky-1UZO5LFWBE
+- Axel Antas | CC0 1.0 | https://stocksnap.io/photo/stars-sky-P2IQDFK9VC
+- Jamie MacPherson | CC0 1.0 | https://stocksnap.io/photo/stars-galaxy-QG5Z36E3VM
+- Dino Reichmuth | CC0 1.0 | https://stocksnap.io/photo/stars-galaxy-HFK3DN6GR4
+- Blake Verdoorn | CC0 1.0 | https://stocksnap.io/photo/stars-night-KEYPZX8EKK
+- Martin Jernberg | CC0 1.0 | https://stocksnap.io/photo/stars-galaxy-J6BEI6ITP8
+- Wil Stewart | CC0 1.0 | https://stocksnap.io/photo/stars-sky-JX817RIG6V
+- Fabricio | CC0 1.0 | https://wordpress.org/photos/photo/3826a70ef6/
+- Ian Livesey | CC0 1.0 | https://stocksnap.io/photo/sunset-dawn-Q1QLH9BSAL
+- JJ Skys the Limit | CC0 1.0 | https://stocksnap.io/photo/moon-ocean-JLUHRYXJE1
+- dmasis1394 | CC0 1.0 | https://wordpress.org/photos/photo/55269ee7e8/
+- chromals | CC0 1.0 | https://wordpress.org/photos/photo/70969e7b7f/
+- Riwaj Lamichhane | CC0 1.0 | https://wordpress.org/photos/photo/21767d4118/
+- elemrr | CC0 1.0 | https://wordpress.org/photos/photo/2976a3542d/
