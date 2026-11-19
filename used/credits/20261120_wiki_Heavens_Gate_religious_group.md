@@ -1,0 +1,140 @@
+# Image credits - हेवेन्स गेट: वो रहस्यमयी UFO पंथ और 39 लाशों का सच (UFO Case)
+
+- San Diego Sheriff's Department | Public domain | https://commons.wikimedia.org/wiki/File:Heaven%27s_Gate_members_following_the_mass_suicide_in_Rancho_Santa_Fe.png
+- San Diego County Sheriff's Office | Public domain | https://commons.wikimedia.org/wiki/File:San_Diego_County_Sheriff_-_Heavens_Gate_B-Roll.webm
+- San Diego Sheriff's Department | Public domain | https://commons.wikimedia.org/wiki/File:Heaven%27s_Gate_member_lays_in_a_room_in_Rancho_Santa_Fe.png
+- Maxime Raynal from France | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg
+- j6p6k6 from Lima, Peru | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Miraflores_Lighthouse_at_night_(8181241897).jpg
+- senza senso from Thessaloniki, Greece | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Lighthouse_of_Cabo_Carvoeiro_at_night_(44290454752).jpg
+- Rick Obst | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Battery_Russell_in_Fort_Stevens_State_Park_09.jpg
+- Rick Obst | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Battery_Russell_at_Fort_Stevens_State_Park_20.jpg
+- Rick Obst | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Battery_Russell_in_Fort_Stevens_State_Park_02.jpg
+- Rick Obst | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Battery_Russell_at_Fort_Stevens_State_Park_22.jpg
+- Rick Obst | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Restroom_at_Battery_Russell_in_Fort_Stevens_State_Park.jpg
+- Rick Obst | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:View_looking_east_from_Battery_Russell.jpg
+- Qwexcxewq | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Fighter_Plane_in_Cold_Lake.jpg
+- Graham  Mitchell | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Fighter_Jet,_7217.jpg
+- Graham  Mitchell | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Fighter_Jet,_7202.jpg
+- James St. John | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:United_States_Air_Force_-_F-86H_Sabre_(fighter_plane)_1_(48095677672).jpg
+- Graham  Mitchell | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Fighter_Jet,_7264.jpg
+- Graham  Mitchell | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Fighter_Jet,_7204.jpg
+- Graham  Mitchell | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Fighter_Jet,_7322.jpg
+- National Advisory Committee of Aeronautics | Public domain | https://commons.wikimedia.org/wiki/File:Boeing_PW-9_Army_pursuit_aircraft_at_Langley_Field.jpg
+- Graham  Mitchell | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Fighter_Jet,_7201.jpg
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- Robinson, Henry, active approximately 1783., Pocklington, Roger, 1734-1810 | Public Domain Mark | https://wellcomecollection.org/works/z3mkvr3h (Wellcome Collection)
+- National Park Service | CC0 1.0 | https://www.rawpixel.com/image/8730198/perseid-meteor-shower-81115
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/3304506/free-photo-image-nightsky-desert-adventure
+- National Park Service | CC0 1.0 | https://www.rawpixel.com/image/8729683/perseid-meteor-shower-81115
+- National Park Service | CC0 1.0 | https://www.rawpixel.com/image/8729681/photo-image-space-light-night-sky
+- ShenandoahNPS | Public domain | https://commons.wikimedia.org/wiki/File:Night_Sky_Over_Big_Meadows_(51834370543).jpg
+- Shenandoah  National Park from Virginia | Public domain | https://commons.wikimedia.org/wiki/File:2017_Night_Sky_Festival_(36065796354).jpg
+- ShenandoahNPS | Public domain | https://commons.wikimedia.org/wiki/File:Big_Meadows_Night_Sky_(51834254131).jpg
+- Shenandoah  National Park from Virginia | Public domain | https://commons.wikimedia.org/wiki/File:2017_Night_Sky_Festival_(36760324301).jpg
+- Kitt Peak National Observatory/NOIRLab/NSF/AURA/P. Marenfeld | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Arizona_Field_of_Stars_(3S8A6815).tiff
+- Shenandoah  National Park from Virginia | Public domain | https://commons.wikimedia.org/wiki/File:2017_Night_Sky_Festival_(36760332421).jpg
+- Shenandoah  National Park from Virginia | Public domain | https://commons.wikimedia.org/wiki/File:2017_Night_Sky_Festival_(36503333520).jpg
+- Alessandro Caproni | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Night_sky_full_of_stars.jpg
+- ESO/J. Girard (djulik.com) | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Laser_Guide_Star_sweeps_across_a_starry_sky_(potw1234a).tiff
+- Diana Juncher/ESO | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Star_Rain_in_the_Desert.jpg
+- ESO/ M. Zamani | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Falling_from_the_stars_(potw2134a).jpg
+- J. Looten/ESO | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:A_pink_speckle_in_the_southern_sky_(potw2542a).jpg
+- European Southern Observatory | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Starry_Night_at_Paranal_(4941116934).jpg
+- ESO/B. Tafreshi (twanight.org) | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:The_Stars_Streak_Overhead.jpg
+- ESO/B. Tafreshi (twanight.org) | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:An_outstanding_image_of_the_sky_over_ESO%E2%80%99s_Paranal_Observatory.jpg
+- ESO/G.Hüdepohl | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:A_Slice_of_the_Sky.jpg
+- A. Ghizzi Panizza/ESO | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Laser_to_the_stars_(_AGP2556-CC).tiff
+- Casey Kiernan | CC0 1.0 | https://stocksnap.io/photo/joshuatree-miklyway-KMAGZYGXQ7
+- Unknown | Public Domain Mark | https://wellcomecollection.org/works/pdrty787 (Wellcome Collection)
+- Dunn, S., active 1786. | Public Domain Mark | https://wellcomecollection.org/works/cu9tjdar (Wellcome Collection)
+- NASA | public domain | images.nasa.gov
+- Francisco de Zurbarán | CC0 | https://www.metmuseum.org/art/collection/search/437969 (The Met)
+- Tang Yin | CC0 | https://www.metmuseum.org/art/collection/search/44573 (The Met)
+- Unknown | CC0 | https://www.metmuseum.org/art/collection/search/16293 (The Met)
+- Unknown | CC0 | https://www.metmuseum.org/art/collection/search/329939 (The Met)
+- Constance Frederica Gordon-Cumming | CC0 | https://www.metmuseum.org/art/collection/search/929275 (The Met)
+- Mangarevan artist | CC0 | https://www.metmuseum.org/art/collection/search/313654 (The Met)
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- Unknown | CC0 | https://www.metmuseum.org/art/collection/search/63545 (The Met)
+- Mario Gambelli | CC0 | https://www.metmuseum.org/art/collection/search/205302 (The Met)
+- Unknown | CC0 | https://www.metmuseum.org/art/collection/search/698331 (The Met)
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6112502/vintage-camera-location-unknown-dec-2015
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6313382/vector-vintage-public-domain-black
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/5902430/photo-image-public-domain-black-vintage
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6113824/photo-image-white-background-public-domain-vintage
+- Alex Andrews | CC0 1.0 | https://stocksnap.io/photo/vintage-camera-ZSHESKFUIS
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6113532/photo-image-public-domain-vintage-technology
+- Retro 56 | CC0 1.0 | https://stocksnap.io/photo/vintage-camera-ZTGPRQ8YMH
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/3337451/free-photo-image-analogue-anaolog-bokeh
+- Lisa Fotios | CC0 1.0 | https://stocksnap.io/photo/vintage-camera-PKRVSLNKDB
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6113908/photo-image-white-background-public-domain-vintage
+- Shixart1985 | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:A_woman_stands_outdoors,_holding_a_vintage_camera_in_one_hand.jpg
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- Ram samudrala | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:California_nebula_NGC1499.jpg
+- ESO/T. Preibisch | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Carina_Nebula.jpg
+- J.P. Harrington and K.J. Borkowski (University of Maryland), and NASA | Public domain | https://commons.wikimedia.org/wiki/File:NGC6543.jpg
+- Taavi Niittee/Tõrva Astronoomiaklubi/Tõrva Astronomy Club | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:California_nebula_from_Estonia.jpg
+- ESO | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Eagle_Nebula_from_ESO.jpg
+- Chuck Ayoub | CC0 | https://commons.wikimedia.org/wiki/File:Flaming_Star_Nebula,_IC_405.png
+- Brainandforce | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Orion_Nebula_multiband_2x2_mosaic_-_IR(G%2BB).jpg
+- Markus Spiske | CC0 1.0 | https://www.rawpixel.com/image/432209/free-photo-image-yellow-camera-roll-digital-background
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/5939929/8mm-film-helix
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/10103589/photo-image-plastic-vintage-tape
+- Travel Adventures | CC0 1.0 | https://stocksnap.io/photo/vintage-film-IW3RKED32W
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/10093287/vector-people-illustrations-public-domain
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/3297074/free-photo-image-cinema-movie-projector
+- Markus Spiske | CC0 1.0 | https://www.rawpixel.com/image/560217/vintage-analog-single-lens-reflex-camera
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/9064635/photo-image-vintage-tape-public-domain
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/10093220/png-white-background-people
+- R. Henrik Nilsson | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:20th_century_Double_8_film_on_Eumig_H_140_film_spool_view_1.jpg
+- nick@ | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Film_reel._Kodachrome_movie_film_roll_cameras_only_Daylight_type._Baugnez_44_Historical_Center_WW2_museum_2012.jpg
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- Jean-François Millet | CC0 | https://www.metmuseum.org/art/collection/search/371574 (The Met)
+- Hasegawa Sadanobu | CC0 | https://www.metmuseum.org/art/collection/search/55413 (The Met)
+- Max Klinger | CC0 | https://www.metmuseum.org/art/collection/search/384470 (The Met)
+- Utagawa Hiroshige | CC0 | https://www.metmuseum.org/art/collection/search/55635 (The Met)
+- Unidentified artist | CC0 | https://www.metmuseum.org/art/collection/search/55363 (The Met)
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
