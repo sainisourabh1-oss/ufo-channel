@@ -1,0 +1,118 @@
+# Image credits - आसमान से उतरा धर्म: यूएफओ पंथों का अनसुना सच (UFO Case)
+
+- Apollo 8 crewmember Bill Anders | Public domain | https://commons.wikimedia.org/wiki/File:Earth-moon.jpg
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/11176977/image-face-plant-person
+- Adam Willaerts | Public domain | https://commons.wikimedia.org/wiki/File:Dutch_Ships_at_Anchor_off_a_Fortified_Scandinavian_Town_RMG_BHC0803.tiff
+- Bureau of Land Management Oregon and Washington | Public domain | https://commons.wikimedia.org/wiki/File:Looking_through_the_Clouds_(11424137644).jpg
+- NASA, ESA, J. Blakeslee and H. Ford (Johns Hopkins University) | Public domain | https://commons.wikimedia.org/wiki/File:A_Day_in_the_Lives_of_Galaxies_(opo0421a).tiff
+- Edwin Weedon | Public domain | https://commons.wikimedia.org/wiki/File:The_International_Naval_Festival_at_Cherbourg_-the_British_Squadron_in_the_harbour_saluting_in_honour_of_the_Emperor%27s_fete-day_ILN-1865-0902-0008.jpg
+- NPS | Public domain | https://commons.wikimedia.org/wiki/File:The_crowds_enjoyed_the_eclipse_event._(5fa0bf98-7f88-493a-823b-4654b4336597).JPG
+- ESA/Webb, NASA &amp; CSA, A. Leroy | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Striking_star_clusters_and_irregular_clumps_(potm2608a).tiff
+- Bernt Rostad from Oslo, Norway | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Approaching_First_Contact_(3953443194).jpg
+- Roswell Daily Record. | Public domain | https://commons.wikimedia.org/wiki/File:Roswell_Daily_Record._July_8,_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Top_of_front_page.jpg
+- Roswell Daily Record. | Public domain | https://commons.wikimedia.org/wiki/File:Roswell_Daily_Record._July_8,_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Full_page.webp
+- Roswell Daily Record. | Public domain | https://commons.wikimedia.org/wiki/File:Roswell_Daily_Record._July_8,_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:FEMALE_ASTRONAUT_CANDIDATES_-_KATHRYN_D_SULLIVAN_-_NARA_-_17472009.jpg
+- 89thairliftwing | Public domain | https://commons.wikimedia.org/wiki/File:NASA_Astronaut_visits_the_89th_Airlift_Wing_(United_States_Air_Force)_on_March_31,_2023_-_3.jpg
+- 89thairliftwing | Public domain | https://commons.wikimedia.org/wiki/File:NASA_Astronaut_visits_the_89th_Airlift_Wing_(United_States_Air_Force)_on_March_31,_2023_-_5.jpg
+- 89thairliftwing | Public domain | https://commons.wikimedia.org/wiki/File:NASA_Astronaut_visits_the_89th_Airlift_Wing_(United_States_Air_Force)_on_March_31,_2023_-_2.jpg
+- Carla Cioffi | Public domain | https://commons.wikimedia.org/wiki/File:Scott_Kelly_performs_the_traditional_door_signing_at_Cosmonaut_Hotel_in_Baikonur_(TIFF).tif
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- Seattle Municipal Archives | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Downtown_Seattle,_circa_1958_-_Flickr_-_Seattle_Municipal_Archives.jpg
+- Carol M. Highsmith | Public domain | https://commons.wikimedia.org/wiki/File:A_1950s-vintage_truck_outside_a_general_store_in_Jefferson,_a_town_in_Marion_County_in_East_Texas_on_whose_main_street_almost_every_commercial_building,_and_many_nearby_homes,_have_a_historic_marker_LCCN2014633196.tif
+- Carol M. Highsmith | Public domain | https://commons.wikimedia.org/wiki/File:A_1950s-vintage_truck_outside_a_general_store_in_Jefferson,_a_town_in_Marion_County_in_East_Texas_on_whose_main_street_almost_every_commercial_building,_and_many_nearby_homes,_have_a_historic_marker_LCCN2014633205.tif
+- Carol M. Highsmith | Public domain | https://commons.wikimedia.org/wiki/File:A_1950s-vintage_truck_outside_a_general_store_in_Jefferson,_a_town_in_Marion_County_in_East_Texas_on_whose_main_street_almost_every_commercial_building,_and_many_nearby_homes,_have_a_historic_marker_LCCN2014633191.tif
+- Carol M. Highsmith | Public domain | https://commons.wikimedia.org/wiki/File:A_1950s-vintage_truck_outside_a_general_store_in_Jefferson,_a_town_in_Marion_County_in_East_Texas_on_whose_main_street_almost_every_commercial_building,_and_many_nearby_homes,_have_a_historic_marker_LCCN2014633199.tif
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/8906440/image-vintage-public-domain-pattern
+- Herbert Railton, Jellicoe, J. | Public Domain Mark | https://wellcomecollection.org/works/v5q884pm (Wellcome Collection)
+- George Cruikshank | Public Domain Mark | https://wellcomecollection.org/works/sfb4vd7k (Wellcome Collection)
+- Ibbs, Edith A., Salomon Trismosin | Public Domain Mark | https://wellcomecollection.org/works/pyhb4hmk (Wellcome Collection)
+- George Cruikshank | Public Domain Mark | https://wellcomecollection.org/works/n2q9p7g9 (Wellcome Collection)
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- William Marshall Craig, Thomas Wallis | Public Domain Mark | https://wellcomecollection.org/works/ps5s8cnp (Wellcome Collection)
+- Edmund Gibson, Thomas Stackhouse | Public Domain Mark | https://wellcomecollection.org/works/w2b8zmyz (Wellcome Collection)
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6677188/image-vintage-public-domain-black
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6675188/png-sticker-vintage
+- U.S. Forest Service (source) | CC0 1.0 | https://www.rawpixel.com/image/8729588/photo-image-public-domain-ocean-sea
+- U.S. Department of Defense | CC0 1.0 | https://www.rawpixel.com/image/3315466/free-photo-image-aircraft-carrier-armored-army
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- Ralston, J., Agostino Aglio | Public Domain Mark | https://wellcomecollection.org/works/uvb9s9yv (Wellcome Collection)
+- Abu Bakr al-Razi, Vesalius, Andreas, 1514-1564. Paraphrasis in nonum librum Rhazae. | Public Domain Mark | https://wellcomecollection.org/works/aaucxw7e (Wellcome Collection)
+- Elias Needham | Public Domain Mark | https://wellcomecollection.org/works/uc3axfpx (Wellcome Collection)
+- Abu Bakr al-Razi, Vesalius, Andreas, 1514-1564. Paraphrasis in nonum librum Rhazae. | Public Domain Mark | https://wellcomecollection.org/works/aaucxw7e (Wellcome Collection)
+- Worshipful Society of Apothecaries of London | Public Domain Mark | https://wellcomecollection.org/works/m6vyn9ua (Wellcome Collection)
+- Abu Bakr al-Razi, Vesalius, Andreas, 1514-1564. Paraphrasis in nonum librum Rhazae. | Public Domain Mark | https://wellcomecollection.org/works/aaucxw7e (Wellcome Collection)
+- Hjamesberglen | CC0 | https://commons.wikimedia.org/wiki/File:Aetherius_House,_Fulham,_London.jpg
+- Bain News Service, publisher | Public domain | https://commons.wikimedia.org/wiki/File:George,_King_of_Greece_LCCN2014687668.tif
+- Engraving of a sketch by Mr. R. Campbell Bates. From "Illustrated London News", 1865. | Public domain | https://commons.wikimedia.org/wiki/File:British_Admiral_George_King_Procession_to_King_Mongkut_in_Bangkok_1865.png
+- George Hayward | Public Domain Mark | https://wellcomecollection.org/works/y5ubw2zy (Wellcome Collection)
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6042594/photo-image-public-domain-blue-technology
+- usembassynewzealand | CC0 1.0 | https://www.rawpixel.com/image/8734104/photo-image-public-domain-person
+- U.S. Forest Service (source) | CC0 1.0 | https://www.rawpixel.com/image/8729586/photo-image-public-domain-boat
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/8718502/photo-image-vintage-public-domain-gun
+- CIRA / NOAA / NESDIS Center for Satellite Applications and Research | Public domain | https://commons.wikimedia.org/wiki/File:20252820940_GOES18-ABI-FL-DayNightCloudMicroCombo-EP152025-2000x2000.jpg
+- CIRA / NOAA / NESDIS Center for Satellite Applications and Research | Public domain | https://commons.wikimedia.org/wiki/File:20252810510_GOES18-ABI-FL-DayNightCloudMicroCombo-EP152025-2000x2000.jpg
+- CIRA / NOAA / NESDIS Center for Satellite Applications and Research | Public domain | https://commons.wikimedia.org/wiki/File:20252740830_GOES18-ABI-FL-DayNightCloudMicroCombo-EP152025-2000x2000.jpg
+- CIRA / NOAA / NESDIS Center for Satellite Applications and Research | Public domain | https://commons.wikimedia.org/wiki/File:20252822130_GOES19-ABI-FL-DayNightCloudMicroCombo-EP172025-2000x2000.jpg
+- CIRA / NOAA / NESDIS Center for Satellite Applications and Research | Public domain | https://commons.wikimedia.org/wiki/File:20252811610_GOES18-ABI-FL-DayNightCloudMicroCombo-EP152025-2000x2000.jpg
+- CIRA / NOAA / NESDIS Center for Satellite Applications and Research | Public domain | https://commons.wikimedia.org/wiki/File:20252731500_GOES18-ABI-FL-DayNightCloudMicroCombo-EP152025-2000x2000.jpg
+- Unknown authorUnknown author | Public domain | https://commons.wikimedia.org/wiki/File:Walsh_(1c).jpg
+- Unknown authorUnknown author | Public domain | https://commons.wikimedia.org/wiki/File:Archibald_John_Davies_(2b).jpg
+- Pennsylvania. Dept. of Forests and Waters | No restrictions | https://commons.wikimedia.org/wiki/File:Bulletin_(Pennsylvania_Department_of_Forests_and_Waters),_no._51-55_(1923)_(20492446792).jpg
+- University of Pennsylvania. Botanical Laboratory | No restrictions | https://commons.wikimedia.org/wiki/File:Contributions_from_the_Botanical_Laboratory,_vol._7_(1892)_(20687977215).jpg
+- Josiah Gregg | Public domain | https://commons.wikimedia.org/wiki/File:Gregg_A_Map_of_the_Indian_Territory_1844_UTA.jpg
+- Unknown authorUnknown author | Public domain | https://commons.wikimedia.org/wiki/File:Fridel_Meyer_(23a).JPG
+- Pennsylvania. Dept. of Forests and Waters | No restrictions | https://commons.wikimedia.org/wiki/File:Bulletin_(Pennsylvania_Department_of_Forests_and_Waters),_no._35_(1923)_(20500938365).jpg
+- Pennsylvania. Dept. of Forests and Waters | No restrictions | https://commons.wikimedia.org/wiki/File:Bulletin_(Pennsylvania_Department_of_Forests_and_Waters),_no._35_(1923)_(20312999068).jpg
+- Unknown authorUnknown author | Public domain | https://commons.wikimedia.org/wiki/File:Archibald_John_Davies_(1c).jpg
+- Ellis, T. H. (Thomas Henry), active 19th century | Public Domain Mark | https://wellcomecollection.org/works/rc2s9h4j (Wellcome Collection)
+- Guido Reni, Giacomo Maria Giovannini | Public Domain Mark | https://wellcomecollection.org/works/y2szrkpg (Wellcome Collection)
+- Johann Wilhelm Baur, Melchior Küsel | Public Domain Mark | https://wellcomecollection.org/works/eq8cqzqq (Wellcome Collection)
+- Lorenzo Costa, Guglielmi, Pablo, 1829- | Attribution 4.0 International (CC BY 4.0) | https://wellcomecollection.org/works/tdu39jny (Wellcome Collection)
+- Hendrik Goltzius | Public Domain Mark | https://wellcomecollection.org/works/g3zqzu3j (Wellcome Collection)
+- Maseru, Mee, active 1900. | Public Domain Mark | https://wellcomecollection.org/works/ccvqugbc (Wellcome Collection)
+- Robert William Billings, Godfrey, John, approximately 1817-1889 | Public Domain Mark | https://wellcomecollection.org/works/s3w5y4a9 (Wellcome Collection)
+- Hans Speckaert, Aegidius Sadeler | Public Domain Mark | https://wellcomecollection.org/works/n2sh2d6h (Wellcome Collection)
+- John Thomson | Public Domain Mark | https://wellcomecollection.org/works/ze77mkbc (Wellcome Collection)
+- James Gordon from Los Angeles, California, USA | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Bronze_doors,_The_Great_Umayyed_Mosque_of_Damascus,_Syria.jpg
+- James Gordon from Los Angeles, California, USA | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:The_Great_Umayyed_Mosque_of_Damascus,_Syria_western_portico,_mosaic_depicting_a_continuous_landscape.jpg
+- James Gordon from Los Angeles, California, USA | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:The_Great_Umayyed_Mosque_of_Damascus,_Syria_-_6.jpg
+- James Gordon from Los Angeles, California, USA | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:The_Great_Umayyed_Mosque_of_Damascus,_Syria_-_10.jpg
+- Internet Archive Book Images | No restrictions | https://commons.wikimedia.org/wiki/File:Romantic_Germany_(1910)_(14784481302).jpg
+- Internet Archive Book Images | No restrictions | https://commons.wikimedia.org/wiki/File:Birds_and_nature_(1904)_(14563625129).jpg
+- James Gordon from Los Angeles, California, USA | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:The_Great_Umayyed_Mosque_of_Damascus,_Syria_-_7.jpg
+- Internet Archive Book Images | No restrictions | https://commons.wikimedia.org/wiki/File:Romantic_Germany_(1910)_(14598328917).jpg
+- James Gordon from Los Angeles, California, USA | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:The_Great_Umayyed_Mosque_of_Damascus,_Syria,_and_Khazne_(Treasury).jpg
+- Unknown | Public Domain Mark | https://wellcomecollection.org/works/zpuqsgjt (Wellcome Collection)
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/5919624/photo-image-public-domain-free-night-sky
+- ESO | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:A_lonely_little_telescope_(potw1845a).tiff
+- ESO/A. Ghizzi Panizza (www.albertoghizzipanizza.com) | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:A_silent_watcher_(potw2412a).tiff
+- ESO/José Joaquín Pérez | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Dizzying_Star_Trails_over_SEST.jpg
+- ESO/B. Tafreshi (twanight.org) | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:La_Silla_dawn_kisses_the_Milky_Way_(potw1611a).tiff
+- Y. Beletsky (LCO)/ESO | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Hunting_stars_(potw1728a).tiff
+- ESO/F. Char | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:SEST_and_Andromeda_(andromedasest-cc).jpg
+- KPNO/NOIRLab/NSF/AURA/B. Tafreshi | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Red_Dish_at_Night.jpg
+- ESO/A.Santerne | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Stars_circle_La_Silla_(potw1527a).tiff
+- Free Nature Stock | CC0 1.0 | https://stocksnap.io/photo/sun-rays-P3DZ8UWM7D
+- Holly's Coastal View | CC0 1.0 | https://stocksnap.io/photo/lighthouse-sky-HSHO6ZFX7S
+- Free Nature Stock | CC0 1.0 | https://stocksnap.io/photo/sunrise-mountains-HLQSR4VMVA
+- Jeff Hollett | CC0 1.0 | https://stocksnap.io/photo/sunset-water-EFVE0GXEJL
+- Josh Sorenson | CC0 1.0 | https://stocksnap.io/photo/nature-water-TF9YC1GBMT
+- Hoach Le Dinh | CC0 1.0 | https://stocksnap.io/photo/nature-landscape-O4DWC2WG2U
+- Paul Gilmore | CC0 1.0 | https://stocksnap.io/photo/nature-water-9MUPXF6SDW
+- Fedor Yakubovich | CC0 1.0 | https://stocksnap.io/photo/nature-water-9KVBN7OPW3
