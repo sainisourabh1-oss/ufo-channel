@@ -1,0 +1,160 @@
+# Image credits - बार्नी-बेटी हिल से 1593 के सैनिक तक: 5 अनसुलझे दावे (UFO Cases)
+
+- GPS 56 from New Zealand | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Bel-Air_(14696452472).jpg
+- Jeremy from Sydney, Australia | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Bel_Air_(24616860926).jpg
+- dave_7 from Lethbridge, Canada | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Bel_Air_(4568603992).jpg
+- Jeremy from Sydney, Australia | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Bel_Air_(20103779012).jpg
+- GPS 56 from New Zealand | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Bel-Air_(13971387557).jpg
+- Jeremy from Sydney, Australia | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Bel_Air_(19924997339).jpg
+- Jeremy from Sydney, Australia | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Bel_Air_(24016213283).jpg
+- Jeremy from Sydney, Australia | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Bel_Air_(20117194871).jpg
+- Jeremy from Sydney, Australia | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Bel_Air_(20103658322).jpg
+- GPS 56 from New Zealand | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Bel_Air_(9832111443).jpg
+- Jeremy from Sydney, Australia | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Bel_Air_(20111702885).jpg
+- Alois Senefelder (German, 1771–1834) | Public domain | https://commons.wikimedia.org/wiki/File:Art_of_the_Lithograph-_Printing_Press_(IA_clevelandart-2006.194.16-art-of-the-lithograp).tif
+- Unknown author | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Old_farmer_and_his_wife_on_a_Saturday_night_1900_(JOKAMT5MT-41).tif
+- Birmingham Museums Trust, Vic Allnatt, 2017-01-05 14:26:13 | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Post_Medieval_to_Modern_Printing_block_(inverted_image)_(FindID_823105).jpg
+- Unknown author | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:The_funeral_service_of_Georg_Henrik_Inkala,_the_factor_of_newspaper_Kaleva%27s_printing_press,_at_a_cemetery%27s_chapel_1934_(JOKAKAL3B-3158).tif
+- Alois Senefelder | Public domain | https://commons.wikimedia.org/wiki/File:Senefelders_Litografiska_Handtryckpress_(Dumrath_19_%C3%85rh_Bd_1_S_295).jpg
+- California Geological Survey
+Whitney, J.D. | Public domain | https://commons.wikimedia.org/wiki/File:(Title_Page_verso)_University_Press-_Welch,_Bigelow,_%26_Co.,_Cambridge._(Table_of_Contents_to)_The_Yosemite_Guide-Book-_A_Description_(IA_dr_title-page-verso-university-press-welch-bigelow-co-cambridge-tab-4212005).jpg
+- Penn, I. Garland (Irvine Garland), 1867-1930 | No restrictions | https://commons.wikimedia.org/wiki/File:The_Afro-American_press_and_its_editors_(1891)_(14756725596).jpg
+- Lewis Hine | Public domain | https://commons.wikimedia.org/wiki/File:%22Charles_Templeton,_Old_Kingsport,_Kingsport,_Tennessee._His_job,_rounding_and_backing,_at_the_Kingsport_Press..._-_NARA_-_532738.jpg
+- National Encyclopaedia: A Dictionary of Universal Knowledge. Published by William Mackenzie, 1880. | Public domain | https://commons.wikimedia.org/wiki/File:Printing_Press_Single_Cylinder_Perfecting_1880_Mackenzie_National_Encyclopaedia.jpg
+- Woodrow Wilson Presidential Library Archives from Staunton, VA | No restrictions | https://commons.wikimedia.org/wiki/File:Gray%27s_Printing_Shop_(4359086299).jpg
+- Mason, W. | Public Domain Mark | https://wellcomecollection.org/works/vg6v6bxt (Wellcome Collection)
+- Mason, W. | Public Domain Mark | https://wellcomecollection.org/works/vg6v6bxt (Wellcome Collection)
+- Burroughs Wellcome & Company | Public Domain Mark | https://wellcomecollection.org/works/yh79grjn (Wellcome Collection)
+- Burroughs Wellcome & Company | Public Domain Mark | https://wellcomecollection.org/works/yh79grjn (Wellcome Collection)
+- BoltSnypr | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Seattle,_WA,_USA_-_panoramio_(10).jpg
+- War Department. Office of the Chief of Engineers. War Department Map Collection. 1939-1942 | Public domain | https://commons.wikimedia.org/wiki/File:Topographical_Map_of_Washington_Showing_Admiralty_Inlet_Quartermaster_Harbor,_and_Portage_and_Chautauqua_Docks_-_DPLA_-_29702451b89e35b5f7ad26079feb6888.jpg
+- Department of Energy. National Nuclear Security Administration. Sandia National Laboratories. 3/1/2000 | Public domain | https://commons.wikimedia.org/wiki/File:HUSKY_ACE-FAST_GATE_DAMAGE,_NEVADA_TEST_SITE_-_DPLA_-_e665765b884bf1303603998eb3b48fe7.jpg
+- Original: USGS
+Derivative: باسم | Public domain | https://commons.wikimedia.org/wiki/File:North_Korea_nuclear_test_2013-ar.jpg
+- Original:  United States Department of Defense (either the U.S. Army or the U.S. Navy)
+Derivative work:  Victorrocha (ta | Public domain | https://commons.wikimedia.org/wiki/File:Operation_Crossroads_Baker_Edit.jpg
+- Kelso,Jack R., Clifford, Jr., C. C of Defence Documentation Center for Scientific and Technical Information | Public domain | https://commons.wikimedia.org/wiki/File:OperationBlowdownComposite.png
+- United States Atomic Energy Agency | Public domain | https://commons.wikimedia.org/wiki/File:Operation_Castle_AW_2.png
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- Serres., Merke, Henri | Public Domain Mark | https://wellcomecollection.org/works/qubetrps (Wellcome Collection)
+- AI-generated illustration (not a real photograph)
+- Unknown | BY 4.0 | https://collections.museumsvictoria.com.au/items/1151741
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/9746789/image-people-vhs-tape-logo
+- Unknown | BY 4.0 | https://collections.museumsvictoria.com.au/items/1151743
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/9779329/png-white-background-paper
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/5948225/free-public-domain-cc0-photo
+- Unknown | BY 4.0 | https://collections.museumsvictoria.com.au/items/1151735
+- Unknown | BY 4.0 | https://collections.museumsvictoria.com.au/items/1153649
+- Unknown | BY 4.0 | https://collections.museumsvictoria.com.au/items/1153644
+- R. Henrik Nilsson | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Circa_1981_SCENE_E_180_VHS_video_cassette_view_3.jpg
+- Zalasem1 | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:VHS-C_camera,_adapter_VHS-C_to_VHS,_VHS-C_tape_(filter_levels).jpg
+- R. Henrik Nilsson | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Circa_1981_SCENE_E_180_VHS_video_cassette_view_1.jpg
+- Ggga21 | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:A_VHS_TDK_HS_cassette.jpg
+- Unknown authorUnknown author | Public domain | https://commons.wikimedia.org/wiki/File:Blavatsky_1875.jpg
+- George Grantham Bain Collection | Public domain | https://commons.wikimedia.org/wiki/File:Mme._Blavatsky,_head-and-shoulders_portrait_LCCN2005688465.tif
+- Rijksmuseum | CC0 | https://commons.wikimedia.org/wiki/File:Portret_van_Helena_Blavatsky,_RP-F-2001-7-67-105.jpg
+- Unknown author | CC0 | https://commons.wikimedia.org/wiki/File:Hiller_Model_1031-A-1_Flying_Platform_-_DPLA_-_a7a01ea9dc9a1653831585b75592f414_(page_3).jpg
+- Unknown author | CC0 | https://commons.wikimedia.org/wiki/File:Hiller_Model_1031-A-1_Flying_Platform_-_DPLA_-_a7a01ea9dc9a1653831585b75592f414_(page_5).jpg
+- NASA Armstrong Flight Research Center / NASA | Public domain | https://commons.wikimedia.org/wiki/File:NACA_Groundbreaking_Ceremony_(E-908).jpg
+- NASA Glenn Research Center | Public domain | https://commons.wikimedia.org/wiki/File:Lieutenant_Colonel_John_Stapp_Demonstrates_the_Rocket_Sled_(GRC-1956-C-41773).jpg
+- MODIS Land Rapid Response Team, NASA GSFC | Public domain | https://commons.wikimedia.org/wiki/File:The_Arid_Heart_of_Central_Asia_(MODIS_2020-09-30).jpg
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:Exhibits_70-72_Photographs_of_Tape_Recorder_and_Typewriter_-_NARA_-_7582822_(page_2).jpg
+- Office for Emergency Management. Office of War Information.	 (06/13/1942 - 09/15/1945), Photographer (NARA record: 11385 | Public domain | https://commons.wikimedia.org/wiki/File:Uncle_Sam_needs_600,000_typewriters_for_the_armed_services_and_is_contacting_all_possible_typewriter_users_to_urge..._-_NARA_-_196468.tif
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:Exhibits_70-72_Photographs_of_Tape_Recorder_and_Typewriter_-_NARA_-_7582822_(page_1).jpg
+- Photo by Infrogmation, February 2007 | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:UnderwoodCurbTypewriterBywater.jpg
+- Russell Lee | Public domain | https://commons.wikimedia.org/wiki/File:Linotype_operators_of_the_Chicago_Defender.png
+- Gene Herrick for the Associated Press; restored by Adam Cuerden | Public domain | https://commons.wikimedia.org/wiki/File:Rosa_Parks_being_fingerprinted_by_Deputy_Sheriff_D.H._Lackey_after_being_arrested_on_February_22,_1956,_during_the_Montgomery_bus_boycott.png
+- Rob Ketcherside | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Chicago_Hotel,_Seattle,_1937_(31336221561).jpg
+- Gene Herrick for the Associated Press; restored by Adam Cuerden | Public domain | https://commons.wikimedia.org/wiki/File:Rosa_Parks_being_fingerprinted_by_Deputy_Sheriff_D.H._Lackey_after_being_arrested_on_February_22,_1956,_during_the_Montgomery_bus_boycott_-_Original.jpg
+- NASA | public domain | images.nasa.gov
+- NASA/JPL-Caltech/SwRI/MSSS | Public domain | https://commons.wikimedia.org/wiki/File:PIA21031_Close-Up_Views_of_Jupiter%27s_North_Pole.jpg
+- TRW, Inc | CC0 | https://commons.wikimedia.org/wiki/File:Pioneer_10_-_11,_reconstructed_full-scale_mock-up_-_DPLA_-_0ee5410618161a495925d68f2fc5e1fb_(page_5).jpg
+- Eric Friedebach | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Sully,_VA,_USA_-_panoramio_(1).jpg
+- NASA / Jet Propulsion Laboratory-Caltech / Space Science Institute | Public domain | https://commons.wikimedia.org/wiki/File:PIA21436_-_Pan,_3_versions.jpg
+- NASA Goddard Space Flight Center from Greenbelt, MD, USA | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:The_Solar_Probe_Plus_spacecraft_will_plunge_directly_into_the_sun%27s_atmosphere_(4954566569).jpg
+- NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute/Alex Parker | Public domain | https://commons.wikimedia.org/wiki/File:Charon_in_True_Color_-_High-Res.jpg
+- TRW, Inc | CC0 | https://commons.wikimedia.org/wiki/File:Pioneer_10_-_11,_reconstructed_full-scale_mock-up_-_DPLA_-_0ee5410618161a495925d68f2fc5e1fb_(page_3).jpg
+- Jorge Láscar from Melbourne, Australia | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Intramuros_(17292779815).jpg
+- Jorge Láscar from Melbourne, Australia | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Intramuros_(17292789215).jpg
+- Jorge Láscar from Melbourne, Australia | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Intramuros_(17104993778).jpg
+- Jorge Láscar from Melbourne, Australia | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Intramuros_(17107013339).jpg
+- John Pinkerton | Public domain | https://commons.wikimedia.org/wiki/File:1818_Pinkerton_Map_of_the_East_Indies_and_Southeast_Asia_(Singapore,_Borneo,_Java,_Sumatra,_Thailand_-_Geographicus_-_EastIndiaIslands-pinkerton-1818.jpg
+- Jorge Láscar from Melbourne, Australia | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Street_in_Intramuros_(17267094066).jpg
+- Jorge Láscar from Melbourne, Australia | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Intramuros_(17267084966).jpg
+- Jorge Láscar from Melbourne, Australia | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Intramuros_(17104984418).jpg
+- Jorge Láscar from Melbourne, Australia | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Intramuros_(16672570553).jpg
+- Jorge Láscar from Melbourne, Australia | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Intramuros_(17267256746).jpg
+- Jorge Láscar from Melbourne, Australia | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Intramuros_(17292807135).jpg
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/7666998/image-art-vintage-public-domain
+- http://www.geographicus.com/mm5/cartographers/japanese.txt | Public domain | https://commons.wikimedia.org/wiki/File:1943_World_War_II_Japanese_Aeronautical_Map_of_the_Celebes_-_Geographicus_-_Celebes13-wwii-1943.jpg
+- Creator:George Anson | Public domain | https://commons.wikimedia.org/wiki/File:1750_Anson_Map_of_Baja_California_and_the_Pacific_w-_Trade_Routes_from_Acapulco_to_Manila_-_Geographicus_-_MerDuSud-anson-1750.jpg
+- http://www.geographicus.com/mm5/cartographers/james.txt | Public domain | https://commons.wikimedia.org/wiki/File:1860_James_Polar_Projection_of_the_Globe_-_Antarctica_-_Pacific_Center_-_Geographicus_-_AntarcticProjection-james-1860.jpg
+- http://www.geographicus.com/mm5/cartographers/imray.txt | Public domain | https://commons.wikimedia.org/wiki/File:1876_Imray_Blue-back_Nautical_Chart_or_Map_of_Taiwan_(Formosa),_China_-_Geographicus_-_Taiwan-imray-1876.jpg
+- Unknown author 
+Bureau of Naval Personnel
+
+Navy Department | Public domain | https://commons.wikimedia.org/wiki/File:NavWarMap_No._5_-_Southwest_Pacific.jpg
+- Wilfredor | CC0 | https://commons.wikimedia.org/wiki/File:Antique_map_of_the_Americas_at_the_Ita%C3%BA_Cultural,_S%C3%A3o_Paulo.jpg
+- Various | Public domain | https://commons.wikimedia.org/wiki/File:1551_map_of_the_Western_Hemisphere_by_Sancho_Guti%C3%A9rrez.jpg
+- Creator:George Anson | Public domain | https://commons.wikimedia.org/wiki/File:1748_Seale_Map_of_the_Pacific_Ocean_w-_Trade_Routes_from_Acapulco_to_Manila_-_Geographicus_-_PacificOcean-ansonseale-1748.jpg
+- John Thomson | Public domain | https://commons.wikimedia.org/wiki/File:Chart_of_the_Northern_Passage_Between_Asia_%26_America.jpg
+- Unknown authorUnknown author
+Bureau of Naval Personnel
+
+Navy Department | Public domain | https://commons.wikimedia.org/wiki/File:NavWarMap_No._4_-_The_North_Pacific_Area.jpg
+- Dmoore5556 | Public domain | https://commons.wikimedia.org/wiki/File:New_Hampshire_historical_marker_1_in_Pittsburg.jpg
+- Federal Writers' Project Of The Works Progress Administration For The State Of New Hampshire | Public domain | https://commons.wikimedia.org/wiki/File:Collection_of_maps_relating_to_publication_of_%22New_Hampshire,_a_guide_to_the_Granite_State%22_by_Federal_Writers%27_Project_of_the_Works_Progress_Administration_for_the_State_of_New_Hampshire_LOC_2008624019-1.tif
+- Tichnor Brothers, Publisher | Public domain | https://commons.wikimedia.org/wiki/File:Princess_Restaurant_and_Ballroom,_W._Concord,_N.H.,_Route_U.S._3_(78357).jpg
+- Federal Writers' Project Of The Works Progress Administration For The State Of New Hampshire | Public domain | https://commons.wikimedia.org/wiki/File:Collection_of_maps_relating_to_publication_of_%22New_Hampshire,_a_guide_to_the_Granite_State%22_by_Federal_Writers%27_Project_of_the_Works_Progress_Administration_for_the_State_of_New_Hampshire_LOC_2008624019-7.tif
+- Federal Writers' Project Of The Works Progress Administration For The State Of New Hampshire | Public domain | https://commons.wikimedia.org/wiki/File:Collection_of_maps_relating_to_publication_of_%22New_Hampshire,_a_guide_to_the_Granite_State%22_by_Federal_Writers%27_Project_of_the_Works_Progress_Administration_for_the_State_of_New_Hampshire_LOC_2008624019-10.jpg
+- Tichnor Brothers, Publisher | Public domain | https://commons.wikimedia.org/wiki/File:White_Owl_Cabin,_Route_US_3,_Laconia,_N.H_(76442).jpg
+- "Tichnor Quality Views," Reg. U. S. Pat. Off. Made Only by Tichnor Bros., Inc., Boston, Mass. | Public domain | https://commons.wikimedia.org/wiki/File:The_Birches,_at_the_gateway_to_New_Hampshire_and_Canada_on_Route_28_(85052).jpg
+- Federal Writers' Project Of The Works Progress Administration For The State Of New Hampshire | Public domain | https://commons.wikimedia.org/wiki/File:Collection_of_maps_relating_to_publication_of_%22New_Hampshire,_a_guide_to_the_Granite_State%22_by_Federal_Writers%27_Project_of_the_Works_Progress_Administration_for_the_State_of_New_Hampshire_LOC_2008624019-14.jpg
+- Federal Writers' Project Of The Works Progress Administration For The State Of New Hampshire | Public domain | https://commons.wikimedia.org/wiki/File:Collection_of_maps_relating_to_publication_of_%22New_Hampshire,_a_guide_to_the_Granite_State%22_by_Federal_Writers%27_Project_of_the_Works_Progress_Administration_for_the_State_of_New_Hampshire_LOC_2008624019-2.jpg
+- Federal Writers' Project Of The Works Progress Administration For The State Of New Hampshire | Public domain | https://commons.wikimedia.org/wiki/File:Collection_of_maps_relating_to_publication_of_%22New_Hampshire,_a_guide_to_the_Granite_State%22_by_Federal_Writers%27_Project_of_the_Works_Progress_Administration_for_the_State_of_New_Hampshire_LOC_2008624019-3.jpg
+- Tichnor Brothers, Publisher | Public domain | https://commons.wikimedia.org/wiki/File:White_Owl_Cabin,_Route_US_3,_Laconia,_N.H_(76441).jpg
+- GPS 56 from New Zealand | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:1957_Chevrolet_Bel-Air_(16653506363).jpg
+- Giovanni Battista Piranesi, Walter, Edward, 1727-1780 | Public Domain Mark | https://wellcomecollection.org/works/xtv6amfr (Wellcome Collection)
+- Giovanni Battista Piranesi | Attribution 4.0 International (CC BY 4.0) | https://wellcomecollection.org/works/pyn92vdg (Wellcome Collection)
+- Walmsley, John, active 1839-1878, George Gilbert Scott | Public Domain Mark | https://wellcomecollection.org/works/dfagbz2r (Wellcome Collection)
+- Kane, Sarah Julia | Public Domain Mark | https://wellcomecollection.org/works/m2vf5pbf (Wellcome Collection)
+- Howard, George Selby., Bettesworth, John | Public Domain Mark | https://wellcomecollection.org/works/ap56h8wy (Wellcome Collection)
+- Giovanni Battista Piranesi, Earle, Giles, 1732-1811 | Attribution 4.0 International (CC BY 4.0) | https://wellcomecollection.org/works/yqmxc9hh (Wellcome Collection)
+- Joshua Reynolds, Josiah Boydell | Public Domain Mark | https://wellcomecollection.org/works/hm2uyxc4 (Wellcome Collection)
+- Unknown | Public Domain Mark | https://wellcomecollection.org/works/d487cw75 (Wellcome Collection)
+- Giovanni Battista Piranesi | Public Domain Mark | https://wellcomecollection.org/works/mj92bqpk (Wellcome Collection)
+- Whessell, J., active 1820-1825. | Public Domain Mark | https://wellcomecollection.org/works/yahsxzw2 (Wellcome Collection)
+- Cyril Farey, Hornblower, George, 1858-1940 | Attribution 4.0 International (CC BY 4.0) | https://wellcomecollection.org/works/hkk8tmhn (Wellcome Collection)
+- Ogram | CC0 | https://commons.wikimedia.org/wiki/File:State_of_New_Hampshire_with_Counties_%26_Towns.png
+- Jefferys, Thomas (1719?-1771). Cartographe | Public domain | https://commons.wikimedia.org/wiki/File:A_Chart_of_North_and_South_America,_including_the_Atlantic_and_Pacific_oceans,_with_the_nearest_coasts_of_Europe,_Africa_and_Asia_-_(by_Thos._Jefferys)_-_btv1b530900324_(1_of_2).jpg
+- Baily, John (18..-18.. ; lieutenant). Auteur du texte | Public domain | https://commons.wikimedia.org/wiki/File:Map_of_central_America..._shewing_the_proposed_routes_between_the_Atlantic_and_Pacific_oceans,_by_way_of_Tehuantepeque,_Nicaragua_and_Panama_-_engraved_from_the_original_drawing_of_John_Baily..._-_btv1b532971707_(2_of_3).jpg
+- Maury (18..-19.. ; commandant). Cartographe | Public domain | https://commons.wikimedia.org/wiki/File:Wind_and_current_charts_for_pacific._atlantic_and_indian_oceans_-_constructed_by_Captain_Maury_;_Admiral_Fitz_Roy_-_btv1b53148969d_(8_of_8).jpg
+- Robert Sayer and John Bennett (Firm) -- Publisher | CC0 | https://commons.wikimedia.org/wiki/File:A_chart_of_North_and_South_America_-_including_the_Atlantic_and_Pacific_Oceans,_with_the_nearest_coasts_of_Europe,_Africa_and_Asia._NYPL1258749.jpg
+- Unknown author | Public domain | https://commons.wikimedia.org/wiki/File:A_chart_of_north_and_south_America,_including_the_Atlantic_and_Pacific_oceans,_with_the_nearest_coasts_of_Europe,_Africa,_and_Asia_-_btv1b53052976f_(4_of_5).jpg
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:Map_of_Central_America_Showing_the_Different_Lines_of_Atlantic_and_Pacific_Communications_-_NARA_-_5900013.jpg
+- Maury (18..-19.. ; commandant). Cartographe | Public domain | https://commons.wikimedia.org/wiki/File:Wind_and_current_charts_for_pacific._atlantic_and_indian_oceans_-_constructed_by_Captain_Maury_;_Admiral_Fitz_Roy_-_btv1b53148969d_(4_of_8).jpg
+- Unknown author | Public domain | https://commons.wikimedia.org/wiki/File:A_chart_of_north_and_south_America,_including_the_Atlantic_and_Pacific_oceans,_with_the_nearest_coasts_of_Europe,_Africa,_and_Asia_-_btv1b53052976f_(5_of_5).jpg
+- Colton, Joseph Hutchins (1800-1893). Fonction indéterminée
+
+SHERMAN &amp; SMITH (New York, États-Unis). Fonction indéter | Public domain | https://commons.wikimedia.org/wiki/File:Map_of_the_United_States_of_America,_the_British_Provinces,_Mexico_and_the_West_Indies,_showing_the_Country_From_the_Atlantic_to_the_Pacific_Ocean_-_Drawn_and_Engraved_by_Sherman_and_Smith,_New_York_-_btv1b53100005q_(3_of_4).jpg
+- Maury (18..-19.. ; commandant). Cartographe | Public domain | https://commons.wikimedia.org/wiki/File:Wind_and_current_charts_for_pacific._atlantic_and_indian_oceans_-_constructed_by_Captain_Maury_;_Admiral_Fitz_Roy_-_btv1b53148969d_(2_of_8).jpg
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:Atlantic_and_Pacific_Railroad,_Depot_Reserve_in_Cherokee_Nation,_Indian_Territory,_Oseuma_Station,_2nd_Reservation,_Approved_-_NARA_-_6093639.jpg
+- Markus Spiske | CC0 1.0 | https://www.rawpixel.com/image/431913/free-photo-image-music-tape-cassette
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6753819/vector-tape-vintage-public-domain
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/9851410/photo-image-art-vintage-tape
+- libraryofcongress | CC0 1.0 | https://www.rawpixel.com/image/6320090/dan-aykroyd-set-mtv-music-television-nyc
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6759551/png-sticker-tape
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6759924/vector-sticker-tape-vintage
+- Steve Knight from Halstead, United Kingdom | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Coach_House_control_room_(53720408036).jpg
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/3285006/free-photo-image-truck-road-truck
+- NPS Photo | Public domain | https://commons.wikimedia.org/wiki/File:Night_Sky_Over_Chisos_Mountains_(de3b5b2d-7015-4ca5-871b-4da5a8858774).jpg
+- Bureau of Land Management | Public domain | https://commons.wikimedia.org/wiki/File:Steens_Mountain_in_eastern_Oregon_(9683731272).jpg
+- KPNO/NOIRLab/NSF/AURA/B. Tafreshi | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:A_Colorful_Night_(iotw2025a).tiff
