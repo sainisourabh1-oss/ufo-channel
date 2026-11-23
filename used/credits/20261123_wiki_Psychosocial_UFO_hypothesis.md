@@ -1,0 +1,115 @@
+# Image credits - 1947 Mount Rainier UFO Case: उड़न तश्तरी शब्द के पीछे की कहानी (UFO Case)
+
+- Seattle Fine Arts Society | Public domain | https://commons.wikimedia.org/wiki/File:The_Town_Crier,_v.18,_no.16,_Apr._21,_1923_-_DPLA_-_01df955fe91f95bb17bffef69f7e7701_(page_2).jpg
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:1940_Census_Enumeration_District_Descriptions_-_Washington_-_Pierce_County_-_ED_27-21,_ED_27-112,_ED_27-113A,_ED_27-113B,_ED_27-114,_ED_27-115,_ED_27-116,_ED_27-117_-_NARA_-_5886554.jpg
+- Jet Lowe | Public domain | https://commons.wikimedia.org/wiki/File:NICKEL_CREEK_BRIDGE,_ELEVATION_VIEW_-_Nickel_Creek_Bridge,_Spanning_Nickel_Creek_on_Stevens_Canyon_Highway,_Packwood,_Lewis_County,_WA_-_HAER_WASH,21-PACK.V,5-4_(CT).tif
+- Seattle Fine Arts Society | Public domain | https://commons.wikimedia.org/wiki/File:The_Town_Crier,_v.18,_no.16,_Apr._21,_1923_-_DPLA_-_01df955fe91f95bb17bffef69f7e7701_(page_7).jpg
+- Seattle Fine Arts Society | Public domain | https://commons.wikimedia.org/wiki/File:The_Town_Crier,_v.18,_no.16,_Apr._21,_1923_-_DPLA_-_01df955fe91f95bb17bffef69f7e7701_(page_9).jpg
+- Jet Lowe | Public domain | https://commons.wikimedia.org/wiki/File:DEADWOOD_CREEK_BRIDGE,_FACING_NORTHWEST_-_Deadwood_Creek_Bridge,_Spanning_Deadwood_Creek_on_Mather_Memorial_Parkway,_Longmire,_Pierce_County,_WA_HAER_WASH,27-LONG.V,4-4_(CT).tif
+- Seattle Fine Arts Society | Public domain | https://commons.wikimedia.org/wiki/File:The_Town_Crier,_v.18,_no.16,_Apr._21,_1923_-_DPLA_-_01df955fe91f95bb17bffef69f7e7701_(page_1).jpg
+- Jet Lowe | Public domain | https://commons.wikimedia.org/wiki/File:St_Andrews_Creek_Bridge.jpg
+- Seattle Fine Arts Society | Public domain | https://commons.wikimedia.org/wiki/File:The_Town_Crier,_v.18,_no.16,_Apr._21,_1923_-_DPLA_-_01df955fe91f95bb17bffef69f7e7701_(page_3).jpg
+- Unknown | Public Domain Mark | https://wellcomecollection.org/works/whjnu3ng (Wellcome Collection)
+- Harris &amp; Ewing, photographer | Public domain | https://commons.wikimedia.org/wiki/File:Men_with_weather_balloon_on_roof_of_U.S._Weather_Bureau_building,_Washington,_D.C._LCCN2016887874.tif
+- COD Newsroom | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:College_of_DuPage_Students_Launch_Science_Balloon_2018_21.jpg
+- Het Algemeen Nieuws | Public domain | https://commons.wikimedia.org/wiki/File:Voorpagina_Vlaams_dagblad_%22Het_Algemeen_Nieuws%22_11_juli_1942.jpg
+- De Dag | Public domain | https://commons.wikimedia.org/wiki/File:Voorpagina_%22De_Dag%22_24_Juni_1941_met_hoofdnieuws_%22Geweldige_Overmacht_van_het_Duitse_luchtwapen_op_Russisch_front.%22.jpg
+- Ed Westcott / Department of Energy Oak Ridge | Public domain | https://commons.wikimedia.org/wiki/File:V-J_Day_celebrations-in_Jackson_Square,_Oak_Ridge.jpg
+- doe-oakridge | Public domain | https://commons.wikimedia.org/wiki/File:%22V.J.%22_Day_-_Jackson_Square_Oak_Ridge_(6986740160).jpg
+- Jeff Golenski jeffgolenski | CC0 | https://commons.wikimedia.org/wiki/File:Moving_stars_above_Fryeburg_(Unsplash).jpg
+- Mmfgh | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Night_Sky_Over_the_Maple_Trees.jpg
+- J Doll | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Seeing_Stars_(140365019).jpeg
+- Shenandoah  National Park from Virginia | Public domain | https://commons.wikimedia.org/wiki/File:2017_Night_Sky_Festival_(36900020565).jpg
+- KPNO/NOIRLab/NSF/AURA | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Trails_Through_the_Night_Sky_(iotw2033a).tiff
+- ESO/G. Brammer | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Framing_the_Night_Sky.jpg
+- Shenandoah  National Park from Virginia | Public domain | https://commons.wikimedia.org/wiki/File:2017_Night_Sky_Festival_(36760328121).jpg
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:FIFTH_AIR_FORCE,_KOREA-Capt._Frank_W._Corbett,_726_First_Ave.,_Gadsen,_Ala.,_climbs_out_of_his_U.S._Air_Force_17th..._-_NARA_-_542318.tif
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:U.S._Air_Force_F-80_Shooting_Star_-_NARA_-_542241.tif
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:FIFTH_AIR_FORCE,_KOREA_-_Its_swept_wings_and_sleek_fuselage_distinguish_the_North_American_F-86_%22Sabre_Jet%22..._-_NARA_-_542281.tif
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:U._S._Army_Air_Force_Rio_Hato_Airfield,_last_lowering_of_the_U.S._flag,_return_ceremony_to_the_Republic_of_Panama_on_February_24,_1948_-_NARA_-_68147742_(cropped).jpg
+- Unknown author | Public domain | https://commons.wikimedia.org/wiki/File:Photocopy_of_drawing_(original_drawing_of_Theater-886_Seats_in_possession_of_MacDill_Air_Force_Base,_Civil_Engineering,_Tampa,_Florida;_1947_architectural_drawings_by_HABS_FLA,29-TAMP,52Q-13.tif
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:98TH_BOMB_WING,_JAPAN-Pfc._Benjamin_Livingston_flys_as_a_gunner_on_one_of_the_U.S._Air_Force_veteran_98th_Bomb..._-_NARA_-_542359.tif
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:An_unabashed_Korean_puppy_holds_his_ground_in_an_%22eye_to_eye%22_encounter_with_a_huge_Fifth_Air_Force_aerial_camera..._-_NARA_-_542230.tif
+- US Force (Advance Intelligence Center). published by National Diet Library, Japan. | Public domain | https://commons.wikimedia.org/wiki/File:Yokota_Airfield_information_in_US_force_document_July_1945.jpg
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:Streaking_north_over_the_rugged_mountain_territory_of_Korea,_these_U.S._Air_Force_F-86_%22Sabre%22_jets_of_the_51st..._-_NARA_-_542248.tif
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:Bong_Son_Village,_Thailand._First_Lieutenant_Linda_J._Bowser,_an_Air_Force_nurse_with_the_8th_TFW_Med-Cap_team..._-_NARA_-_542334.tif
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:Side_view_of_a_Vietnamese_Air_Force_UH-1H_helicopter_in_flight_over_Southeast_Asia._-_NARA_-_542344.tif
+- Related names:
+
+U.S. Department of the Air Force
+Grogan, Brian, photographer
+Rittermann, Philipp S, photographer
+Hudlow, | Public domain | https://commons.wikimedia.org/wiki/File:Edwards_Air_Force_Base,_North_Base,_North_Base_Road,_Boron,_Kern_County,_CA_HAER_CAL,15-BORON.V,2-_(sheet_3_of_3).tif
+- Joe Haupt from USA | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Vintage_Advertising_For_The_1958_Oldsmobile_Trans-Portable_Radio_In_The_Janesville_Wisconsin_Daily_Gazette_Newspaper,_December_3,_1957_(32292168791).jpg
+- Joe Haupt from USA | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Vintage_Advertising_For_The_Cavalcade_Model_RS-1A_Table_Radio_In_The_Sedalia_Kansas_Democrat_Newspaper,_December_19,_1946_(28985949342).jpg
+- Zheldorproekt, Spiė Arktikproekt | Public domain | https://commons.wikimedia.org/wiki/File:Kombinirovannai%EF%B8%A0a%EF%B8%A1_s%22emka_Zheldorproekta_i_SPI%C4%96_Arktikproekta._LOC_2018685888.jpg
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- Steve Shook from Moscow, Idaho, USA | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Miniature_Steel_Mill,_Dunes_State_Park,_Indiana,_1931_-_Chesterton,_Indiana_(5696153836).jpg
+- NASA Expedition 20 crew | Public domain | https://commons.wikimedia.org/wiki/File:ISS-20_Thunderstorms_on_the_Brazilian_Horizon.jpg
+- NOAA Photo Library | Public domain | https://commons.wikimedia.org/wiki/File:Lightning_in_Dallas_2015.jpg
+- RealGatba | CC0 | https://commons.wikimedia.org/wiki/File:Thunderstorm_over_the_Little_Manatee_River.jpg
+- Thomas Bresson | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:2013-08-07_04-23-26-foudre-belfort.jpg
+- AI-generated illustration (not a real photograph)
+- Thisik | CC0 | https://commons.wikimedia.org/wiki/File:Thunderstorm_(lightning).jpg
+- Leonhard Lenz | CC0 | https://commons.wikimedia.org/wiki/File:Thunderstorm_from_under_Wasserstadtbr%C3%BCcke_2019-06-11_04.jpg
+- Leonhard Lenz | CC0 | https://commons.wikimedia.org/wiki/File:Thunderstorm_from_Spandauer-See-Br%C3%BCcke_2019-06-11_02.jpg
+- Senior Airman Erik Cardenas | Public domain | https://commons.wikimedia.org/wiki/File:Lightning_within_five_DVIDS167872.jpg
+- Leonhard Lenz | CC0 | https://commons.wikimedia.org/wiki/File:Thunderstorm_from_under_Wasserstadtbr%C3%BCcke_2019-06-11_01.jpg
+- Marines from Arlington, VA, United States | Public domain | https://commons.wikimedia.org/wiki/File:Thunder_Storm_(8497618033).jpg
+- John Robert McPherson | CC0 | https://commons.wikimedia.org/wiki/File:Full_moon_rising_under_shelf_cloud_at_Sandgate_Pier_Shorncliffe_IMGP2990.jpg
+- John Robert McPherson | CC0 | https://commons.wikimedia.org/wiki/File:Full_moon_rising_under_shelf_cloud_at_Sandgate_Pier_Shorncliffe_IMGP2995.jpg
+- John Robert McPherson | CC0 | https://commons.wikimedia.org/wiki/File:Full_moon_rising_under_shelf_cloud_at_Sandgate_Pier_Shorncliffe_P1210652.jpg
+- John Robert McPherson | CC0 | https://commons.wikimedia.org/wiki/File:Full_moon_rising_under_shelf_cloud_at_Sandgate_Pier_Shorncliffe_IMGP2998.jpg
+- John Robert McPherson | CC0 | https://commons.wikimedia.org/wiki/File:Full_moon_rising_under_shelf_cloud_at_Sandgate_Pier_Shorncliffe_IMGP2996.jpg
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- Scott Andrews, Nikon Professional Services for NASA | Public domain | https://commons.wikimedia.org/wiki/File:Space_Shuttle_STS-70_Launch_DSC00001.jpg
+- NASA | Public domain | https://commons.wikimedia.org/wiki/File:STS-1_Space_Shuttle_Columbia_discarded_external_tank.jpg
+- NASA Kennedy Space Center / NASA/Jamie Peer | Public domain | https://commons.wikimedia.org/wiki/File:NASA_Kennedy_Space_Center_Florida_NASA_Causeway_Bridge_Replaceme_(KSC-20231127-PH_JBP01-0052).jpg
+- NASA | Public domain | https://commons.wikimedia.org/wiki/File:ASTRONAUT_COOPER,_GORDON_L._-_MERCURY-ATLAS_(MA)-9_-_PRELAUNCH_-_PREFLIGHT_CHECK_-_CAPE.jpg
+- NASA Marshall Space Flight Center | Public domain | https://commons.wikimedia.org/wiki/File:Saturn_Apollo_Program_(6900846).jpg
+- NASA | Public domain | https://commons.wikimedia.org/wiki/File:Apollo_11_Liftoff_Spectators_-_GPN-2000-001852.jpg
+- Unknown author | Public domain | https://commons.wikimedia.org/wiki/File:Scout_launch_vehicle.jpg
+- NASA Marshall Space Flight Center | Public domain | https://commons.wikimedia.org/wiki/File:Wallacenasa.gif
+- NASA Kennedy Space Center / NASA/Jamie Peer | Public domain | https://commons.wikimedia.org/wiki/File:NASA_Kennedy_Space_Center_Florida_NASA_Causeway_Bridge_Replaceme_(KSC-20231127-PH_JBP01-0068).jpg
+- NASA | Public domain | https://commons.wikimedia.org/wiki/File:MA-9_Gordon_Cooper_in_centrifuge.jpg
+- NASA | Public domain | https://commons.wikimedia.org/wiki/File:Carpenter%27s_Flight.jpg
+- Harli Marten | CC0 1.0 | https://stocksnap.io/photo/jet-smoke-DTQUV6RAR4
+- Tim Sullivan | CC0 1.0 | https://stocksnap.io/photo/jet-airplane-ORVFUET37P
+- Unknown | Public Domain Mark | https://wellcomecollection.org/works/vgxjg85a (Wellcome Collection)
+- Whymper, Charles H., 1853-1941. | Public Domain Mark | https://wellcomecollection.org/works/a5rvmydp (Wellcome Collection)
+- Thomas Holloway (Firm) | Public Domain Mark | https://wellcomecollection.org/works/usj8khxf (Wellcome Collection)
+- John Thomson | Public Domain Mark | https://wellcomecollection.org/works/fjh2q3s4 (Wellcome Collection)
+- Roussin, A., active 1860. | Public Domain Mark | https://wellcomecollection.org/works/gz9hgrfn (Wellcome Collection)
+- John Thomson | Attribution 4.0 International (CC BY 4.0) | https://wellcomecollection.org/works/vfhd3pms (Wellcome Collection)
+- Astrobond | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%B8%D1%81%D1%82%D1%8B%D0%B5_%D0%BE%D0%B1%D0%BB%D0%B0%D0%BA%D0%B0_%D0%BE%D1%82_29_%D0%B8%D1%8E%D0%BD%D1%8F_2022_%D0%B3%D0%BE%D0%B4%D0%B0._%D0%92_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B5.jpg
+- Montgomery, Walter | No restrictions | https://commons.wikimedia.org/wiki/File:American_art_and_American_art_collections;_essays_on_artistic_subjects_(1889)_(14596228520).jpg
+- Jordan Condon | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Tiny_Giants_(152791857).jpeg
+- NASA Hubble | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Caldwell_62.jpg
+- NASA/JHUAPL/SwRI | Public domain | https://commons.wikimedia.org/wiki/File:Pluto_crescent.jpg
+- Image: NASA/JPL-Caltech/Space Science Institute. Processing: Stefano Ivan Stinga | Public domain | https://commons.wikimedia.org/wiki/File:Saturn_from_inside_its_shadow,_Cassini_2017-04-13_(processed_by_Stefano_Ivan_Stinga).jpg
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
