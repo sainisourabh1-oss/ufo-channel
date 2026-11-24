@@ -1,0 +1,138 @@
+# Image credits - इतिहास के 5 सबसे बड़े UFO रहस्य और उनका कड़वा सच (UFO Files)
+
+- National Security Agency, United States Government. - "Decrypt of Police message (National Archives and Records Administ | Public domain | https://commons.wikimedia.org/wiki/File:Hsspf_decrypt_2.png
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:Register_of_Civilian_Employees_in_Field_Offices_-_NARA_-_63814749_(page_41).jpg
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:Register_of_Civilian_Employees_in_Field_Offices_-_NARA_-_63814749_(page_7).jpg
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:Register_of_Civilian_Employees_in_Field_Offices_-_NARA_-_63814749_(page_38).jpg
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:Register_of_Civilian_Employees_in_Field_Offices_-_NARA_-_63814749_(page_27).jpg
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:Register_of_Civilian_Employees_in_Field_Offices_-_NARA_-_63814749_(page_21).jpg
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:Register_of_Civilian_Employees_in_Field_Offices_-_NARA_-_63814749_(page_5).jpg
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:Register_of_Civilian_Employees_in_Field_Offices_-_NARA_-_63814749_(page_12).jpg
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/5934353/photo-image-newspaper-white
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/5959588/free-public-domain-cc0-photo
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/13975936/image-person-sky-newspapers
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:Register_of_Civilian_Employees_in_Field_Offices_-_NARA_-_63814749_(page_4).jpg
+- Related names:
+
+Blaw-Knox Construction Company
+Kaiser Engineers
+Hummel Hummel and Jones
+Fluor Construction
+Arrington Con | Public domain | https://commons.wikimedia.org/wiki/File:CONTROL_HOUSE,_TRA-620._MASONS_ERECT_PUMICE_BLOCK_WALLS._BUILDING_WILL_CONTROL_ACCESS_TO_MTR_AND_OTHER_%22HOT%22_AND_CLASSIFIED_AREAS._INL_NEGATIVE_NO._577.;_Unknown_Photographer,_9-11_HAER_ID-33-G-284.tif
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:Register_of_Civilian_Employees_in_Field_Offices_-_NARA_-_63814749_(page_34).jpg
+- Unknown author | Public domain | https://commons.wikimedia.org/wiki/File:USMC-060706-M-3816G-003.jpg
+- Sgt. Daniel K. Brown | Public domain | https://commons.wikimedia.org/wiki/File:USMC-110825-M-PL160-017.jpg
+- Scott Wylie from UK | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Nuclear_Bunker.jpg
+- Scott Wylie from UK | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Nuclear_Bunker_(21).jpg
+- U.S. Marines USMCF-S by Gunnery Sgt. Daniel Wetzel | Public domain | https://commons.wikimedia.org/wiki/File:U_S_Marines_exchange_best_practices_with_Brazilian_Naval_Infantry_during_Expeditionary_Airfield_Exercise_(8386174).jpg
+- Scott Wylie from UK | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Nuclear_Bunker_(27).jpg
+- U.S. Marines USMCF-S by Gunnery Sgt. Daniel Wetzel | Public domain | https://commons.wikimedia.org/wiki/File:U_S_Marines_exchange_best_practices_with_Brazilian_Naval_Infantry_during_Expeditionary_Airfield_Exercise_(8386175).jpg
+- U.S. Marines USMCF-S by Gunnery Sgt. Daniel Wetzel | Public domain | https://commons.wikimedia.org/wiki/File:U_S_Marines_exchange_best_practices_with_Brazilian_Naval_Infantry_during_Expeditionary_Airfield_Exercise_(8386178).jpg
+- Richard Westmacott | Public Domain Mark | https://wellcomecollection.org/works/a8t5wdbj (Wellcome Collection)
+- Unknown | CC0 | https://www.metmuseum.org/art/collection/search/309228 (The Met)
+- Louise Crane | Attribution 4.0 International (CC BY 4.0) | https://wellcomecollection.org/works/nzej9kwd (Wellcome Collection)
+- COD Newsroom | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:College_of_DuPage_Students_Launch_Science_Balloon_2018_5.jpg
+- COD Newsroom | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:College_of_DuPage_Students_Launch_Science_Balloon_2018_10.jpg
+- COD Newsroom | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:College_of_DuPage_Students_Launch_Science_Balloon_2018_12.jpg
+- COD Newsroom | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:College_of_DuPage_Students_Launch_Science_Balloon_2018_6.jpg
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- Unknown author | Public domain | https://commons.wikimedia.org/wiki/File:Grand_Forks_Air_Force_Base,_Missile_Launch_Facility_November-33,_Launch_Facility_Equipment_Building,_State_HIghway_200,_Cooperstown,_Griggs_County,_ND_HAER_ND-11-B-3.tif
+- Unknown author | Public domain | https://commons.wikimedia.org/wiki/File:Grand_Forks_Air_Force_Base,_Missile_Launch_Facility_November-33,_Launcher,_State_Highway_200,_Cooperstown,_Griggs_County,_ND_HAER_ND-11-A-10.tif
+- Unknown author | Public domain | https://commons.wikimedia.org/wiki/File:Grand_Forks_Air_Force_Base,_Missile_Launch_Facility_November-33,_Launcher,_State_Highway_200,_Cooperstown,_Griggs_County,_ND_HAER_ND-11-A-4.tif
+- Unknown author | Public domain | https://commons.wikimedia.org/wiki/File:Grand_Forks_Air_Force_Base,_Missile_Launch_Facility_November-33,_Launcher,_State_Highway_200,_Cooperstown,_Griggs_County,_ND_HAER_ND-11-A-3.tif
+- Unknown author | Public domain | https://commons.wikimedia.org/wiki/File:Grand_Forks_Air_Force_Base,_Missile_Launch_Facility_November-33,_Launcher,_State_Highway_200,_Cooperstown,_Griggs_County,_ND_HAER_ND-11-A-16.tif
+- Unknown author | Public domain | https://commons.wikimedia.org/wiki/File:Grand_Forks_Air_Force_Base,_Missile_Launch_Facility_November-33,_Launch_Facility_Equipment_Building,_State_HIghway_200,_Cooperstown,_Griggs_County,_ND_HAER_ND-11-B-7.tif
+- Unknown author | Public domain | https://commons.wikimedia.org/wiki/File:Grand_Forks_Air_Force_Base,_Missile_Launch_Facility_November-33,_Launcher,_State_Highway_200,_Cooperstown,_Griggs_County,_ND_HAER_ND-11-A-17.tif
+- Unknown author | Public domain | https://commons.wikimedia.org/wiki/File:Grand_Forks_Air_Force_Base,_Missile_Launch_Facility_November-33,_Launcher,_State_Highway_200,_Cooperstown,_Griggs_County,_ND_HAER_ND-11-A-25.tif
+- Unknown author | Public domain | https://commons.wikimedia.org/wiki/File:Grand_Forks_Air_Force_Base,_Missile_Launch_Facility_November-33,_Launcher,_State_Highway_200,_Cooperstown,_Griggs_County,_ND_HAER_ND-11-A-9.tif
+- Unknown | CC0 | https://www.metmuseum.org/art/collection/search/37242 (The Met)
+- aotaro from Yokohama, Japan | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Highway_interchange_at_night_(35517755855)_(cropped).jpg
+- Paracas artist(s) | CC0 | https://www.metmuseum.org/art/collection/search/312928 (The Met)
+- Paracas artist(s) | CC0 | https://www.metmuseum.org/art/collection/search/307862 (The Met)
+- Paracas artist(s) | CC0 | https://www.metmuseum.org/art/collection/search/309470 (The Met)
+- Paracas artist(s) | CC0 | https://www.metmuseum.org/art/collection/search/309469 (The Met)
+- Moses Cursor Ssebunya | CC0 1.0 | https://wordpress.org/photos/photo/68687111f2/
+- RubinObs/NOIRLab/SLAC/DOE/NSF/AURA | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Illustration_of_the_Deep_Night_Sky_(rubin-Essentials-hero-image-5).tiff
+- Laura Michels | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:A_Sky_Full_Of_Stars_(187597165).jpeg
+- RubinObs/NOIRLab/SLAC/DOE/NSF/AURA | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Illustration_of_the_Deep_Night_Sky_(rubin-Essentials-hero-image-5).jpg
+- Shenandoah  National Park from Virginia | Public domain | https://commons.wikimedia.org/wiki/File:2017_Night_Sky_Festival_(36760379131).jpg
+- Castellan., Giuliano Zuliani | Public Domain Mark | https://wellcomecollection.org/works/jy2kyhu6 (Wellcome Collection)
+- Johannes Stumpf (1500-1577) | Public domain | https://commons.wikimedia.org/wiki/File:UBBasel_Map_1500-1599_Kartenslg_Schw_A_57.tif
+- Anonymous, German, Basel, 15th century | CC0 | https://www.metmuseum.org/art/collection/search/337743 (The Met)
+- Anonymous, Italian, 16th century | CC0 | https://www.metmuseum.org/art/collection/search/632477 (The Met)
+- Peter Quentel | CC0 | https://www.metmuseum.org/art/collection/search/680785 (The Met)
+- Anonymous, Italian, 15th to 16th century | CC0 | https://www.metmuseum.org/art/collection/search/633013 (The Met)
+- Giovanni Battista Ciotti | CC0 | https://www.metmuseum.org/art/collection/search/661074 (The Met)
+- Peter Quentel | CC0 | https://www.metmuseum.org/art/collection/search/681073 (The Met)
+- Anonymous, German, 16th century | CC0 | https://www.metmuseum.org/art/collection/search/434153 (The Met)
+- Unknown | CC0 | https://www.metmuseum.org/art/collection/search/53684 (The Met)
+- Utagawa Hiroshige | CC0 | https://www.metmuseum.org/art/collection/search/56293 (The Met)
+- Katsushika Hokusai | CC0 | https://www.metmuseum.org/art/collection/search/56175 (The Met)
+- Johannes de Ketham | CC0 | https://www.metmuseum.org/art/collection/search/352478 (The Met)
+- Albrecht Altdorfer | CC0 | https://www.metmuseum.org/art/collection/search/336258 (The Met)
+- Hans Süss von Kulmbach | CC0 | https://www.metmuseum.org/art/collection/search/436835 (The Met)
+- Lucas Cranach the Elder | CC0 | https://www.metmuseum.org/art/collection/search/434549 (The Met)
+- Unknown | CC0 | https://www.metmuseum.org/art/collection/search/463698 (The Met)
+- Bernard Spragg. NZ from Christchurch, New Zealand | CC0 | https://commons.wikimedia.org/wiki/File:Aero_L-39_Albatros_(13897539908).jpg
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:A_U.S._Air_Force_B-26_light_bomber_takes_to_the_sky_on_another_strike_against_Communist_military_targets_as_an..._-_NARA_-_542247.tif
+- U.S. Navy | Public domain | https://commons.wikimedia.org/wiki/File:AD-3W_Skyraider_in_flight_ca_1950.jpg
+- kitmasterbloke | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:US_Whyte_Half-track_supplied_to_France_for_use_in_Vietnam_captured_by_NVA_in_1954.jpg
+- kitmasterbloke | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Soviet_LA4320_Minesweeping_vehicle.jpg
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6482469/png-sticker-public-domain
+- Markus Spiske | CC0 1.0 | https://www.rawpixel.com/image/560212/analog-camera-film-boxes
+- libraryofcongress | CC0 1.0 | https://www.rawpixel.com/image/6319845/film-reels-archival-storage
+- Markus Spiske | CC0 1.0 | https://www.rawpixel.com/image/680866/kosmo-35mm-film
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6481545/png-sticker-vintage
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6431497/vector-sticker-public-domain-illustrations
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/7554005/image-cartoon-illustrations-public-domain
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6480349/image-public-domain-black-illustrations
+- Internet Archive Book Images | No restrictions | https://commons.wikimedia.org/wiki/File:Old_naval_days;_sketches_from_the_life_of_Rear_Admiral_William_Radford,_U._S._N._(1920)_(14761904946).jpg
+- Kevin Dooley from Chandler, AZ, USA | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Is_a_Flickr_image_good_if_its_thumbnail_isn%27t%3F_(1918813544).jpg
+- P. Horálek/ESO | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Surrealistic_view_of_ESO_Headquarters_(upr-img-8065-cc).tiff
+- dsearls | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:2020_01_05_sb-sunset_100.jpg
+- dsearls | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:2020_01_05_sb-sunset_064.jpg
+- dsearls | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:2020_01_05_sb-sunset_050.jpg
+- Karlheinz Klingbeil | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Geneva,_Switzerland,_2026.jpg
+- karlheinz klingbeil | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Geneva,_Switzerland_in_April_2026_2.jpg
+- karlheinz klingbeil | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Geneva_2026.jpg
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/5913514/photo-image-public-domain-interior-free
+- kitmasterbloke | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:282_AN-26_nose.jpg
+- U.S. Navy | Public domain | https://commons.wikimedia.org/wiki/File:Lockheed_R7V-1_of_the_MATS_in_flight.jpg
+- kitmasterbloke | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:VN-C482_IL-14M_VIP_fit_rear.jpg
+- kitmasterbloke | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:64-3198_Cessna_A-37B_Dragonfly_front.jpg
+- kitmasterbloke | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:B-52G_tail_wreck_shot_down_over_Hanoi_181272.jpg
+- kitmasterbloke | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:61-7651_Bell_UH1H_Iroquois.jpg
+- Unknown authorUnknown author | Public domain | https://commons.wikimedia.org/wiki/File:Cpl_C.J._Sheresh_of_Chicago,_IL_loading_a_North_American_F-51_with_.50_caliber_ammunition_at_Taegu,_Korea.-AIR_AND_SPACE_MUSEUM--_77649_AC_HF-SN-98-07272.jpg
+- SpaceX | CC0 | https://commons.wikimedia.org/wiki/File:CRS-9_mission_(28348649546).jpg
+- NASA/Sandra Joseph and Kevin O'Connell | Public domain | https://commons.wikimedia.org/wiki/File:Ares_I-X_launch_08.jpg
+- NASA | public domain | images.nasa.gov
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:Japanese_war_balloon_-_NARA_-_285264.jpg
+- Unknown authorUnknown author or not provided | Public domain | https://commons.wikimedia.org/wiki/File:Japanese_war_balloon_-_NARA_-_285260.jpg
+- Unknown author | Public domain | https://commons.wikimedia.org/wiki/File:The_great_Montgolfier_or_fire_Balloon._Drawn_on_the_spot_at_the_Surry_(Surrey)_zoological_Gardens_-_estampe_-_btv1b85095069.jpg
+- National Museum of the U.S. Navy | Public domain | https://commons.wikimedia.org/wiki/File:342-FH-3B23439_(18156495062).jpg
+- National Museum of the U.S. Navy | Public domain | https://commons.wikimedia.org/wiki/File:342-FH-3B23424_(18156536642).jpg
+- National Museum of the U.S. Navy | Public domain | https://commons.wikimedia.org/wiki/File:342-FH-3B23427_(17537483644).jpg
+- National Museum of the U.S. Navy | Public domain | https://commons.wikimedia.org/wiki/File:342-FH-3B23426_(18160066205).jpg
+- Ansel Adams | Public domain | https://commons.wikimedia.org/wiki/File:Ansel_Adams_-_National_Archives_79-AA-E23.jpg
+- Nelly Volkovich nelly | CC0 | https://commons.wikimedia.org/wiki/File:Green_and_red_polar_lights_(Unsplash).jpg
+- Jodie Wilson from Mountain View, USA | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Northern_Lights!_(247225451).jpg
+- CangemiY | CC0 | https://commons.wikimedia.org/wiki/File:Aurora_in_the_Swedish_Lapland_sky.jpg
+- Giuseppe Milo | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Northern_lights_-_Budir,_Iceland_-_Travel_photography.jpg
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6755571/png-sticker-public-domain
+- United States Air Force (User:Pmsyyz converted JPEG to PNG, added transparency, converted to indexed color) | Public domain | https://commons.wikimedia.org/wiki/File:70th_Intelligence_Wing.png
+- U.S. Air Force photo by Airman 1st Class Luke Nowakowski | Public domain | https://commons.wikimedia.org/wiki/File:743rd_Military_Intelligence_Battalion_celebrates_at_Army_Ball_(2659037).jpeg
+- U.S. Air Force photo by Airman 1st Class Luke Nowakowski | Public domain | https://commons.wikimedia.org/wiki/File:743rd_Military_Intelligence_Battalion_celebrates_at_Army_Ball_(2659031).jpeg
+- U.S. Army photo by Spc. Keli Luangrath | Public domain | https://commons.wikimedia.org/wiki/File:3rd_Military_Intelligence_Battalion,_501st_Brigade_and_296th_Republic_of_Korea_Air_Force_Squadron,_Black_Bats,_Participate_in_Water_Survival_Training_(9661722).jpg
+- Department of Defense. American Forces Information Service. Defense Visual Information Center. 1994 | Public domain | https://commons.wikimedia.org/wiki/File:Artwork-_%22Intelligence_Capabilities_Analysis,_Bean_Counting%22_Artist-_William_Helfenstein,_US_Air_Force_Art_Collection_-_DPLA_-_5f08a42876bf6cd1840c8d2e8cce95a6.jpeg
+- SMSgt John Chapman | Public domain | https://commons.wikimedia.org/wiki/File:U.S._Sen._Joe_Donnelly,_right,_talks_with_Air_Force_Master_Sgt._Damon_Girton,_left,_a_tactical_air_control_party_member_with_the_181st_Intelligence_Wing_(IW),_Indiana_Air_National_Guard,_Aug._28,_2013,_in_Terre_130828-Z-PM441-833.jpg
+- Lamotte-Houdar | CC0 | https://www.metmuseum.org/art/collection/search/698047 (The Met)
+- Katsushika Hokusai | CC0 | https://www.metmuseum.org/art/collection/search/56148 (The Met)
+- Stephen Rahn | CC0 1.0 | https://stocksnap.io/photo/sunset-clouds-HDJ21U07RA
+- Matt Bango | CC0 1.0 | https://stocksnap.io/photo/old-barn-HD6KC1OP4K
+- Bonnie Moreland | CC0 1.0 | https://stocksnap.io/photo/evening-sky-8CKKVO3ASW
+- Mary | CC0 1.0 | https://stocksnap.io/photo/evening-sky-ZQP7BIBVBR
+- Bernard Spragg | CC0 1.0 | https://stocksnap.io/photo/evening-sky-KCFON430WF
+- Bonnie Moreland | CC0 1.0 | https://stocksnap.io/photo/evening-sky-TNGRS6JOH8
+- Sergei Gussev | CC0 1.0 | https://stocksnap.io/photo/evening-sky-YCYUJOMBT0
