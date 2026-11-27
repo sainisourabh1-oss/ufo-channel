@@ -1,0 +1,124 @@
+# Image credits - इंसानी शरीर से निकले एलियन इम्प्लांट्स का सच? (UFO Case)
+
+- The Portable Antiquities Scheme, Greg McSorley, 2015-06-11 11:53:57 | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:MOUNT_(FindID_64510).jpg
+- Unknown authorUnknown author | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_76.20.2_Koma_Ba_Mask_(3).jpg
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/8732310/photo-image-hands-person-man
+- Unknown | CC0 | https://www.metmuseum.org/art/collection/search/42156 (The Met)
+- Kano Tan'yū | CC0 | https://www.metmuseum.org/art/collection/search/53009 (The Met)
+- Unidentified artist | CC0 | https://www.metmuseum.org/art/collection/search/36007 (The Met)
+- Joseph Vigier | CC0 | https://www.metmuseum.org/art/collection/search/289477 (The Met)
+- Utagawa Hiroshige | CC0 | https://www.metmuseum.org/art/collection/search/49928 (The Met)
+- Tani Bunchō | CC0 | https://www.metmuseum.org/art/collection/search/45395 (The Met)
+- George Henry Durrie | CC0 | https://www.metmuseum.org/art/collection/search/10805 (The Met)
+- David from Colorado Springs, United States | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Infrared_HDR_Colorado_Springs_(4490914437).jpg
+- David from Colorado Springs, United States | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Infrared_HDR_St_Bartholomew%27s_church_Hanworth_Norfolk_(7531334490).jpg
+- David from Colorado Springs, United States | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Infrared_HDR_Orlando_Florida_19_Feb_2011_(7426870494).jpg
+- libraryofcongress | CC0 1.0 | https://www.rawpixel.com/image/6993071/photo-image-people-vintage-public-domain
+- The African Union Mission in Somalia | CC0 1.0 | https://www.rawpixel.com/image/3373021/free-photo-image-science-lab-teenager-school
+- The African Union Mission in Somalia | CC0 1.0 | https://www.rawpixel.com/image/3372929/free-photo-image-laboratory-africa-barawe
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/8759379/photo-image-public-domain-woman
+- U.S. Department of Energy | CC0 1.0 | https://www.rawpixel.com/image/3325563/free-photo-image-hijab-microscope-cc0
+- U.S. Army | CC0 1.0 | https://www.rawpixel.com/image/4040209/photo-image-public-domain-mask-coronavirus
+- libraryofcongress | CC0 1.0 | https://www.rawpixel.com/image/6993083/photo-image-people-vintage-public-domain
+- libraryofcongress | CC0 1.0 | https://www.rawpixel.com/image/6737706/image-people-art-microphone
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/11565164/image-paper-skull-art
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/11653132/copenhagen-workers-around-1930-karl-wiener
+- Australian National Maritime Museum on The Commons | No restrictions | https://commons.wikimedia.org/wiki/File:Surf_life_boats_being_towed,_possibly_NORTH_STEYNE_and_CURL_CURL_(7397539730).jpg
+- Ramon Santiago | CC0 | https://commons.wikimedia.org/wiki/File:June_21_2020_Solar_Eclipse_in_Manila_Philippines.jpg
+- Ed Uthman | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Partial_phase_preceding_total_solar_eclipse_of_4_April_2024.jpg
+- Koweret | CC0 | https://commons.wikimedia.org/wiki/File:Solar_Eclipse_2026-08-12_seen_from_Gosport_19.48.52.jpg
+- Andy Li | CC0 | https://commons.wikimedia.org/wiki/File:Solar_eclipse_through_a_colander_2026-08-12_(2).jpg
+- Andy Li | CC0 | https://commons.wikimedia.org/wiki/File:Solar_eclipse_through_a_colander_2026-08-12_(1).jpg
+- Pound, D. J., active 1858-1861. | Public Domain Mark | https://wellcomecollection.org/works/zkxdqjvw (Wellcome Collection)
+- John Emslie | Public Domain Mark | https://wellcomecollection.org/works/dmzeqfcb (Wellcome Collection)
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- Nigel Allinson, University of Lincoln | Attribution 4.0 International (CC BY 4.0) | https://wellcomecollection.org/works/f6vmy8gy (Wellcome Collection)
+- Andreas Vesalius | Public Domain Mark | https://wellcomecollection.org/works/xjwvmjqs (Wellcome Collection)
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- Pavel Petrovich Svinin | CC0 | https://www.metmuseum.org/art/collection/search/12712 (The Met)
+- Utagawa Hiroshige III | CC0 | https://www.metmuseum.org/art/collection/search/55327 (The Met)
+- William Hogarth | CC0 | https://www.metmuseum.org/art/collection/search/399157 (The Met)
+- Friedrich Egermann | CC0 | https://www.metmuseum.org/art/collection/search/208103 (The Met)
+- Adam Perelle | CC0 | https://www.metmuseum.org/art/collection/search/360437 (The Met)
+- Carel Allard | CC0 | https://www.metmuseum.org/art/collection/search/735053 (The Met)
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/7553875/png-people-cartoon
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/6479681/png-sticker-public-domain
+- Tong | CC0 1.0 | https://www.rawpixel.com/image/8686967/image-background-art-vintage
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/5952368/free-public-domain-cc0-photo
+- Unknown | CC0 1.0 | https://www.rawpixel.com/image/5938950/open-book
+- Matt Bango | CC0 1.0 | https://stocksnap.io/photo/open-books-HECYA5SP1L
+- CIRA / NOAA / NESDIS Center for Satellite Applications and Research | Public domain | https://commons.wikimedia.org/wiki/File:20252781520_GOES18-ABI-FL-DayNightCloudMicroCombo-EP152025-2000x2000.jpg
+- CIRA / NOAA / NESDIS Center for Satellite Applications and Research | Public domain | https://commons.wikimedia.org/wiki/File:20252850140_GOES18-ABI-FL-DayNightCloudMicroCombo-EP172025-2000x2000.jpg
+- CIRA / NOAA / NESDIS Center for Satellite Applications and Research | Public domain | https://commons.wikimedia.org/wiki/File:20252830540_GOES19-ABI-FL-DayNightCloudMicroCombo-EP172025-2000x2000.jpg
+- CIRA / NOAA / NESDIS Center for Satellite Applications and Research | Public domain | https://commons.wikimedia.org/wiki/File:20253002330_GOES18-ABI-FL-DayNightCloudMicroCombo-EP182025-2000x2000.jpg
+- CIRA / NOAA / NESDIS Center for Satellite Applications and Research | Public domain | https://commons.wikimedia.org/wiki/File:20253020410_GOES18-ABI-FL-DayNightCloudMicroCombo-EP182025-2000x2000.jpg
+- CIRA / NOAA / NESDIS Center for Satellite Applications and Research | Public domain | https://commons.wikimedia.org/wiki/File:20252821210_GOES18-ABI-FL-DayNightCloudMicroCombo-EP152025-2000x2000.jpg
+- CIRA / NOAA / NESDIS Center for Satellite Applications and Research | Public domain | https://commons.wikimedia.org/wiki/File:20252841820_GOES18-ABI-FL-DayNightCloudMicroCombo-EP172025-2000x2000.jpg
+- CIRA / NOAA / NESDIS Center for Satellite Applications and Research | Public domain | https://commons.wikimedia.org/wiki/File:20252762350_GOES18-ABI-FL-DayNightCloudMicroCombo-EP152025-2000x2000.jpg
+- CIRA / NOAA / NESDIS Center for Satellite Applications and Research | Public domain | https://commons.wikimedia.org/wiki/File:20252830450_GOES19-ABI-FL-DayNightCloudMicroCombo-EP172025-2000x2000.jpg
+- Alfred William Hunt | CC0 | https://www.metmuseum.org/art/collection/search/728488 (The Met)
+- William West | CC0 | https://www.metmuseum.org/art/collection/search/381981 (The Met)
+- Unknown | CC0 | https://www.metmuseum.org/art/collection/search/14741 (The Met)
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- NASA | public domain | images.nasa.gov
+- Kürschner (talk) 13:37, 31 January 2019 (UTC) | Public domain | https://commons.wikimedia.org/wiki/File:Forensic_Methods_for_Hair_and_Fur_Determinations_Vol._II-3_(05).jpg
+- U.S. Department of Homeland Security (DHS) | Public domain | https://commons.wikimedia.org/wiki/File:Secretary_Johnson_Opens_Doors_to_Renovated_State-of-the-Art_Forensic_Laboratory_(28642655672).jpg
+- Kürschner (talk) 13:37, 31 January 2019 (UTC) | Public domain | https://commons.wikimedia.org/wiki/File:Forensic_Methods_for_Hair_and_Fur_Determinations_Vol._II-3_(06).jpg
+- Kürschner (talk) 13:39, 31 January 2019 (UTC) | Public domain | https://commons.wikimedia.org/wiki/File:Forensic_Methods_for_Hair_and_Fur_Determinations_Vol._II-3_(09).jpg
+- Kürschner (talk) 13:38, 31 January 2019 (UTC) | Public domain | https://commons.wikimedia.org/wiki/File:Forensic_Methods_for_Hair_and_Fur_Determinations_Vol._II-3_(08).jpg
+- President (1963-1969 : Johnson). President's Commission on the Assassination of President John F. Kennedy. (11/30/1963 - | Public domain | https://commons.wikimedia.org/wiki/File:CE_2444_FBI_report_of_FBI_Laboratory_examinations_of_various_items_relating_to_the_assassination_(CD_206_pp._45-61)_-_DPLA_-_47b77b5d7cbd4dac000ed812e7c9db3d_(page_3).tiff
+- President (1963-1969 : Johnson). President's Commission on the Assassination of President John F. Kennedy. (11/30/1963 - | Public domain | https://commons.wikimedia.org/wiki/File:CE_2444_FBI_report_of_FBI_Laboratory_examinations_of_various_items_relating_to_the_assassination_(CD_206_pp._45-61)_-_DPLA_-_47b77b5d7cbd4dac000ed812e7c9db3d_(page_22).tiff
+- U.S. Department of Homeland Security (DHS) | Public domain | https://commons.wikimedia.org/wiki/File:Secretary_Johnson_Opens_Doors_to_Renovated_State-of-the-Art_Forensic_Laboratory_(28463490000).jpg
+- President (1963-1969 : Johnson). President's Commission on the Assassination of President John F. Kennedy. (11/30/1963 - | Public domain | https://commons.wikimedia.org/wiki/File:CE_2444_FBI_report_of_FBI_Laboratory_examinations_of_various_items_relating_to_the_assassination_(CD_206_pp._45-61)_-_DPLA_-_47b77b5d7cbd4dac000ed812e7c9db3d_(page_21).tiff
+- Federal Bureau of Investigation | Public domain | https://commons.wikimedia.org/wiki/File:FBI_Laboratory_(2003).jpg
+- Unknown author | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:A_surgeon_treating_a_patient%27s_foot,_in_the_background_anoth_Wellcome_V0016753.jpg
+- Unknown author | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:A_surgeon_treating_a_patient%27s_foot,_in_the_background_anoth_Wellcome_V0016755.jpg
+- Henry Heath, Jazet, Jean Pierre Marie, 1788-1871. | Public Domain Mark | https://wellcomecollection.org/works/x9rhzrpm (Wellcome Collection)
+- Unknown | Public Domain Mark | https://wellcomecollection.org/works/tkrcuztr (Wellcome Collection)
+- Unknown | Public Domain Mark | https://wellcomecollection.org/works/cgupv9dr (Wellcome Collection)
+- James Gillray | Public Domain Mark | https://wellcomecollection.org/works/a7g2df7q (Wellcome Collection)
+- Unknown | Public Domain Mark | https://wellcomecollection.org/works/dntg2sxb (Wellcome Collection)
+- The Leprosy Mission International | Attribution 4.0 International (CC BY 4.0) | https://wellcomecollection.org/works/ckyxkmse (Wellcome Collection)
+- Albert Guillaume | Public Domain Mark | https://wellcomecollection.org/works/xzrwe2sa (Wellcome Collection)
+- Alfred Chantrey Corbould | Public Domain Mark | https://wellcomecollection.org/works/nss26vzz (Wellcome Collection)
+- Internet Archive Book Images | No restrictions | https://commons.wikimedia.org/wiki/File:American_homes_and_gardens_(1911)_(17968486030).jpg
+- Internet Archive Book Images | No restrictions | https://commons.wikimedia.org/wiki/File:Canadian_forest_industries_January-June_1917_(1917)_(19904106424).jpg
+- Internet Archive Book Images | No restrictions | https://commons.wikimedia.org/wiki/File:Canadian_grocer_January-June_1921_(1921)_(14760104421).jpg
+- Gordon-Van Tine Co. | No restrictions | https://commons.wikimedia.org/wiki/File:Gordon-Van_Tine_homes_(1921)_(14595458679).jpg
+- Internet Archive Book Images | No restrictions | https://commons.wikimedia.org/wiki/File:New_England_in_letters_(1904)_(14804540663).jpg
+- Internet Archive Book Images | No restrictions | https://commons.wikimedia.org/wiki/File:Guide_to_the_Palace_of_Westminster_(1911)_(14591297199).jpg
+- Internet Archive Book Images | No restrictions | https://commons.wikimedia.org/wiki/File:Feathered_game_of_the_Northeast_(1907)_(14755145242).jpg
+- Internet Archive Book Images | No restrictions | https://commons.wikimedia.org/wiki/File:American_homes_and_gardens_(1909)_(18153315282).jpg
+- James Crichton-Browne | Public Domain Mark | https://wellcomecollection.org/works/jd2efhsf (Wellcome Collection)
+- James Crichton-Browne | Attribution 4.0 International (CC BY 4.0) | https://wellcomecollection.org/works/jd2efhsf (Wellcome Collection)
+- Jean-Lou Justine, Chahrazed Rahmouni, Delphine Gey, Charlotte Schoelinck, and Eric P. Hoberg | CC BY 2.5 | https://commons.wikimedia.org/wiki/File:Journal.pone.0079155.g001_Slide_of_holotype_of_Lethacotyle_fijiensis_Manter_%26_Prince,_1953.png
+- Mikael Häggström, M.D. Author info - Reusing images- Conflicts of interest:  None
+Mikael Häggström, M.D. | CC0 | https://commons.wikimedia.org/wiki/File:Leica_microscopy_slide_scanner.jpg
+- Иоанна Чернова | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%B5%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D1%8B_%D0%B4%D0%BB%D1%8F_%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B3%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8.jpg
+- Unknown | Public Domain Mark | https://wellcomecollection.org/works/x6wevtzc (Wellcome Collection)
+- Unknown | Public Domain Mark | https://wellcomecollection.org/works/x6wevtzc (Wellcome Collection)
+- Kevin Mackenzie, University of Aberdeen | Attribution 4.0 International (CC BY 4.0) | https://wellcomecollection.org/works/j77hptrt (Wellcome Collection)
+- Unknown | Public Domain Mark | https://wellcomecollection.org/works/x6wevtzc (Wellcome Collection)
+- Kevin Mackenzie, University of Aberdeen | Attribution 4.0 International (CC BY 4.0) | https://wellcomecollection.org/works/nrvwuzwn (Wellcome Collection)
+- Lewis Sayre | Public Domain Mark | https://wellcomecollection.org/works/epx23dvz (Wellcome Collection)
